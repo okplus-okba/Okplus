@@ -7,15 +7,24 @@
       "youtube",
       "promo"
     ],
-    "last_updated": "13.06.2026 00:24"
+    "last_updated": "13.06.2026 00:26"
   },
   "gold": {
     "k24": 117.36,
     "k21": 102.69,
     "k18": 88.02,
-    "updatedAt": "13.06.2026 00:24"
+    "updatedAt": "13.06.2026 00:26"
   },
   "news": [
+    {
+      "ar": "السلام عليكم هذه هي صفحه الاخبار العاجله الرجاء من الاخوه الكرام الذهاب لنا",
+      "de": "Assalamu Alaykum, das ist die Breaking-News-Seite. Bitte, liebe Brüder, geht zu uns",
+      "en": "Assalamu Alaykum, this is the breaking news page. Please, dear brothers, go to us",
+      "tr": "Selamün Aleyküm, bu son dakika haberi sayfası. Lütfen, sevgili kardeşlerim, bize gidin.",
+      "fa": "درود بر شما. این صفحه اخبار فوری است. برادران عزیز، لطفا به ما سر بزنید.",
+      "date": "13.06.2026",
+      "visible": true
+    },
     {
       "ar": "تجسين يحب تحسينه",
       "de": "تجسين يحب تحسينه",
