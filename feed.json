@@ -7,13 +7,13 @@
       "youtube",
       "promo"
     ],
-    "last_updated": "13.06.2026 00:00"
+    "last_updated": "13.06.2026 00:24"
   },
   "gold": {
-    "k24": 66.9,
-    "k21": 3.6,
-    "k18": 90.66,
-    "updatedAt": "13.06.2026 00:00"
+    "k24": 117.36,
+    "k21": 102.69,
+    "k18": 88.02,
+    "updatedAt": "13.06.2026 00:24"
   },
   "news": [
     {
@@ -41,48 +41,48 @@
     }
   ],
   "promo": {
-    "ar": "اعلان تجريبي للمستخدمين مني انا للتجريب",
-    "de": "اعلان تجريبي للمستخدمين مني انا ابو شادي",
-    "en": "اعلان تجريبي للمستخدمين مني انا ابو شادي",
-    "tr": "اعلان تجريبي للمستخدمين مني انا ابو شادي",
-    "fa": "اعلان تجريبي للمستخدمين مني انا ابو شادي",
+    "ar": "هذا تجريب لخانة الاعلان مني",
+    "de": "Dies ist ein Test der Ankündigungsbox von mir",
+    "en": "This is a test of the announcement box from me",
+    "tr": "Bu benden duyuru kutusunun bir testi",
+    "fa": "این یک آزمایش از جعبه تبلیغات من است.",
     "visible": true,
     "active": true
   },
   "youtube": {
     "url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
     "title_ar": "اختبار الجنسيه مني انا",
-    "title_de": "",
-    "title_en": "",
-    "title_tr": "",
-    "title_fa": "",
+    "title_de": "Staatsangehörigkeitstest von mir",
+    "title_en": "Nationality test from me",
+    "title_tr": "Benden vatandaşlık testi",
+    "title_fa": "آزمون شهروندی من",
     "visible": true
   },
   "global": {
     "alert": {
       "visible": false,
       "color": "red",
-      "ar": "مرحبا يا شباب ركض عالتحديث",
-      "de": "",
-      "en": "",
-      "tr": "",
-      "fa": ""
+      "ar": "تجريب لخانة التحديث",
+      "de": "Test-Update-Slot",
+      "en": "Test update slot",
+      "tr": "Test güncelleme yuvası",
+      "fa": "تست جعبه به‌روزرسانی"
     },
     "tip_of_day": {
       "visible": true,
-      "ar": "نصيحه اليوم ركض",
-      "de": "",
-      "en": "",
-      "tr": "",
-      "fa": ""
+      "ar": "تجريب لخانة النصيحه اليوميه",
+      "de": "Tägliche Tipp-Slot-Testversion",
+      "en": "Daily Tip Slot Trial",
+      "tr": "Günlük Bahşiş Yuvası Denemesi",
+      "fa": "با بخش توصیه‌های روزانه آزمایش کنید"
     },
     "splash_msg": {
       "visible": true,
-      "ar": "سبلاش اليوم ركض",
-      "de": "",
-      "en": "",
-      "tr": "",
-      "fa": ""
+      "ar": "اهلا  و سهلا بكم",
+      "de": "Willkommen",
+      "en": "Welcome.",
+      "tr": "Hoş geldiniz",
+      "fa": "خوش آمدید"
     }
   },
   "cards": {
