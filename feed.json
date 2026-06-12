@@ -7,13 +7,13 @@
       "youtube",
       "promo"
     ],
-    "last_updated": "12.06.2026 22:44"
+    "last_updated": "12.06.2026 23:58"
   },
   "gold": {
     "k24": 66.9,
     "k21": 3.6,
     "k18": 90.66,
-    "updatedAt": "12.06.2026 22:44"
+    "updatedAt": "12.06.2026 23:58"
   },
   "news": [
     {
@@ -60,7 +60,7 @@
   },
   "global": {
     "alert": {
-      "visible": true,
+      "visible": false,
       "color": "red",
       "ar": "مرحبا يا شباب ركض عالتحديث",
       "de": "",
