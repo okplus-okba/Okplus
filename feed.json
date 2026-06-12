@@ -1,20 +1,30 @@
 {
   "meta": {
     "sections_order": [
+      "news",
       "gold",
       "tip",
-      "news",
-      "promo",
-      "youtube"
+      "youtube",
+      "promo"
     ],
-    "last_updated": "12.06.2026 21:30"
+    "last_updated": "12.06.2026 22:08"
   },
   "gold": {
-    "buy": 155.0,
-    "sell": 166.0,
-    "updatedAt": "12.06.2026  18:37"
+    "k24": 0.0,
+    "k21": 0.0,
+    "k18": 0.0,
+    "updatedAt": "12.06.2026 22:08"
   },
   "news": [
+    {
+      "ar": "تجسين يحب تحسينه",
+      "de": "تجسين يحب تحسينه",
+      "en": "تجسين يحب تحسينه",
+      "tr": "تجسين يحب تحسينه",
+      "fa": "تجسين يحب تحسينه",
+      "date": "1.1.1989",
+      "visible": true
+    },
     {
       "ar": "سيرتفع اليوم كل اسعار الديزل",
       "de": "سيرتفع اليوم كل اسعار الديزل",
@@ -92,19 +102,19 @@
       "youtube_url": "",
       "youtube_visible": false,
       "alert": "اعانة الاطفال مكتوب",
-      "alert_visible": false
+      "alert_visible": true
     },
     "alg1": {
       "youtube_url": "",
       "youtube_visible": false,
       "alert": "اعانة البطاله",
-      "alert_visible": false
+      "alert_visible": true
     },
     "verkehr": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
-      "alert": "اعانة البطالة يمكن",
-      "alert_visible": false
+      "alert": "مخالفات السيارات",
+      "alert_visible": true
     }
   }
 }
