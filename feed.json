@@ -1,13 +1,13 @@
 {
   "meta": {
     "sections_order": [
-      "news",
       "gold",
+      "tip",
+      "news",
       "promo",
-      "youtube",
-      "tip"
+      "youtube"
     ],
-    "last_updated": "12.06.2026 21:17"
+    "last_updated": "12.06.2026 21:30"
   },
   "gold": {
     "buy": 155.0,
@@ -50,25 +50,25 @@
   },
   "global": {
     "alert": {
-      "visible": false,
-      "ar": "",
+      "visible": true,
+      "color": "red",
+      "ar": "مرحبا يا شباب ركض عالتحديث",
       "de": "",
       "en": "",
       "tr": "",
-      "fa": "",
-      "color": "red"
+      "fa": ""
     },
     "tip_of_day": {
-      "visible": false,
-      "ar": "",
+      "visible": true,
+      "ar": "نصيحه اليوم ركض",
       "de": "",
       "en": "",
       "tr": "",
       "fa": ""
     },
     "splash_msg": {
-      "visible": false,
-      "ar": "",
+      "visible": true,
+      "ar": "سبلاش اليوم ركض",
       "de": "",
       "en": "",
       "tr": "",
@@ -77,34 +77,34 @@
   },
   "cards": {
     "netto": {
-      "youtube_url": "",
-      "alert": "",
-      "alert_visible": false,
-      "youtube_visible": false
+      "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
+      "youtube_visible": true,
+      "alert": "تنبيه مواسمي ما اعرف قصدة",
+      "alert_visible": true
     },
     "wohngeld": {
       "youtube_url": "",
-      "alert": "",
-      "alert_visible": false,
-      "youtube_visible": false
+      "youtube_visible": false,
+      "alert": "تنبيه فون غيلد",
+      "alert_visible": true
     },
     "elterngeld": {
       "youtube_url": "",
-      "alert": "",
-      "alert_visible": false,
-      "youtube_visible": false
+      "youtube_visible": false,
+      "alert": "اعانة الاطفال مكتوب",
+      "alert_visible": false
     },
     "alg1": {
       "youtube_url": "",
-      "alert": "",
-      "alert_visible": false,
-      "youtube_visible": false
+      "youtube_visible": false,
+      "alert": "اعانة البطاله",
+      "alert_visible": false
     },
     "verkehr": {
-      "youtube_url": "",
-      "alert": "",
-      "alert_visible": false,
-      "youtube_visible": false
+      "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
+      "youtube_visible": true,
+      "alert": "اعانة البطالة يمكن",
+      "alert_visible": false
     }
   }
 }
