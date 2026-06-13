@@ -7,13 +7,13 @@
       "youtube",
       "promo"
     ],
-    "last_updated": "13.06.2026 00:26"
+    "last_updated": "13.06.2026 08:11"
   },
   "gold": {
     "k24": 117.36,
     "k21": 102.69,
     "k18": 88.02,
-    "updatedAt": "13.06.2026 00:26"
+    "updatedAt": "13.06.2026 08:11"
   },
   "news": [
     {
@@ -69,13 +69,13 @@
   },
   "global": {
     "alert": {
-      "visible": false,
+      "visible": true,
       "color": "red",
-      "ar": "تجريب لخانة التحديث",
-      "de": "Test-Update-Slot",
-      "en": "Test update slot",
-      "tr": "Test güncelleme yuvası",
-      "fa": "تست جعبه به‌روزرسانی"
+      "ar": "الرجاء تحديث التطبيق",
+      "de": "Bitte aktualisieren Sie die App",
+      "en": "Please update the app",
+      "tr": "Lütfen uygulamayı güncelleyin",
+      "fa": "لطفا برنامه را به‌روزرسانی کنید"
     },
     "tip_of_day": {
       "visible": true,
