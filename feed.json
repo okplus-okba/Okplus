@@ -7,13 +7,13 @@
       "youtube",
       "promo"
     ],
-    "last_updated": "13.06.2026 08:17"
+    "last_updated": "13.06.2026 17:02"
   },
   "gold": {
     "k24": 117.36,
     "k21": 102.69,
     "k18": 88.02,
-    "updatedAt": "13.06.2026 08:17"
+    "updatedAt": "13.06.2026 17:02"
   },
   "news": [
     {
@@ -95,34 +95,55 @@
     }
   },
   "cards": {
+    "antraege_pdf": "",
     "netto": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
       "alert": "تنبيه مواسمي ما اعرف قصدة",
+      "alert_de": "Saisonalarm Ich weiß nicht, was das bedeutet",
+      "alert_en": "Seasonal Alert I don't know what it means",
+      "alert_tr": "Mevsimsel Uyarı Ne anlama geldiğini bilmiyorum",
+      "alert_fa": "هشدار فصلی، نمی‌دونم منظورش چیه",
       "alert_visible": true
     },
     "wohngeld": {
       "youtube_url": "",
       "youtube_visible": false,
       "alert": "تنبيه فون غيلد",
+      "alert_de": "Von-Gilden-Alarm",
+      "alert_en": "Von Guild Alert",
+      "alert_tr": "Von Loncası Uyarısı",
+      "alert_fa": "هشدار فون گلد",
       "alert_visible": true
     },
     "elterngeld": {
       "youtube_url": "",
       "youtube_visible": false,
       "alert": "اعانة الاطفال مكتوب",
+      "alert_de": "",
+      "alert_en": "",
+      "alert_tr": "",
+      "alert_fa": "",
       "alert_visible": true
     },
     "alg1": {
       "youtube_url": "",
       "youtube_visible": false,
       "alert": "اعانة البطاله",
+      "alert_de": "",
+      "alert_en": "",
+      "alert_tr": "",
+      "alert_fa": "",
       "alert_visible": true
     },
     "verkehr": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
       "alert": "مخالفات السيارات",
+      "alert_de": "",
+      "alert_en": "",
+      "alert_tr": "",
+      "alert_fa": "",
       "alert_visible": true
     }
   }
