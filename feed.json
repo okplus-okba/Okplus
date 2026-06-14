@@ -7,15 +7,25 @@
       "youtube",
       "promo"
     ],
-    "last_updated": "13.06.2026 17:02"
+    "last_updated": "14.06.2026 22:06"
   },
   "gold": {
     "k24": 117.36,
     "k21": 102.69,
     "k18": 88.02,
-    "updatedAt": "13.06.2026 17:02"
+    "updatedAt": "14.06.2026 22:06"
   },
   "news": [
+    {
+      "ar": "خبر جديد عن وصول اعداد من الاجئين",
+      "de": "Neue Nachrichten über die Ankunft der Flüchtlingszahlen",
+      "en": "New news about the arrival of numbers of refugees",
+      "tr": "Mülteci sayılarının gelişiyle ilgili yeni haberler",
+      "fa": "گزارش‌های جدید حاکی از ورود تعدادی از پناهندگان است.",
+      "ru": "Новая новость о прибытии беженцев",
+      "date": "14.06.2026",
+      "visible": true
+    },
     {
       "ar": "السلام عليكم هذه هي صفحه الاخبار العاجله انا سأكتب لكم كل جديد هنا .",
       "de": "Assalamu Alaykum, das ist die Breaking-News-Seite. Bitte, liebe Brüder, geht zu uns",
@@ -55,6 +65,7 @@
     "en": "This is a test of the announcement box from me",
     "tr": "Bu benden duyuru kutusunun bir testi",
     "fa": "این یک آزمایش از جعبه تبلیغات من است.",
+    "ru": "",
     "visible": true,
     "active": true
   },
@@ -65,6 +76,7 @@
     "title_en": "Nationality test from me",
     "title_tr": "Benden vatandaşlık testi",
     "title_fa": "آزمون شهروندی من",
+    "title_ru": "",
     "visible": true
   },
   "global": {
@@ -75,7 +87,8 @@
       "de": "Bitte aktualisieren Sie die App",
       "en": "Please update the app",
       "tr": "Lütfen uygulamayı güncelleyin",
-      "fa": "لطفا برنامه را به‌روزرسانی کنید"
+      "fa": "لطفا برنامه را به‌روزرسانی کنید",
+      "ru": ""
     },
     "tip_of_day": {
       "visible": true,
@@ -83,7 +96,8 @@
       "de": "Tägliche Tipp-Slot-Testversion",
       "en": "Daily Tip Slot Trial",
       "tr": "Günlük Bahşiş Yuvası Denemesi",
-      "fa": "با بخش توصیه‌های روزانه آزمایش کنید"
+      "fa": "با بخش توصیه‌های روزانه آزمایش کنید",
+      "ru": ""
     },
     "splash_msg": {
       "visible": true,
@@ -91,11 +105,22 @@
       "de": "Willkommen",
       "en": "Welcome.",
       "tr": "Hoş geldiniz",
-      "fa": "خوش آمدید"
+      "fa": "خوش آمدید",
+      "ru": ""
     }
   },
   "cards": {
-    "antraege_pdf": "",
+    "kindergeld_pdf": "",
+    "ha_pdf": "",
+    "wba_pdf": "",
+    "kinderzuschlag_pdf": "",
+    "kurzantrag_pdf": "",
+    "kinderzuschlag_online_pdf": "",
+    "wohngeld_pdf": "",
+    "anlage_ek_pdf": "",
+    "elterngeld_pdf": "",
+    "familienversicherung_pdf": "",
+    "einbuergerung_pdf": "",
     "netto": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
@@ -104,6 +129,7 @@
       "alert_en": "Seasonal Alert I don't know what it means",
       "alert_tr": "Mevsimsel Uyarı Ne anlama geldiğini bilmiyorum",
       "alert_fa": "هشدار فصلی، نمی‌دونم منظورش چیه",
+      "alert_ru": "",
       "alert_visible": true
     },
     "wohngeld": {
@@ -114,6 +140,7 @@
       "alert_en": "Von Guild Alert",
       "alert_tr": "Von Loncası Uyarısı",
       "alert_fa": "هشدار فون گلد",
+      "alert_ru": "",
       "alert_visible": true
     },
     "elterngeld": {
@@ -124,6 +151,7 @@
       "alert_en": "",
       "alert_tr": "",
       "alert_fa": "",
+      "alert_ru": "",
       "alert_visible": true
     },
     "alg1": {
@@ -134,6 +162,7 @@
       "alert_en": "",
       "alert_tr": "",
       "alert_fa": "",
+      "alert_ru": "",
       "alert_visible": true
     },
     "verkehr": {
@@ -144,6 +173,7 @@
       "alert_en": "",
       "alert_tr": "",
       "alert_fa": "",
+      "alert_ru": "",
       "alert_visible": true
     }
   }
