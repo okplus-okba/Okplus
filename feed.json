@@ -7,13 +7,13 @@
       "youtube",
       "promo"
     ],
-    "last_updated": "14.06.2026 22:12"
+    "last_updated": "14.06.2026 22:52"
   },
   "gold": {
     "k24": 116.93,
     "k21": 102.69,
     "k18": 88.02,
-    "updatedAt": "14.06.2026 22:12"
+    "updatedAt": "14.06.2026 22:52"
   },
   "news": [
     {
@@ -81,7 +81,7 @@
   },
   "global": {
     "alert": {
-      "visible": true,
+      "visible": false,
       "color": "green",
       "ar": "لا تحدث",
       "de": "Bitte aktualisieren Sie die App",
