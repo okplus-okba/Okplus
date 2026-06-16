@@ -1,19 +1,19 @@
 {
   "meta": {
     "sections_order": [
-      "news",
+      "promo",
       "gold",
+      "news",
       "tip",
-      "youtube",
-      "promo"
+      "youtube"
     ],
-    "last_updated": "16.06.2026 15:54"
+    "last_updated": "16.06.2026 19:20"
   },
   "gold": {
     "k24": 116.93,
     "k21": 102.69,
     "k18": 88.02,
-    "updatedAt": "16.06.2026 15:54"
+    "updatedAt": "16.06.2026 19:20"
   },
   "news": [
     {
@@ -71,12 +71,12 @@
   },
   "youtube": {
     "url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
-    "title_ar": "اختبار الجنسيه مني انا",
-    "title_de": "Staatsangehörigkeitstest von mir",
-    "title_en": "Nationality test from me",
-    "title_tr": "Benden vatandaşlık testi",
-    "title_fa": "آزمون شهروندی من",
-    "title_ru": "",
+    "title_ar": "نشرح هنا اختبار الجنسية الألمانيه الجديد",
+    "title_de": "Hier erläutern wir den neuen deutschen Staatsbürgerschaftstest",
+    "title_en": "Here we explain the new German citizenship test",
+    "title_tr": "Burada yeni Alman vatandaşlık testini açıklıyoruz",
+    "title_fa": "در اینجا آزمون جدید شهروندی آلمان را توضیح می‌دهیم",
+    "title_ru": "Здесь мы объясняем новый тест на немецкое гражданство",
     "visible": true
   },
   "global": {
@@ -110,70 +110,70 @@
     }
   },
   "cards": {
-    "kindergeld_pdf": "",
-    "ha_pdf": "",
-    "wba_pdf": "",
-    "kinderzuschlag_pdf": "",
-    "kurzantrag_pdf": "",
-    "kinderzuschlag_online_pdf": "",
-    "wohngeld_pdf": "",
-    "anlage_ek_pdf": "",
-    "elterngeld_pdf": "",
-    "familienversicherung_pdf": "",
-    "einbuergerung_pdf": "",
+    "kindergeld_pdf": "https://youtu.be/2kOe1naNK-k?si=A0RDkniAwZ66iLFf",
+    "ha_pdf": "https://youtu.be/HUPFwsZtx6E?si=Uj6fF4W5csGSvZO2",
+    "wba_pdf": "https://youtu.be/2A-iRv-I7fo?si=rGELMEqTdE6g_IEH",
+    "kinderzuschlag_pdf": "https://youtu.be/9aggooROoTg?si=ItcaGqaiMnJL8pgb",
+    "kurzantrag_pdf": "https://youtu.be/W_GZ4-yDT74?si=0nmpnlNsgvsXDY36",
+    "kinderzuschlag_online_pdf": "https://youtu.be/52H46hhKe4w?si=Qms-xJMYJCBD4KcC",
+    "wohngeld_pdf": "https://youtu.be/4fCq3BZRNVc?si=lEtxhjnPdhrf0vbs",
+    "anlage_ek_pdf": "https://youtu.be/Sj8nWuboKX8?si=2R86TYmN4_X4UJpO",
+    "elterngeld_pdf": "https://youtu.be/TjWSwfx9wpM?si=iL4YAFLUJfTwY0C4",
+    "familienversicherung_pdf": "https://youtu.be/PjN7z0T_Sp4?si=maYguyPC9Ptd5lsv",
+    "einbuergerung_pdf": "https://youtu.be/iVv0ce_2lZg?si=Y_sUyaJTFbt0BNac",
     "netto": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
-      "alert": "تنبيه مواسمي ما اعرف قصدة",
-      "alert_de": "Saisonalarm Ich weiß nicht, was das bedeutet",
-      "alert_en": "Seasonal Alert I don't know what it means",
-      "alert_tr": "Mevsimsel Uyarı Ne anlama geldiğini bilmiyorum",
-      "alert_fa": "هشدار فصلی، نمی‌دونم منظورش چیه",
-      "alert_ru": "",
+      "alert": "احسب راتبك الصافي و مع الضرائب",
+      "alert_de": "Berechnen Sie Ihr Nettogehalt und Ihre Steuern",
+      "alert_en": "Calculate your net salary and taxes",
+      "alert_tr": "Net maaşınızı ve vergilerinizi hesaplayın",
+      "alert_fa": "حقوق خالص خود را با احتساب مالیات محاسبه کنید",
+      "alert_ru": "Рассчитайте чистую зарплату и налоги",
       "alert_visible": true
     },
     "wohngeld": {
-      "youtube_url": "",
-      "youtube_visible": false,
-      "alert": "تنبيه فون غيلد",
-      "alert_de": "Von-Gilden-Alarm",
-      "alert_en": "Von Guild Alert",
-      "alert_tr": "Von Loncası Uyarısı",
-      "alert_fa": "هشدار فون گلد",
-      "alert_ru": "",
+      "youtube_url": "https://youtu.be/4fCq3BZRNVc?si=QQkleOvks9Kr_EKC",
+      "youtube_visible": true,
+      "alert": "هل تستحق الحصول على مساعدة السكن ؟",
+      "alert_de": "Hat sie Anspruch auf Wohngeld?",
+      "alert_en": "Is she eligible for housing assistance?",
+      "alert_tr": "Barınma yardımı almaya uygun mu?",
+      "alert_fa": "آیا واجد شرایط دریافت کمک هزینه مسکن هستید؟",
+      "alert_ru": "Имеет ли она право на получение жилищной помощи?",
       "alert_visible": true
     },
     "elterngeld": {
-      "youtube_url": "",
-      "youtube_visible": false,
-      "alert": "اعانة الاطفال مكتوب",
-      "alert_de": "",
-      "alert_en": "",
-      "alert_tr": "",
-      "alert_fa": "",
-      "alert_ru": "",
+      "youtube_url": "https://youtu.be/TjWSwfx9wpM?si=58xZVWgpQsu4ENV9",
+      "youtube_visible": true,
+      "alert": "هل تستحق الحصول على اعانة الاطفال ؟",
+      "alert_de": "Hat sie Anspruch auf Kindergeld?",
+      "alert_en": "Is she eligible for child benefit?",
+      "alert_tr": "Çocuk yardımına hak kazanıyor mu?",
+      "alert_fa": "آیا شما حق دریافت کمک هزینه فرزند را دارید؟",
+      "alert_ru": "Имеет ли она право на пособие на ребенка?",
       "alert_visible": true
     },
     "alg1": {
-      "youtube_url": "",
-      "youtube_visible": false,
-      "alert": "اعانة البطاله",
-      "alert_de": "",
-      "alert_en": "",
-      "alert_tr": "",
-      "alert_fa": "",
-      "alert_ru": "",
+      "youtube_url": "https://youtube.com/shorts/K88Rr0mWUmQ?si=uWS1EZ0cQFMaG8Re",
+      "youtube_visible": true,
+      "alert": "هل يحق لك الحصول على مبلغ من  دائرة  اعانة البطاله ؟",
+      "alert_de": "Haben Sie Anspruch auf einen Betrag aus dem Arbeitslosengeld?",
+      "alert_en": "Are you entitled to an amount from the Unemployment Benefit Department?",
+      "alert_tr": "İşsizlik Yardımı Departmanından bir miktar almaya hakkınız var mı?",
+      "alert_fa": "آیا شما واجد شرایط دریافت مبلغی از اداره مزایای بیکاری هستید؟",
+      "alert_ru": "Имеете ли вы право на получение суммы от  Департамента пособий по  безработице?",
       "alert_visible": true
     },
     "verkehr": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
-      "alert": "مخالفات السيارات",
-      "alert_de": "",
-      "alert_en": "",
-      "alert_tr": "",
-      "alert_fa": "",
-      "alert_ru": "",
+      "alert": "احسب مخالفتك بشكل سهل وسريع",
+      "alert_de": "Berechnen Sie Ihren Verstoß einfach und schnell",
+      "alert_en": "Calculate your violation easily and quickly",
+      "alert_tr": "İhlalinizi kolay ve hızlı bir şekilde hesaplayın",
+      "alert_fa": "جریمه خود را به راحتی و به سرعت محاسبه کنید",
+      "alert_ru": "Легко и быстро рассчитайте свое нарушение",
       "alert_visible": true
     }
   }
