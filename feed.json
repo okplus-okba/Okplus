@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "17.06.2026 19:20"
+    "last_updated": "17.06.2026 20:41"
   },
   "gold": {
     "k24": 116.93,
     "k21": 102.69,
     "k18": 88.02,
-    "updatedAt": "17.06.2026 19:20"
+    "updatedAt": "17.06.2026 20:41"
   },
   "news": [
     {
@@ -81,14 +81,14 @@
   },
   "global": {
     "alert": {
-      "visible": false,
-      "color": "green",
-      "ar": "لا تحدث",
-      "de": "Bitte aktualisieren Sie die App",
-      "en": "Please update the app",
-      "tr": "Lütfen uygulamayı güncelleyin",
-      "fa": "لطفا برنامه را به‌روزرسانی کنید",
-      "ru": ""
+      "visible": true,
+      "color": "red",
+      "ar": "انتقل لمتجر التطبيقات لتحديث التطبيق .",
+      "de": "Gehe zum App Store, um die App zu aktualisieren.",
+      "en": "Go to the app store to update the app .",
+      "tr": "Uygulamayı güncellemek için uygulama mağazasına gidin.",
+      "fa": "برای به‌روزرسانی برنامه به اپ استور مراجعه کنید.",
+      "ru": "Перейдите в магазин приложений, чтобы обновить приложение ."
     },
     "tip_of_day": {
       "visible": true,
