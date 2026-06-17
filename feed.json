@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "17.06.2026 20:41"
+    "last_updated": "18.06.2026 01:34"
   },
   "gold": {
     "k24": 116.93,
     "k21": 102.69,
     "k18": 88.02,
-    "updatedAt": "17.06.2026 20:41"
+    "updatedAt": "18.06.2026 01:34"
   },
   "news": [
     {
@@ -63,9 +63,10 @@
     "ar": "هذا تجريب لخانة الاعلان مني",
     "de": "Dies ist ein Test der Ankündigungsbox von mir",
     "en": "This is a test of the announcement box from me",
+    "uk": "هذا تجريب لخانة الاعلان مني",
     "tr": "Bu benden duyuru kutusunun bir testi",
     "fa": "این یک آزمایش از جعبه تبلیغات من است.",
-    "ru": "",
+    "ru": "هذا تجريب لخانة الاعلان مني",
     "visible": true,
     "active": true
   },
@@ -74,6 +75,7 @@
     "title_ar": "نشرح هنا اختبار الجنسية الألمانيه الجديد",
     "title_de": "Hier erläutern wir den neuen deutschen Staatsbürgerschaftstest",
     "title_en": "Here we explain the new German citizenship test",
+    "title_uk": "",
     "title_tr": "Burada yeni Alman vatandaşlık testini açıklıyoruz",
     "title_fa": "در اینجا آزمون جدید شهروندی آلمان را توضیح می‌دهیم",
     "title_ru": "Здесь мы объясняем новый тест на немецкое гражданство",
@@ -86,6 +88,7 @@
       "ar": "انتقل لمتجر التطبيقات لتحديث التطبيق .",
       "de": "Gehe zum App Store, um die App zu aktualisieren.",
       "en": "Go to the app store to update the app .",
+      "uk": "",
       "tr": "Uygulamayı güncellemek için uygulama mağazasına gidin.",
       "fa": "برای به‌روزرسانی برنامه به اپ استور مراجعه کنید.",
       "ru": "Перейдите в магазин приложений, чтобы обновить приложение ."
@@ -95,6 +98,7 @@
       "ar": "تجريب لخانة النصيحه اليوميه",
       "de": "Tägliche Tipp-Slot-Testversion",
       "en": "Daily Tip Slot Trial",
+      "uk": "",
       "tr": "Günlük Bahşiş Yuvası Denemesi",
       "fa": "با بخش توصیه‌های روزانه آزمایش کنید",
       "ru": ""
@@ -104,6 +108,7 @@
       "ar": "اهلا  و سهلا بكم",
       "de": "Willkommen",
       "en": "Welcome.",
+      "uk": "",
       "tr": "Hoş geldiniz",
       "fa": "خوش آمدید",
       "ru": ""
@@ -125,56 +130,151 @@
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
       "alert": "احسب راتبك الصافي و مع الضرائب",
+      "alert_visible": true,
       "alert_de": "Berechnen Sie Ihr Nettogehalt und Ihre Steuern",
       "alert_en": "Calculate your net salary and taxes",
+      "alert_uk": "",
       "alert_tr": "Net maaşınızı ve vergilerinizi hesaplayın",
       "alert_fa": "حقوق خالص خود را با احتساب مالیات محاسبه کنید",
-      "alert_ru": "Рассчитайте чистую зарплату и налоги",
-      "alert_visible": true
+      "alert_ru": "Рассчитайте чистую зарплату и налоги"
     },
     "wohngeld": {
       "youtube_url": "https://youtu.be/4fCq3BZRNVc?si=QQkleOvks9Kr_EKC",
       "youtube_visible": true,
       "alert": "هل تستحق الحصول على مساعدة السكن ؟",
+      "alert_visible": true,
       "alert_de": "Hat sie Anspruch auf Wohngeld?",
       "alert_en": "Is she eligible for housing assistance?",
+      "alert_uk": "",
       "alert_tr": "Barınma yardımı almaya uygun mu?",
       "alert_fa": "آیا واجد شرایط دریافت کمک هزینه مسکن هستید؟",
-      "alert_ru": "Имеет ли она право на получение жилищной помощи?",
-      "alert_visible": true
+      "alert_ru": "Имеет ли она право на получение жилищной помощи?"
     },
     "elterngeld": {
       "youtube_url": "https://youtu.be/TjWSwfx9wpM?si=58xZVWgpQsu4ENV9",
       "youtube_visible": true,
       "alert": "هل تستحق الحصول على اعانة الاطفال ؟",
+      "alert_visible": true,
       "alert_de": "Hat sie Anspruch auf Kindergeld?",
       "alert_en": "Is she eligible for child benefit?",
+      "alert_uk": "",
       "alert_tr": "Çocuk yardımına hak kazanıyor mu?",
       "alert_fa": "آیا شما حق دریافت کمک هزینه فرزند را دارید؟",
-      "alert_ru": "Имеет ли она право на пособие на ребенка?",
-      "alert_visible": true
+      "alert_ru": "Имеет ли она право на пособие на ребенка?"
     },
     "alg1": {
       "youtube_url": "https://youtube.com/shorts/K88Rr0mWUmQ?si=uWS1EZ0cQFMaG8Re",
       "youtube_visible": true,
       "alert": "هل يحق لك الحصول على مبلغ من  دائرة  اعانة البطاله ؟",
+      "alert_visible": true,
       "alert_de": "Haben Sie Anspruch auf einen Betrag aus dem Arbeitslosengeld?",
       "alert_en": "Are you entitled to an amount from the Unemployment Benefit Department?",
+      "alert_uk": "",
       "alert_tr": "İşsizlik Yardımı Departmanından bir miktar almaya hakkınız var mı?",
       "alert_fa": "آیا شما واجد شرایط دریافت مبلغی از اداره مزایای بیکاری هستید؟",
-      "alert_ru": "Имеете ли вы право на получение суммы от  Департамента пособий по  безработице?",
-      "alert_visible": true
+      "alert_ru": "Имеете ли вы право на получение суммы от  Департамента пособий по  безработице?"
     },
     "verkehr": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
       "alert": "احسب مخالفتك بشكل سهل وسريع",
+      "alert_visible": true,
       "alert_de": "Berechnen Sie Ihren Verstoß einfach und schnell",
       "alert_en": "Calculate your violation easily and quickly",
+      "alert_uk": "",
       "alert_tr": "İhlalinizi kolay ve hızlı bir şekilde hesaplayın",
       "alert_fa": "جریمه خود را به راحتی و به سرعت محاسبه کنید",
-      "alert_ru": "Легко и быстро рассчитайте свое нарушение",
-      "alert_visible": true
+      "alert_ru": "Легко и быстро рассчитайте свое нарушение"
+    }
+  },
+  "pro": {
+    "meta": {
+      "order": [
+        "alert",
+        "videos",
+        "news",
+        "files",
+        "parties"
+      ]
+    },
+    "alert": {
+      "visible": true,
+      "color": "red",
+      "ar": "هذا تنبيه تجريبي لبرو",
+      "de": "Dies ist ein Testalarm für Prue",
+      "en": "This is a test alert for Prue",
+      "uk": "Це тестове сповіщення для Prue",
+      "tr": "Bu, Prue için bir test uyarısıdır",
+      "fa": "این یک هشدار آزمایشی برای نسخه پرو است",
+      "ru": "Это тестовое оповещение для Prue"
+    },
+    "news": {
+      "visible": true,
+      "items": [
+        {
+          "ar": "خبر جديد ننشرة اليوم لكم",
+          "de": "Neue Nachrichten, die heutigen Nachrichten sind für Sie",
+          "en": "New news, today's news is for you",
+          "uk": "Нові новини, сьогоднішні новини для вас",
+          "tr": "Yeni haberler, bugünün haberleri sizin için",
+          "fa": "خبر جدیدی که امروز برای شما منتشر می‌کنیم",
+          "ru": "Новая новость, сегодняшняя новость для вас",
+          "visible": true,
+          "date": "18.06.2026"
+        }
+      ]
+    },
+    "videos": {
+      "visible": true,
+      "items": [
+        {
+          "title_ar": "فيديو تجريبي لقسم برو",
+          "title_de": "Pro-Abschnitt Demo-Video",
+          "title_en": "Pro section demo video",
+          "title_uk": "Демонстраційне відео розділу Pro",
+          "title_tr": "Profesyonel bölüm demo videosu",
+          "title_fa": "ویدیوی نسخه آزمایشی بخش حرفه‌ای",
+          "title_ru": "Демонстрационное видео о профессиональном разделе",
+          "visible": true,
+          "url": "https://youtu.be/kqQFryAIfTQ?si=kzEjYCOjuayCdJHy"
+        }
+      ]
+    },
+    "files": {
+      "visible": true,
+      "items": [
+        {
+          "name_ar": "مشان اجرب",
+          "name_de": "Zum Ausprobieren",
+          "name_en": "To try",
+          "name_uk": "Спробувати",
+          "name_tr": "Denemek için",
+          "name_fa": "پس میتونم تلاش کنم",
+          "name_ru": "Попробовать",
+          "visible": true,
+          "url": "https://youtu.be/kqQFryAIfTQ?si=kzEjYCOjuayCdJHy"
+        }
+      ]
+    },
+    "parties": {
+      "visible": true,
+      "items": [
+        {
+          "name": "csu",
+          "url": "",
+          "visible": true
+        },
+        {
+          "name": "cdu",
+          "url": "",
+          "visible": true
+        },
+        {
+          "name": "spd",
+          "url": "",
+          "visible": true
+        }
+      ]
     }
   }
 }
