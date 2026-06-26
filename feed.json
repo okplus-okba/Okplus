@@ -7,41 +7,46 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "25.06.2026 11:36"
+    "last_updated": "26.06.2026 12:42"
   },
   "gold": {
-    "k24": 113.17,
-    "k21": 99.03,
-    "k18": 84.88,
-    "updatedAt": "25.06.2026 11:36"
+    "k24": 114.11,
+    "k21": 99.85,
+    "k18": 85.58,
+    "updatedAt": "26.06.2026 12:42"
   },
   "news": [
     {
-      "ar": "خبر جديد عن وصول اعداد من الاجئين",
-      "de": "Neue Nachrichten über die Ankunft der Flüchtlingszahlen",
-      "en": "New news about the arrival of numbers of refugees",
-      "tr": "Mülteci sayılarının gelişiyle ilgili yeni haberler",
-      "fa": "گزارش‌های جدید حاکی از ورود تعدادی از پناهندگان است.",
-      "ru": "Новая новость о прибытии беженцев",
-      "date": "14.06.2026",
+      "ar": "من المتوقع تسجيل اعلى درجة حرارة في يوتيو على الاطلاق",
+      "de": "Die höchste jemals in Uteo gemessene Temperatur wird erwartet",
+      "en": "The highest temperature ever recorded in Uteo is expected",
+      "uk": "Очікується найвища температура, коли-небудь зафіксована в Утео",
+      "tr": "Uteo'da şimdiye kadar kaydedilen en yüksek sıcaklık bekleniyor",
+      "fa": "انتظار می‌رود بالاترین دمای ثبت‌شده تاکنون در یوتا ثبت شود.",
+      "ru": "Ожидается самая высокая температура, когда-либо зарегистрированная в Утео",
+      "date": "26.06.2026",
       "visible": true
     },
     {
-      "ar": "السلام عليكم هذه هي صفحه الاخبار العاجله انا سأكتب لكم كل جديد هنا .",
-      "de": "Assalamu Alaykum, das ist die Breaking-News-Seite. Bitte, liebe Brüder, geht zu uns",
-      "en": "Assalamu Alaykum, this is the breaking news page. Please, dear brothers, go to us",
-      "tr": "Selamün Aleyküm, bu son dakika haberi sayfası. Lütfen, sevgili kardeşlerim, bize gidin.",
-      "fa": "درود بر شما. این صفحه اخبار فوری است. برادران عزیز، لطفا به ما سر بزنید.",
+      "ar": "هيئة الرقابة الألمانيه تجري تحقيق على شركة زالندو",
+      "de": "Die deutsche Aufsichtsbehörde führt eine Untersuchung gegen Zalendo durch",
+      "en": "The German Supervisory Authority is conducting an investigation against Zalendo",
+      "uk": "Німецький наглядовий орган проводить розслідування проти Zalendo",
+      "tr": "Alman Denetim Otoritesi, Zalendo'ya karşı bir soruşturma yürütüyor",
+      "fa": "مرجع نظارتی آلمان در حال بررسی شرکت زالاندو است.",
+      "ru": "Надзорный орган Германии проводит расследование в отношении Zalendo",
       "date": "13.06.2026",
       "visible": true
     },
     {
-      "ar": "تجسين يحب تحسينه",
-      "de": "تجسين يحب تحسينه",
-      "en": "تجسين يحب تحسينه",
-      "tr": "تجسين يحب تحسينه",
-      "fa": "تجسين يحب تحسينه",
-      "date": "1.1.1989",
+      "ar": "تحذيرات من الاستخدام المفرط لواقي الشمس",
+      "de": "Warnhinweise vor übermäßigem Gebrauch von Sonnencreme",
+      "en": "Warnings of excessive use of sunscreen",
+      "uk": "Попередження про надмірне використання сонцезахисного крему",
+      "tr": "Aşırı güneş kremi kullanımıyla ilgili uyarılar",
+      "fa": "هشدار در مورد استفاده بیش از حد از کرم ضد آفتاب",
+      "ru": "Предупреждения о чрезмерном использовании солнцезащитного крема",
+      "date": "26.06.2026",
       "visible": true
     },
     {
@@ -54,171 +59,177 @@
       "visible": true
     },
     {
-      "ar": "عنوان الخير تجريب",
-      "de": "nachricht test",
-      "date": "12.06.2026"
+      "ar": "قد تصل الخسائر في شركة فولكس فاكن الى 100 الف وظيفة",
+      "de": "Volkswagen könnte bis zu 100.000 Arbeitsplätze verlieren",
+      "en": "Volkswagen could lose up to 100,000 jobs",
+      "uk": "Volkswagen може втратити до 100 тисяч робочих місць",
+      "tr": "Volkswagen 100.000 kişiye kadar iş kaybedebilir",
+      "fa": "ضرر و زیان در فولکس واگن می‌تواند به ۱۰۰ هزار شغل برسد.",
+      "ru": "Volkswagen может потерять до 100 000 рабочих мест",
+      "date": "12.06.2026",
+      "visible": true
     }
   ],
   "promo": {
-    "ar": "هذا تجريب لخانة الاعلان مني",
-    "de": "Dies ist ein Test der Ankündigungsbox von mir",
-    "en": "This is a test of the announcement box from me",
-    "uk": "هذا تجريب لخانة الاعلان مني",
-    "tr": "Bu benden duyuru kutusunun bir testi",
-    "fa": "این یک آزمایش از جعبه تبلیغات من است.",
-    "ru": "هذا تجريب لخانة الاعلان مني",
+    "ar": "هذا هو الاصدار الاول من تطبيقنا يرجى تفحصه بعمق واخبارنا بأي تعديلات مطلوبه",
+    "de": "Dies ist die erste Version unserer App. Bitte überprüfe sie gründlich und lass es uns wissen, wenn Änderungen erforderlich sind.",
+    "en": "This is the first version of our app. Please check it deeply and let us know if any changes are needed.",
+    "uk": "Це перша версія нашого додатка. Будь ласка, перевірте її детально та повідомте нам, якщо потрібні будь-які зміни.",
+    "tr": "Bu, uygulamamızın ilk sürümüdür. Lütfen derinlemesine kontrol edin ve herhangi bir değişiklik gerekirse bize bildirin.",
+    "fa": "این اولین نسخه از برنامه ماست. لطفاً آن را به طور کامل بررسی کنید و هرگونه تغییر مورد نیاز را به ما اطلاع دهید.",
+    "ru": "Это первая версия нашего приложения. Пожалуйста, внимательно проверьте ее и сообщите нам, если понадобятся какие-либо изменения.",
     "visible": true,
     "active": true
   },
   "youtube": {
-    "url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
-    "title_ar": "نشرح هنا اختبار الجنسية الألمانيه الجديد",
-    "title_de": "Hier erläutern wir den neuen deutschen Staatsbürgerschaftstest",
-    "title_en": "Here we explain the new German citizenship test",
-    "title_uk": "",
-    "title_tr": "Burada yeni Alman vatandaşlık testini açıklıyoruz",
-    "title_fa": "در اینجا آزمون جدید شهروندی آلمان را توضیح می‌دهیم",
-    "title_ru": "Здесь мы объясняем новый тест на немецкое гражданство",
+    "url": "https://youtu.be/l7EdMAUq8k0?si=8hrT_ukLlxIcOuXT",
+    "title_ar": "7 وظائف بلا تدريب مهني * شرح عربي *",
+    "title_de": "7 Arbeitsplätze ohne Berufsausbildung * Arabische Erklärung *",
+    "title_en": "7 jobs without vocational training * Arabic explanation *",
+    "title_uk": "7 робочих місць без професійної підготовки * Арабське пояснення *",
+    "title_tr": "Mesleki eğitimi olmayan 7 iş * Arapça açıklama *",
+    "title_fa": "۷ شغل بدون آموزش حرفه‌ای * توضیح به زبان عربی *",
+    "title_ru": "7 рабочих мест без профессиональной подготовки * Арабское объяснение *",
     "visible": true
   },
   "global": {
     "alert": {
       "visible": true,
       "color": "red",
-      "ar": "انتقل لمتجر التطبيقات لتحديث التطبيق .",
-      "de": "Gehe zum App Store, um die App zu aktualisieren.",
-      "en": "Go to the app store to update the app .",
-      "uk": "",
-      "tr": "Uygulamayı güncellemek için uygulama mağazasına gidin.",
-      "fa": "برای به‌روزرسانی برنامه به اپ استور مراجعه کنید.",
-      "ru": "Перейдите в магазин приложений, чтобы обновить приложение ."
+      "ar": "انتبه من درجة الحراره اليوم , صحتك تهمنا .",
+      "de": "Hüten Sie sich vor der heutigen Temperatur, Ihre Gesundheit ist uns wichtig .",
+      "en": "Beware of today's temperature, your health is important to us .",
+      "uk": "Остерігайтеся сьогоднішньої температури, ваше здоров 'я важливе для нас .",
+      "tr": "Bugünün sıcaklığına dikkat edin, sağlığınız bizim için önemlidir .",
+      "fa": "مراقب دمای هوا باشید، سلامتی شما برای ما مهم است.",
+      "ru": "Остерегайтесь сегодняшней температуры, ваше здоровье важно для нас ."
     },
     "tip_of_day": {
       "visible": true,
-      "ar": "تجريب لخانة النصيحه اليوميه",
-      "de": "Tägliche Tipp-Slot-Testversion",
-      "en": "Daily Tip Slot Trial",
-      "uk": "",
-      "tr": "Günlük Bahşiş Yuvası Denemesi",
-      "fa": "با بخش توصیه‌های روزانه آزمایش کنید",
-      "ru": ""
+      "ar": "فقط السمك الميت يسبح مع التيار   .",
+      "de": "Nur tote Fische schwimmen mit der Strömung   .",
+      "en": "Only dead fish swim with the current   .",
+      "uk": "З течією плавають лише мертві риби.",
+      "tr": "Sadece ölü balıklar akıntıyla yüzer.",
+      "fa": "فقط ماهی‌های مرده با جریان آب شنا می‌کنند.",
+      "ru": "С течением плавают только мертвые рыбы."
     },
     "splash_msg": {
       "visible": true,
-      "ar": "اهلا  و سهلا بكم",
-      "de": "Willkommen",
-      "en": "Welcome.",
-      "uk": "",
-      "tr": "Hoş geldiniz",
-      "fa": "خوش آمدید",
-      "ru": ""
+      "ar": "أهلا بكم بأصدارنا  الأول",
+      "de": "Willkommen zu unserer ersten  Ausgabe",
+      "en": "Welcome to our first  edition",
+      "uk": "Ласкаво просимо до нашого першого  видання",
+      "tr": "İlk  baskımıza hoş geldiniz",
+      "fa": "به اولین نسخه ما خوش آمدید",
+      "ru": "Добро пожаловать в наше первое  издание"
     }
   },
   "cards": {
-    "kindergeld_pdf": "https://youtu.be/2kOe1naNK-k?si=A0RDkniAwZ66iLFf",
-    "ha_pdf": "https://youtu.be/HUPFwsZtx6E?si=Uj6fF4W5csGSvZO2",
-    "wba_pdf": "https://youtu.be/2A-iRv-I7fo?si=rGELMEqTdE6g_IEH",
-    "kinderzuschlag_pdf": "https://youtu.be/9aggooROoTg?si=ItcaGqaiMnJL8pgb",
-    "kurzantrag_pdf": "https://youtu.be/W_GZ4-yDT74?si=0nmpnlNsgvsXDY36",
-    "kinderzuschlag_online_pdf": "https://youtu.be/52H46hhKe4w?si=Qms-xJMYJCBD4KcC",
-    "wohngeld_pdf": "https://youtu.be/4fCq3BZRNVc?si=lEtxhjnPdhrf0vbs",
-    "anlage_ek_pdf": "https://youtu.be/Sj8nWuboKX8?si=2R86TYmN4_X4UJpO",
-    "elterngeld_pdf": "https://youtu.be/TjWSwfx9wpM?si=iL4YAFLUJfTwY0C4",
-    "familienversicherung_pdf": "https://youtu.be/PjN7z0T_Sp4?si=maYguyPC9Ptd5lsv",
-    "einbuergerung_pdf": "https://youtu.be/iVv0ce_2lZg?si=Y_sUyaJTFbt0BNac",
+    "kindergeld_pdf": "https://www.arbeitsagentur.de/datei/kg1-antrag-kindergeld_ba036550.pdf",
+    "ha_pdf": "https://www.arbeitsagentur.de/datei/antrag-sgb2_ba042689.pdf",
+    "wba_pdf": "https://www.arbeitsagentur.de/datei/weiterbewilligung-sgb2_ba042699.pdf",
+    "kinderzuschlag_pdf": "https://www.arbeitsagentur.de/datei/kiz1-antrag_ba036540.pdf",
+    "kurzantrag_pdf": "https://www.arbeitsagentur.de/datei/kiz1-k_ba146472.pdf",
+    "kinderzuschlag_online_pdf": "https://web.arbeitsagentur.de/kiz/ui/start",
+    "wohngeld_pdf": "https://recht.nrw.de/system/files/VA/13650-18884-mbl32-4anlage1.pdf",
+    "anlage_ek_pdf": "https://www.arbeitsagentur.de/datei/anlageek_ba032960.pdf",
+    "elterngeld_pdf": "https://www.arbeitsagentur.de/datei/kg1-anlagekind_ba033765.pdf",
+    "familienversicherung_pdf": "https://www.aok.de/pk/versichertenservice/antrag-familienversicherung/",
+    "einbuergerung_pdf": "https://www.mkjfgfi.nrw/system/files/media/document/file/anlage_1_eb-antrag_2024_befullbar_0.pdf",
     "netto": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
-      "alert": "احسب راتبك الصافي و مع الضرائب",
+      "alert": "احسب راتبك الصافي او احسبه مع الضرائب",
       "alert_visible": true,
-      "alert_de": "Berechnen Sie Ihr Nettogehalt und Ihre Steuern",
-      "alert_en": "Calculate your net salary and taxes",
-      "alert_uk": "",
-      "alert_tr": "Net maaşınızı ve vergilerinizi hesaplayın",
-      "alert_fa": "حقوق خالص خود را با احتساب مالیات محاسبه کنید",
-      "alert_ru": "Рассчитайте чистую зарплату и налоги"
+      "alert_de": "Berechnen Sie Ihr Nettogehalt oder berechnen Sie es mit Steuern",
+      "alert_en": "Calculate your net salary or calculate it with taxes",
+      "alert_uk": "Розрахуйте чисту заробітну плату або розрахуйте її з податками",
+      "alert_tr": "Net maaşınızı hesaplayın veya vergilerle hesaplayın",
+      "alert_fa": "حقوق خالص خود را محاسبه کنید یا آن را با مالیات محاسبه کنید",
+      "alert_ru": "Рассчитайте свою чистую зарплату или рассчитайте ее с помощью налогов"
     },
     "wohngeld": {
       "youtube_url": "https://youtu.be/4fCq3BZRNVc?si=QQkleOvks9Kr_EKC",
       "youtube_visible": true,
-      "alert": "هل تستحق الحصول على مساعدة السكن ؟",
+      "alert": "هل تستحق الحصول على مساعدة السكن , استخدم هذه الحاسبة لمعرفة التفاصيل",
       "alert_visible": true,
-      "alert_de": "Hat sie Anspruch auf Wohngeld?",
-      "alert_en": "Is she eligible for housing assistance?",
-      "alert_uk": "",
-      "alert_tr": "Barınma yardımı almaya uygun mu?",
-      "alert_fa": "آیا واجد شرایط دریافت کمک هزینه مسکن هستید؟",
-      "alert_ru": "Имеет ли она право на получение жилищной помощи?"
+      "alert_de": "Lohnt es sich, Wohnbeihilfen zu erhalten? Verwende diesen Taschenrechner für Details",
+      "alert_en": "Is it worth getting housing assistance, use this calculator for details",
+      "alert_uk": "Чи варто отримувати допомогу з житлом , скористайтеся цим калькулятором для детальної інформації",
+      "alert_tr": "Konut yardımı almaya değer mi? Ayrıntılar için bu hesap makinesini kullanın",
+      "alert_fa": "آیا واجد شرایط دریافت کمک هزینه مسکن هستید؟ برای اطلاعات بیشتر از این محاسبه‌گر استفاده کنید.",
+      "alert_ru": "Стоит ли получать помощь с жильем , воспользуйтесь этим калькулятором для деталей"
     },
     "elterngeld": {
       "youtube_url": "https://youtu.be/TjWSwfx9wpM?si=58xZVWgpQsu4ENV9",
       "youtube_visible": true,
-      "alert": "هل تستحق الحصول على اعانة الاطفال ؟",
+      "alert": "هل تستحق الحصول على اعانة Elterngeld  ؟",
       "alert_visible": true,
-      "alert_de": "Hat sie Anspruch auf Kindergeld?",
-      "alert_en": "Is she eligible for child benefit?",
-      "alert_uk": "",
-      "alert_tr": "Çocuk yardımına hak kazanıyor mu?",
-      "alert_fa": "آیا شما حق دریافت کمک هزینه فرزند را دارید؟",
-      "alert_ru": "Имеет ли она право на пособие на ребенка?"
+      "alert_de": "Hat sie Anspruch auf den Elterngeldzuschuss?",
+      "alert_en": "Is she eligible for the Elterngeld subsidy?",
+      "alert_uk": "Чи має вона право на субсидію Elterngeld?",
+      "alert_tr": "Elterngeld sübvansiyonu için uygun mu?",
+      "alert_fa": "آیا شما واجد شرایط دریافت مزایای Elterngeld هستید؟",
+      "alert_ru": "Имеет ли она право на субсидию Elterngeld?"
     },
     "alg1": {
       "youtube_url": "https://youtube.com/shorts/K88Rr0mWUmQ?si=uWS1EZ0cQFMaG8Re",
       "youtube_visible": true,
-      "alert": "هل يحق لك الحصول على مبلغ من  دائرة  اعانة البطاله ؟",
+      "alert": "هل يحق لك الحصول على مبلغ من  دائرة  اعانة البطاله ؟ احسب هنا",
       "alert_visible": true,
-      "alert_de": "Haben Sie Anspruch auf einen Betrag aus dem Arbeitslosengeld?",
-      "alert_en": "Are you entitled to an amount from the Unemployment Benefit Department?",
-      "alert_uk": "",
-      "alert_tr": "İşsizlik Yardımı Departmanından bir miktar almaya hakkınız var mı?",
-      "alert_fa": "آیا شما واجد شرایط دریافت مبلغی از اداره مزایای بیکاری هستید؟",
-      "alert_ru": "Имеете ли вы право на получение суммы от  Департамента пособий по  безработице?"
+      "alert_de": "Haben Sie Anspruch auf einen Betrag aus dem Arbeitslosengeld? Berechnen Sie hier",
+      "alert_en": "Are you entitled to an amount from the Unemployment Benefit Department? Calculate here",
+      "alert_uk": "Чи маєте ви право на отримання суми від  Департаменту  допомоги по безробіттю? Розрахуйте тут",
+      "alert_tr": "İşsizlik Yardımı Departmanından bir tutar alma hakkınız var mı? Buradan hesaplayın",
+      "alert_fa": "آیا شما واجد شرایط دریافت مزایای بیکاری هستید؟ اینجا محاسبه کنید.",
+      "alert_ru": "Имеете ли вы право на получение пособия по безработице? Рассчитайте здесь"
     },
     "verkehr": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
-      "alert": "احسب مخالفتك بشكل سهل وسريع",
+      "alert": "أحسب هنا مخالفة السير بشكل دقيق .",
       "alert_visible": true,
-      "alert_de": "Berechnen Sie Ihren Verstoß einfach und schnell",
-      "alert_en": "Calculate your violation easily and quickly",
-      "alert_uk": "",
-      "alert_tr": "İhlalinizi kolay ve hızlı bir şekilde hesaplayın",
-      "alert_fa": "جریمه خود را به راحتی و به سرعت محاسبه کنید",
-      "alert_ru": "Легко и быстро рассчитайте свое нарушение"
+      "alert_de": "Ich berechne hier den Verkehrsverstoß genau .",
+      "alert_en": "I calculate here the traffic violation accurately .",
+      "alert_uk": "Тут я точно розраховую порушення правил дорожнього руху.",
+      "alert_tr": "Burada trafik ihlalini doğru hesaplıyorum.",
+      "alert_fa": "بيا، اجازه بده يه نمونه بهتري از اين محصول نشونت بديم.",
+      "alert_ru": "Здесь я точно высчитываю нарушение ПДД."
     }
   },
   "pro": {
     "meta": {
       "order": [
+        "parties",
         "alert",
-        "videos",
         "news",
-        "files",
-        "parties"
+        "videos",
+        "files"
       ]
     },
     "alert": {
       "visible": true,
       "color": "red",
-      "ar": "هذا تنبيه تجريبي لبرو",
-      "de": "Dies ist ein Testalarm für Prue",
-      "en": "This is a test alert for Prue",
-      "uk": "Це тестове сповіщення для Prue",
-      "tr": "Bu, Prue için bir test uyarısıdır",
-      "fa": "این یک هشدار آزمایشی برای نسخه پرو است",
-      "ru": "Это тестовое оповещение для Prue"
+      "ar": "اكتشف البطاقات الذهبيه ومولدات pdf",
+      "de": "Entdecken Sie Goldkarten und PDF-Generatoren",
+      "en": "Discover gold cards and pdf generators",
+      "uk": "Відкрийте для себе золоті картки та генератори PDF-файлів",
+      "tr": "Altın kartları ve pdf oluşturucuları keşfedin",
+      "fa": "کارت‌های طلایی و مولدهای PDF را کشف کنید",
+      "ru": "Откройте для себя золотые карты и генераторы PDF"
     },
     "news": {
       "visible": true,
       "items": [
         {
-          "ar": "خبر جديد ننشرة اليوم لكم",
-          "de": "Neue Nachrichten, die heutigen Nachrichten sind für Sie",
-          "en": "New news, today's news is for you",
-          "uk": "Нові новини, сьогоднішні новини для вас",
-          "tr": "Yeni haberler, bugünün haberleri sizin için",
-          "fa": "خبر جدیدی که امروز برای شما منتشر می‌کنیم",
-          "ru": "Новая новость, сегодняшняя новость для вас",
+          "ar": "سيتم هنا نشر الاخبار المستعجله والتحذيرات",
+          "de": "Eilmeldungen und Warnungen werden hier veröffentlicht",
+          "en": "Breaking news and warnings will be published here",
+          "uk": "Останні новини та попередження будуть опубліковані тут",
+          "tr": "Son dakika haberleri ve uyarılar burada yayınlanacak",
+          "fa": "اخبار فوری و هشدارها در اینجا منتشر خواهند شد.",
+          "ru": "Срочные новости и предупреждения будут публиковаться здесь",
           "visible": true,
           "date": "18.06.2026"
         }
@@ -228,15 +239,37 @@
       "visible": true,
       "items": [
         {
-          "title_ar": "فيديو تجريبي لقسم برو",
-          "title_de": "Pro-Abschnitt Demo-Video",
-          "title_en": "Pro section demo video",
-          "title_uk": "Демонстраційне відео розділу Pro",
-          "title_tr": "Profesyonel bölüm demo videosu",
-          "title_fa": "ویدیوی نسخه آزمایشی بخش حرفه‌ای",
-          "title_ru": "Демонстрационное видео о профессиональном разделе",
+          "title_ar": "الإجابة على اسئلة المتابعين * شرح عربي *",
+          "title_de": "Beantwortung von Follower-Fragen * Arabische Erklärung *",
+          "title_en": "Answering Followers' Questions * Arabic Explanation *",
+          "title_uk": "Відповіді на запитання підписників * Пояснення арабською мовою *",
+          "title_tr": "Takipçilerin Sorularını Cevaplama * Arapça Açıklama *",
+          "title_fa": "پاسخ به سوالات دنبال‌کنندگان * توضیح عربی *",
+          "title_ru": "Ответы на вопросы подписчиков * Объяснение на арабском языке *",
           "visible": true,
-          "url": "https://youtu.be/kqQFryAIfTQ?si=kzEjYCOjuayCdJHy"
+          "url": "https://www.youtube.com/watch?v=A6GYMmxZPhg&t=16s"
+        },
+        {
+          "title_ar": "50 سؤال بإمتحان الجنسية الألمانيه * شرح عربي *",
+          "title_de": "50 Fragen zur Prüfung zur deutschen Staatsbürgerschaft * Arabische Erklärung *",
+          "title_en": "50 questions on the German citizenship exam * Arabic explanation *",
+          "title_uk": "50 запитань на іспиті з німецького громадянства * Арабське пояснення *",
+          "title_tr": "Alman vatandaşlığı sınavına ilişkin 50 soru * Arapça açıklama *",
+          "title_fa": "۵۰ سوال از آزمون شهروندی آلمان * توضیحات عربی *",
+          "title_ru": "50 вопросов на экзамене по немецкому гражданству * Арабское объяснение *",
+          "visible": true,
+          "url": "https://youtu.be/5Wwq6RTMdb4?si=trLjBFsFndJqd5yY"
+        },
+        {
+          "title_ar": "طلب الجنسية الألمانية",
+          "title_de": "Antrag auf deutsche Staatsbürgerschaft",
+          "title_en": "Application for German Citizenship",
+          "title_uk": "Заява на отримання громадянства Німеччини",
+          "title_tr": "Alman Vatandaşlığı Başvurusu",
+          "title_fa": "درخواست تابعیت آلمان",
+          "title_ru": "Заявление на получение немецкого гражданства",
+          "visible": true,
+          "url": "https://www.youtube.com/watch?v=iVv0ce_2lZg"
         }
       ]
     },
@@ -244,13 +277,13 @@
       "visible": true,
       "items": [
         {
-          "name_ar": "مشان اجرب",
-          "name_de": "Zum Ausprobieren",
-          "name_en": "To try",
-          "name_uk": "Спробувати",
-          "name_tr": "Denemek için",
-          "name_fa": "پس میتونم تلاش کنم",
-          "name_ru": "Попробовать",
+          "name_ar": "تعليم اللغة الألمانية * شرح عربي *",
+          "name_de": "Deutsch unterrichten * Arabische Erklärung *",
+          "name_en": "Teaching German * Arabic Explanation *",
+          "name_uk": "Викладання німецької * Арабська пояснення *",
+          "name_tr": "Almanca Öğretimi * Arapça Açıklama *",
+          "name_fa": "یادگیری آلمانی * توضیحات عربی *",
+          "name_ru": "Преподавание немецкого языка * Арабское объяснение *",
           "visible": true,
           "url": "https://youtu.be/kqQFryAIfTQ?si=kzEjYCOjuayCdJHy"
         }
@@ -260,17 +293,17 @@
       "visible": true,
       "items": [
         {
-          "name": "csu",
+          "name": "CDU",
           "url": "",
           "visible": true
         },
         {
-          "name": "cdu",
+          "name": "CSU",
           "url": "",
           "visible": true
         },
         {
-          "name": "spd",
+          "name": "SPD",
           "url": "",
           "visible": true
         }
