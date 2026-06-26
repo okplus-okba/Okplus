@@ -7,34 +7,34 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "26.06.2026 12:42"
+    "last_updated": "26.06.2026 12:49"
   },
   "gold": {
     "k24": 114.11,
     "k21": 99.85,
     "k18": 85.58,
-    "updatedAt": "26.06.2026 12:42"
+    "updatedAt": "26.06.2026 12:49"
   },
   "news": [
     {
-      "ar": "من المتوقع تسجيل اعلى درجة حرارة في يوتيو على الاطلاق",
-      "de": "Die höchste jemals in Uteo gemessene Temperatur wird erwartet",
-      "en": "The highest temperature ever recorded in Uteo is expected",
-      "uk": "Очікується найвища температура, коли-небудь зафіксована в Утео",
-      "tr": "Uteo'da şimdiye kadar kaydedilen en yüksek sıcaklık bekleniyor",
-      "fa": "انتظار می‌رود بالاترین دمای ثبت‌شده تاکنون در یوتا ثبت شود.",
-      "ru": "Ожидается самая высокая температура, когда-либо зарегистрированная в Утео",
+      "ar": "من المتوقع تسجيل اعلى درجة حرارة في يونيو على الاطلاق",
+      "de": "Es wird erwartet, dass die Juni-Temperatur Allzeithochs erreichen wird",
+      "en": "June temperature is expected to hit all-time highs",
+      "uk": "Очікується, що температура червня досягне рекордно високого рівня",
+      "tr": "Haziran sıcaklığının tüm zamanların en yüksek seviyelerine ulaşması bekleniyor",
+      "fa": "انتظار می‌رود بالاترین دمای ثبت‌شده تاکنون در ماه ژوئن ثبت شود.",
+      "ru": "Ожидается, что температура июня достигнет рекордных максимумов",
       "date": "26.06.2026",
       "visible": true
     },
     {
-      "ar": "هيئة الرقابة الألمانيه تجري تحقيق على شركة زالندو",
+      "ar": "هيئة الرقابة الألمانيه تجري تحقيق على شركة Zalendo",
       "de": "Die deutsche Aufsichtsbehörde führt eine Untersuchung gegen Zalendo durch",
-      "en": "The German Supervisory Authority is conducting an investigation against Zalendo",
-      "uk": "Німецький наглядовий орган проводить розслідування проти Zalendo",
-      "tr": "Alman Denetim Otoritesi, Zalendo'ya karşı bir soruşturma yürütüyor",
-      "fa": "مرجع نظارتی آلمان در حال بررسی شرکت زالاندو است.",
-      "ru": "Надзорный орган Германии проводит расследование в отношении Zalendo",
+      "en": "The German Supervisory Authority is conducting an investigation into Zalendo",
+      "uk": "Німецький наглядовий орган проводить розслідування щодо Zalendo",
+      "tr": "Alman Denetim Otoritesi, Zalendo hakkında bir soruşturma yürütüyor",
+      "fa": "سازمان نظارتی آلمان در حال بررسی زالندو است.",
+      "ru": "Немецкий надзорный орган проводит расследование в отношении Zalendo",
       "date": "13.06.2026",
       "visible": true
     },
@@ -50,11 +50,13 @@
       "visible": true
     },
     {
-      "ar": "سيرتفع اليوم كل اسعار الديزل",
-      "de": "سيرتفع اليوم كل اسعار الديزل",
-      "en": "سيرتفع اليوم كل اسعار الديزل",
-      "tr": "سيرتفع اليوم كل اسعار الديزل",
-      "fa": "سيرتفع اليوم كل اسعار الديزل",
+      "ar": "بعد الارتفاع الكبير بدأت تنخفض اسعار الديزل",
+      "de": "Nach dem großen Anstieg begannen die Dieselpreise zu sinken",
+      "en": "After the big rise, diesel prices began to fall",
+      "uk": "Після великого зростання ціни на дизельне паливо почали падати",
+      "tr": "Büyük yükselişin ardından motorin fiyatları düşmeye başladı",
+      "fa": "پس از افزایش قابل توجه، قیمت دیزل شروع به کاهش کرد.",
+      "ru": "После большого роста цены на дизельное топливо начали падать",
       "date": "12.06.2026",
       "visible": true
     },
