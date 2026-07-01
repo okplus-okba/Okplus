@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "26.06.2026 12:49"
+    "last_updated": "01.07.2026 17:56"
   },
   "gold": {
-    "k24": 114.11,
-    "k21": 99.85,
-    "k18": 85.58,
-    "updatedAt": "26.06.2026 12:49"
+    "k24": 115.25,
+    "k21": 100.84,
+    "k18": 86.43,
+    "updatedAt": "01.07.2026 17:56"
   },
   "news": [
     {
@@ -98,23 +98,23 @@
     "alert": {
       "visible": true,
       "color": "red",
-      "ar": "انتبه من درجة الحراره اليوم , صحتك تهمنا .",
-      "de": "Hüten Sie sich vor der heutigen Temperatur, Ihre Gesundheit ist uns wichtig .",
-      "en": "Beware of today's temperature, your health is important to us .",
-      "uk": "Остерігайтеся сьогоднішньої температури, ваше здоров 'я важливе для нас .",
-      "tr": "Bugünün sıcaklığına dikkat edin, sağlığınız bizim için önemlidir .",
-      "fa": "مراقب دمای هوا باشید، سلامتی شما برای ما مهم است.",
-      "ru": "Остерегайтесь сегодняшней температуры, ваше здоровье важно для нас ."
+      "ar": "قم بتعبئة سيارتك اليوم بالمحروقات .. غدا ترتفع الأسعار .",
+      "de": "Füllen Sie Ihr Auto noch heute mit Kraftstoff . Morgen werden die Preise steigen.",
+      "en": "Fill your car today with fuel .. Tomorrow prices will rise.",
+      "uk": "Заповніть свій автомобіль сьогодні паливом . Завтра ціни зростуть.",
+      "tr": "Arabanızı bugün yakıtla doldurun. Yarın fiyatlar yükselecek.",
+      "fa": "امروز باک ماشینتان را پر کنید... فردا قیمت‌ها افزایش می‌یابد.",
+      "ru": "Заполните свой автомобиль сегодня топливом .. Завтра цены вырастут."
     },
     "tip_of_day": {
       "visible": true,
-      "ar": "فقط السمك الميت يسبح مع التيار   .",
-      "de": "Nur tote Fische schwimmen mit der Strömung   .",
-      "en": "Only dead fish swim with the current   .",
-      "uk": "З течією плавають лише мертві риби.",
-      "tr": "Sadece ölü balıklar akıntıyla yüzer.",
-      "fa": "فقط ماهی‌های مرده با جریان آب شنا می‌کنند.",
-      "ru": "С течением плавают только мертвые рыбы."
+      "ar": "من يرغب بشراء الذهب هذه أفضل فرصه بسبب انخفاض الأسعار .",
+      "de": "Wer Gold kaufen möchte, hat aufgrund der niedrigen Preise die besten Chancen.",
+      "en": "Those who want to buy gold have the best chance because of the low prices .",
+      "uk": "Ті, хто хоче купити золото, мають найкращі шанси через низькі ціни .",
+      "tr": "Altın almak isteyenler, düşük fiyatlar nedeniyle en iyi şansa sahipler.",
+      "fa": "برای کسانی که مایل به خرید طلا هستند، به دلیل قیمت‌های پایین، این بهترین فرصت است.",
+      "ru": "Те, кто хочет купить золото, имеют лучшие шансы из-за низких цен ."
     },
     "splash_msg": {
       "visible": true,
