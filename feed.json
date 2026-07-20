@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "01.07.2026 17:56"
+    "last_updated": "21.07.2026 01:06"
   },
   "gold": {
-    "k24": 115.25,
-    "k21": 100.84,
-    "k18": 86.43,
-    "updatedAt": "01.07.2026 17:56"
+    "k24": 112.52,
+    "k21": 98.5,
+    "k18": 84.43,
+    "updatedAt": "21.07.2026 01:06"
   },
   "news": [
     {
@@ -98,13 +98,13 @@
     "alert": {
       "visible": true,
       "color": "red",
-      "ar": "قم بتعبئة سيارتك اليوم بالمحروقات .. غدا ترتفع الأسعار .",
-      "de": "Füllen Sie Ihr Auto noch heute mit Kraftstoff . Morgen werden die Preise steigen.",
-      "en": "Fill your car today with fuel .. Tomorrow prices will rise.",
-      "uk": "Заповніть свій автомобіль сьогодні паливом . Завтра ціни зростуть.",
-      "tr": "Arabanızı bugün yakıtla doldurun. Yarın fiyatlar yükselecek.",
-      "fa": "امروز باک ماشینتان را پر کنید... فردا قیمت‌ها افزایش می‌یابد.",
-      "ru": "Заполните свой автомобиль сегодня топливом .. Завтра цены вырастут."
+      "ar": "بدأت الاجازة المدرسية بأغلب المقاطعات الألمانية ، إجازة سعيده .",
+      "de": "Die Schulferien begannen in den meisten deutschen Bundesländern, ein glücklicher Urlaub.",
+      "en": "The school vacation began in most German provinces, a happy holiday.",
+      "uk": "У більшості німецьких провінцій почалися шкільні канікули - щасливе свято.",
+      "tr": "Okul tatili çoğu Alman eyaletinde başladı, mutlu bir tatil.",
+      "fa": "تعطیلات مدارس در بیشتر ایالت‌های آلمان آغاز شده است. تعطیلات مبارک.",
+      "ru": "В большинстве немецких провинций начались школьные каникулы, счастливый праздник."
     },
     "tip_of_day": {
       "visible": true,
