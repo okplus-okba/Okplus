@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "07.08.2026 01:06"
+    "last_updated": "07.08.2026 01:12"
   },
   "gold": {
     "k24": 118.11,
     "k21": 103.34,
     "k18": 88.58,
-    "updatedAt": "07.08.2026 01:06"
+    "updatedAt": "07.08.2026 01:12"
   },
   "news": [
     {
@@ -73,13 +73,13 @@
     }
   ],
   "promo": {
-    "ar": "هذا هو الاصدار الاول من تطبيقنا يرجى تفحصه بعمق واخبارنا بأي تعديلات مطلوبه",
-    "de": "Dies ist die erste Version unserer App. Bitte überprüfe sie gründlich und lass es uns wissen, wenn Änderungen erforderlich sind.",
-    "en": "This is the first version of our app. Please check it deeply and let us know if any changes are needed.",
-    "uk": "Це перша версія нашого додатка. Будь ласка, перевірте її детально та повідомте нам, якщо потрібні будь-які зміни.",
-    "tr": "Bu, uygulamamızın ilk sürümüdür. Lütfen derinlemesine kontrol edin ve herhangi bir değişiklik gerekirse bize bildirin.",
-    "fa": "این اولین نسخه از برنامه ماست. لطفاً آن را به طور کامل بررسی کنید و هرگونه تغییر مورد نیاز را به ما اطلاع دهید.",
-    "ru": "Это первая версия нашего приложения. Пожалуйста, внимательно проверьте ее и сообщите нам, если понадобятся какие-либо изменения.",
+    "ar": "هذا هو الاصدار الاول من تطبيقنا يرجى تفحصه بعمق واخبارنا بأي تعديلات مطلوبه\ninfo@okplus-okba.de",
+    "de": "Dies ist die erste Version unserer App. Bitte überprüfe sie gründlich und lass es uns wissen, wenn Änderungen erforderlich sind.\ninfo@okplus-okba.de",
+    "en": "This is the first version of our app. Please check it deeply and let us know if any changes are needed.\ninfo@okplus-okba.de",
+    "uk": "Це перша версія нашого додатка. Будь ласка, перевірте її детально та повідомте нам, якщо потрібні будь-які зміни.\ninfo@okplus-okba.de",
+    "tr": "Bu, uygulamamızın ilk sürümüdür. Lütfen derinlemesine kontrol edin ve herhangi bir değişiklik gerekirse bize bildirin.\ninfo@okplus-okba.de",
+    "fa": "این اولین نسخه از برنامه ماست. لطفاً آن را به طور کامل بررسی کنید و هرگونه تغییر مورد نیاز را به ما اطلاع دهید.&#10; info@okplus-okba.de",
+    "ru": "Это первая версия нашего приложения. Пожалуйста, внимательно проверьте ее и сообщите нам, если понадобятся какие-либо изменения.\ninfo@okplus-okba.de",
     "visible": true,
     "active": true
   },
@@ -98,13 +98,13 @@
     "alert": {
       "visible": true,
       "color": "red",
-      "ar": "بدأت الاجازة المدرسية بأغلب المقاطعات الألمانية ، إجازة سعيده .",
-      "de": "Die Schulferien begannen in den meisten deutschen Bundesländern, ein glücklicher Urlaub.",
-      "en": "The school vacation began in most German provinces, a happy holiday.",
-      "uk": "У більшості німецьких провінцій почалися шкільні канікули - щасливе свято.",
-      "tr": "Okul tatili çoğu Alman eyaletinde başladı, mutlu bir tatil.",
-      "fa": "تعطیلات مدارس در بیشتر ایالت‌های آلمان آغاز شده است. تعطیلات مبارک.",
-      "ru": "В большинстве немецких провинций начались школьные каникулы, счастливый праздник."
+      "ar": "أهلاً وسهلاً بالجميع ، الرجاء مشاركة التطبيق و تقيّمه على المتجر .",
+      "de": "Hallo zusammen , bitte teile und bewerte die App im Store .",
+      "en": "Hi everyone , please share and rate the app on the store .",
+      "uk": "Привіт усім! Поділіться додатком і оцініть його в магазині .",
+      "tr": "Herkese merhaba, lütfen uygulamayı mağazada paylaşın ve puanlayın.",
+      "fa": "به همه خوش آمدید، لطفاً برنامه را به اشتراک بگذارید و در فروشگاه به آن امتیاز دهید.",
+      "ru": "Всем привет, поделитесь приложением и оцените его в магазине ."
     },
     "tip_of_day": {
       "visible": true,
