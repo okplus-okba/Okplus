@@ -1,50 +1,321 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>OK Plus DE</title>
+<meta name="theme-color" content="#0d0d12">
+<title>OK Plus DE — تحميل التطبيق</title>
+<meta name="description" content="OK Plus DE — أكثر من 30 حاسبة ونموذجاً للمعاملات الألمانية. حمّل التطبيق مجاناً على آيفون وأندرويد.">
+
+<!-- Open Graph (للمشاركة على واتساب/فيسبوك) -->
+<meta property="og:title" content="OK Plus DE">
+<meta property="og:description" content="حاسبات ونماذج المعاملات الألمانية — مجاناً على آيفون وأندرويد">
+<meta property="og:type" content="website">
+
 <style>
+  :root {
+    --bg:        #0d0d12;
+    --bg-soft:   #16161e;
+    --card:      #1b1b24;
+    --border:    rgba(212,175,55,0.18);
+    --gold:      #d4af37;
+    --gold-lite: #f5e28c;
+    --text:      #ffffff;
+    --muted:     rgba(255,255,255,0.55);
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body { margin: 0; padding: 0; }
+
   body {
-    margin: 0;
-    font-family: -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
-    background: #0d0d0d;
-    color: #fff;
+    font-family: -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background:
+      radial-gradient(1200px 600px at 50% -10%, rgba(212,175,55,0.10), transparent 60%),
+      var(--bg);
+    color: var(--text);
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    padding: 40px 22px 64px;
     text-align: center;
-    padding: 24px;
-    box-sizing: border-box;
   }
-  .logo {
-    font-size: 2.2rem;
-    font-weight: 800;
-    letter-spacing: 1px;
-    margin-bottom: 28px;
-    background: linear-gradient(135deg, #d4af37, #f5e28c);
+
+  /* شريط اللغات */
+  .langbar {
+    position: fixed;
+    top: 16px;
+    inset-inline-end: 18px;
+    display: flex;
+    gap: 6px;
+    z-index: 10;
+  }
+  .langbar button {
+    background: var(--bg-soft);
+    color: var(--muted);
+    border: 1px solid var(--border);
+    border-radius: 9px;
+    padding: 6px 12px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all .15s ease;
+  }
+  .langbar button.active {
+    background: var(--gold);
+    color: #111;
+    border-color: var(--gold);
+  }
+
+  /* الشعار */
+  .logo-badge {
+    width: 96px;
+    height: 96px;
+    border-radius: 24px;
+    background: linear-gradient(160deg, #22222c, #101015);
+    border: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 26px;
+    box-shadow: 0 18px 50px rgba(0,0,0,0.55), inset 0 1px 0 rgba(255,255,255,0.05);
+  }
+  .logo-badge span {
+    font-size: 2rem;
+    font-weight: 900;
+    letter-spacing: 0.5px;
+    background: linear-gradient(135deg, var(--gold), var(--gold-lite));
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
   }
-  a.btn {
-    background: linear-gradient(135deg, #d4af37, #f5e28c);
-    color: #111;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 18px 48px;
-    border-radius: 14px;
-    font-size: 1.2rem;
-    display: inline-flex;
+
+  h1 {
+    font-size: clamp(1.9rem, 6vw, 2.6rem);
+    font-weight: 800;
+    margin: 0 0 10px;
+    background: linear-gradient(135deg, var(--gold), var(--gold-lite));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .tagline {
+    color: var(--muted);
+    font-size: clamp(1rem, 3.6vw, 1.15rem);
+    line-height: 1.6;
+    max-width: 440px;
+    margin: 0 auto 34px;
+  }
+
+  /* أزرار المتاجر */
+  .stores {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    width: 100%;
+    max-width: 340px;
+  }
+
+  a.store {
+    display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 14px;
+    text-decoration: none;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 15px 20px;
+    color: var(--text);
+    transition: transform .12s ease, border-color .15s ease, background .15s ease;
+    text-align: start;
+  }
+  a.store:hover {
+    transform: translateY(-2px);
+    border-color: rgba(212,175,55,0.55);
+    background: #20202a;
+  }
+  a.store .icon {
+    width: 34px;
+    height: 34px;
+    flex-shrink: 0;
+    fill: var(--text);
+  }
+  a.store .txt { line-height: 1.25; }
+  a.store .txt small {
+    display: block;
+    font-size: 12px;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  a.store .txt b {
+    display: block;
+    font-size: 17px;
+    font-weight: 800;
+    margin-top: 1px;
+  }
+
+  /* إبراز الزر الموصى به لجهاز الزائر */
+  a.store.recommended {
+    border-color: var(--gold);
+    background: linear-gradient(135deg, rgba(212,175,55,0.14), rgba(212,175,55,0.04));
+    box-shadow: 0 10px 30px rgba(212,175,55,0.12);
+  }
+  a.store.recommended::after {
+    content: attr(data-badge);
+    margin-inline-start: auto;
+    font-size: 11px;
+    font-weight: 800;
+    color: #111;
+    background: var(--gold);
+    padding: 4px 9px;
+    border-radius: 20px;
+  }
+
+  .foot {
+    margin-top: 40px;
+    color: rgba(255,255,255,0.32);
+    font-size: 12.5px;
+    line-height: 1.7;
+  }
+  .foot a { color: rgba(212,175,55,0.7); text-decoration: none; }
+
+  @media (prefers-reduced-motion: reduce) {
+    a.store { transition: none; }
   }
 </style>
 </head>
 <body>
-  <div class="logo">OK Plus DE</div>
-  <a class="btn" href="https://play.google.com/store/apps/details?id=com.okplusde.app">📲 Install</a>
+
+  <div class="langbar">
+    <button data-lang="ar" class="active">عربي</button>
+    <button data-lang="de">DE</button>
+    <button data-lang="en">EN</button>
+  </div>
+
+  <div class="logo-badge"><span>OK+</span></div>
+
+  <h1>OK Plus DE</h1>
+  <p class="tagline" data-i18n="tagline">
+    أكثر من 30 حاسبة ونموذجاً للمعاملات الألمانية.<br>مجاناً · بلا إعلانات · 7 لغات.
+  </p>
+
+  <div class="stores">
+    <!-- App Store -->
+    <a class="store" id="ios" data-badge="آيفون"
+       href="https://apps.apple.com/app/id6802140848">
+      <svg class="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M17.05 12.04c-.03-2.6 2.12-3.85 2.22-3.91-1.21-1.77-3.1-2.01-3.77-2.04-1.6-.16-3.13.94-3.94.94-.81 0-2.07-.92-3.4-.9-1.75.03-3.36 1.02-4.26 2.58-1.82 3.16-.47 7.83 1.3 10.39.86 1.25 1.89 2.65 3.24 2.6 1.3-.05 1.79-.84 3.36-.84s2.01.84 3.39.81c1.4-.02 2.29-1.27 3.14-2.53.99-1.45 1.4-2.86 1.42-2.93-.03-.01-2.72-1.04-2.75-4.13M14.54 4.4c.72-.87 1.2-2.08 1.07-3.29-1.03.04-2.28.69-3.02 1.56-.66.77-1.24 2-1.08 3.18 1.15.09 2.32-.58 3.03-1.45"/>
+      </svg>
+      <span class="txt">
+        <small data-i18n="ios_small">آيفون وآيباد · App Store</small>
+        <b data-i18n="ios_big">تحميل للآيفون</b>
+      </span>
+    </a>
+
+    <!-- Google Play -->
+    <a class="store" id="android" data-badge="أندرويد"
+       href="https://play.google.com/store/apps/details?id=com.okplusde.app">
+      <svg class="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M3.6 2.3c-.3.3-.5.7-.5 1.3v16.8c0 .6.2 1 .5 1.3l.1.1L13 12.6v-.2L3.7 2.2l-.1.1z" fill="#00d0ff"/>
+        <path d="M16.2 15.8L13 12.6v-.2l3.2-3.2.1.1 3.8 2.2c1.1.6 1.1 1.6 0 2.2l-3.8 2.1z" fill="#ffce00"/>
+        <path d="M16.3 15.7L13 12.5 3.6 21.9c.4.4 1 .4 1.7.1l11-6.3" fill="#ff3d47"/>
+        <path d="M16.3 9.3L5.3 3c-.7-.4-1.3-.3-1.7.1l9.4 9.4 3.3-3.2z" fill="#00e676"/>
+      </svg>
+      <span class="txt">
+        <small data-i18n="and_small">أندرويد · Google Play</small>
+        <b data-i18n="and_big">تحميل للأندرويد</b>
+      </span>
+    </a>
+  </div>
+
+  <div class="foot">
+    <span data-i18n="foot">من تطوير Okba Alanzi</span><br>
+    <a href="https://okplus-okba.github.io/Okplus/rechtstexte-ios.html" data-i18n="privacy">سياسة الخصوصية</a>
+  </div>
+
+<script>
+  // ── الترجمات ──
+  const I18N = {
+    ar: {
+      dir: 'rtl', lang: 'ar',
+      title: 'OK Plus DE — تحميل التطبيق',
+      tagline: 'أكثر من 30 حاسبة ونموذجاً للمعاملات الألمانية.<br>مجاناً · بلا إعلانات · 7 لغات.',
+      ios_small: 'آيفون وآيباد · App Store', ios_big: 'تحميل للآيفون',
+      and_small: 'أندرويد · Google Play', and_big: 'تحميل للأندرويد',
+      badge_ios: 'جهازك', badge_and: 'جهازك',
+      foot: 'من تطوير Okba Alanzi', privacy: 'سياسة الخصوصية'
+    },
+    de: {
+      dir: 'ltr', lang: 'de',
+      title: 'OK Plus DE — App herunterladen',
+      tagline: 'Über 30 Rechner und Vorlagen für deutsche Behördenthemen.<br>Kostenlos · werbefrei · 7 Sprachen.',
+      ios_small: 'iPhone & iPad · App Store', ios_big: 'Für iPhone laden',
+      and_small: 'Android · Google Play', and_big: 'Für Android laden',
+      badge_ios: 'Dein Gerät', badge_and: 'Dein Gerät',
+      foot: 'Entwickelt von Okba Alanzi', privacy: 'Datenschutz'
+    },
+    en: {
+      dir: 'ltr', lang: 'en',
+      title: 'OK Plus DE — Download the app',
+      tagline: '30+ calculators and templates for German authorities.<br>Free · ad-free · 7 languages.',
+      ios_small: 'iPhone & iPad · App Store', ios_big: 'Download for iPhone',
+      and_small: 'Android · Google Play', and_big: 'Download for Android',
+      badge_ios: 'Your device', badge_and: 'Your device',
+      foot: 'Made by Okba Alanzi', privacy: 'Privacy Policy'
+    }
+  };
+
+  function applyLang(code) {
+    const t = I18N[code];
+    const html = document.documentElement;
+    html.lang = t.lang;
+    html.dir = t.dir;
+    document.title = t.title;
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+      const key = el.getAttribute('data-i18n');
+      if (t[key] !== undefined) el.innerHTML = t[key];
+    });
+    // شارة "جهازك" حسب اللغة
+    document.getElementById('ios').setAttribute('data-badge', t.badge_ios);
+    document.getElementById('android').setAttribute('data-badge', t.badge_and);
+    // إعادة تطبيق التوصية (لأن الشارة تغيّرت)
+    highlightDevice();
+    // حالة أزرار اللغة
+    document.querySelectorAll('.langbar button').forEach(b => {
+      b.classList.toggle('active', b.getAttribute('data-lang') === code);
+    });
+  }
+
+  // ── إبراز الزر المناسب لجهاز الزائر ──
+  function highlightDevice() {
+    const ua = navigator.userAgent || '';
+    const ios = document.getElementById('ios');
+    const android = document.getElementById('android');
+    ios.classList.remove('recommended');
+    android.classList.remove('recommended');
+    if (/iPhone|iPad|iPod/i.test(ua)) {
+      ios.classList.add('recommended');
+      ios.parentNode.prepend(ios); // ضعه أولاً
+    } else if (/Android/i.test(ua)) {
+      android.classList.add('recommended');
+      android.parentNode.prepend(android);
+    }
+  }
+
+  // أزرار اللغة
+  document.querySelectorAll('.langbar button').forEach(btn => {
+    btn.addEventListener('click', () => applyLang(btn.getAttribute('data-lang')));
+  });
+
+  // اللغة الافتراضية حسب متصفح الزائر
+  (function init() {
+    const nav = (navigator.language || 'ar').slice(0,2);
+    const start = I18N[nav] ? nav : 'ar';
+    applyLang(start);
+  })();
+</script>
 </body>
 </html>
