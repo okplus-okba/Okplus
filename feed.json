@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "14.08.2026 00:07"
+    "last_updated": "25.08.2026 08:46"
   },
   "gold": {
-    "k24": 121.39,
-    "k21": 106.21,
-    "k18": 91.04,
-    "updatedAt": "14.08.2026 00:07"
+    "k24": 128.2,
+    "k21": 112.17,
+    "k18": 96.15,
+    "updatedAt": "25.08.2026 08:46"
   },
   "news": [
     {
@@ -73,13 +73,13 @@
     }
   ],
   "promo": {
-    "ar": "هذا هو الاصدار الاول من تطبيقنا يرجى تفحصه بعمق واخبارنا بأي تعديلات مطلوبه\ninfo@okplus-okba.de",
-    "de": "Dies ist die erste Version unserer App. Bitte überprüfe sie gründlich und lass es uns wissen, wenn Änderungen erforderlich sind.\ninfo@okplus-okba.de",
-    "en": "This is the first version of our app. Please check it deeply and let us know if any changes are needed.\ninfo@okplus-okba.de",
-    "uk": "Це перша версія нашого додатка. Будь ласка, перевірте її детально та повідомте нам, якщо потрібні будь-які зміни.\ninfo@okplus-okba.de",
-    "tr": "Bu, uygulamamızın ilk sürümüdür. Lütfen derinlemesine kontrol edin ve herhangi bir değişiklik gerekirse bize bildirin.\ninfo@okplus-okba.de",
-    "fa": "این اولین نسخه از برنامه ماست. لطفاً آن را به طور کامل بررسی کنید و هرگونه تغییر مورد نیاز را به ما اطلاع دهید.&#10; info@okplus-okba.de",
-    "ru": "Это первая версия нашего приложения. Пожалуйста, внимательно проверьте ее и сообщите нам, если понадобятся какие-либо изменения.\ninfo@okplus-okba.de",
+    "ar": "اذا كنت تتمنى اضافة خدمات جديده فقط اخبرنا .\ninfo@okplus-okba.de",
+    "de": "Wenn Sie neue Dienste hinzufügen möchten, lassen Sie es uns einfach wissen .\ninfo@okplus-okba.de",
+    "en": "If you wish to add new services, just let us know .\ninfo@okplus-okba.de",
+    "uk": "Якщо ви бажаєте додати нові послуги, повідомте нас про це .\ninfo@okplus-okba.de",
+    "tr": "Yeni hizmetler eklemek isterseniz bize bildirmeniz yeterlidir.\ninfo@okplus-okba.de",
+    "fa": "اگر مایل به اضافه کردن خدمات جدید هستید، کافیست به ما اطلاع دهید.&#10; info@okplus-okba.de",
+    "ru": "Если вы хотите добавить новые услуги, просто сообщите нам .\ninfo@okplus-okba.de",
     "visible": true,
     "active": true
   },
@@ -98,33 +98,33 @@
     "alert": {
       "visible": true,
       "color": "red",
-      "ar": "أهلاً وسهلاً بالجميع ، الرجاء مشاركة التطبيق و تقيّمه على المتجر .",
-      "de": "Hallo zusammen , bitte teile und bewerte die App im Store .",
-      "en": "Hi everyone , please share and rate the app on the store .",
-      "uk": "Привіт усім! Поділіться додатком і оцініть його в магазині .",
-      "tr": "Herkese merhaba, lütfen uygulamayı mağazada paylaşın ve puanlayın.",
-      "fa": "به همه خوش آمدید، لطفاً برنامه را به اشتراک بگذارید و در فروشگاه به آن امتیاز دهید.",
-      "ru": "Всем привет, поделитесь приложением и оцените его в магазине ."
+      "ar": "فريق OK Plus DE يتمنى لكم يوم سعيد 😊",
+      "de": "OK Plus DE Team wünscht Ihnen einen guten Tag 😊",
+      "en": "OK Plus DE team wishes you a good day 😊",
+      "uk": "Команда OK Plus DE бажає вам гарного дня 😊",
+      "tr": "OK Plus DE ekibi iyi günler diler 😊",
+      "fa": "تیم OK Plus DE روز خوبی را برای شما آرزو می‌کند 😊",
+      "ru": "Команда OK Plus DE желает вам хорошего дня 😊"
     },
     "tip_of_day": {
       "visible": true,
-      "ar": "من يرغب بشراء الذهب هذه أفضل فرصه بسبب انخفاض الأسعار .",
-      "de": "Wer Gold kaufen möchte, hat aufgrund der niedrigen Preise die besten Chancen.",
-      "en": "Those who want to buy gold have the best chance because of the low prices .",
-      "uk": "Ті, хто хоче купити золото, мають найкращі шанси через низькі ціни .",
-      "tr": "Altın almak isteyenler, düşük fiyatlar nedeniyle en iyi şansa sahipler.",
-      "fa": "برای کسانی که مایل به خرید طلا هستند، به دلیل قیمت‌های پایین، این بهترین فرصت است.",
-      "ru": "Те, кто хочет купить золото, имеют лучшие шансы из-за низких цен ."
+      "ar": "العطله المدرسيه تنتهي هذا الاسبوع .",
+      "de": "Die Schulferien enden diese Woche .",
+      "en": "The school holiday ends this week .",
+      "uk": "На цьому тижні закінчуються шкільні канікули.",
+      "tr": "Okul tatili bu hafta sona eriyor.",
+      "fa": "تعطیلات مدارس این هفته به پایان می‌رسد.",
+      "ru": "Школьные каникулы заканчиваются на этой неделе ."
     },
     "splash_msg": {
       "visible": true,
-      "ar": "أهلا بكم بأصدارنا  الأول",
-      "de": "Willkommen zu unserer ersten  Ausgabe",
-      "en": "Welcome to our first  edition",
-      "uk": "Ласкаво просимо до нашого першого  видання",
-      "tr": "İlk  baskımıza hoş geldiniz",
-      "fa": "به اولین نسخه ما خوش آمدید",
-      "ru": "Добро пожаловать в наше первое  издание"
+      "ar": "أهلا وسهلا بالجميع",
+      "de": "Willkommen, alle zusammen.",
+      "en": "Hello, everybody.",
+      "uk": "Вітаємо всіх.",
+      "tr": "Hepiniz hoş geldiniz.",
+      "fa": "به همه خوش آمدید",
+      "ru": "Всем добро пожаловать."
     }
   },
   "cards": {
