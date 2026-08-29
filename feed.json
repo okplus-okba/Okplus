@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "25.08.2026 08:46"
+    "last_updated": "29.08.2026 16:16"
   },
   "gold": {
-    "k24": 128.2,
-    "k21": 112.17,
-    "k18": 96.15,
-    "updatedAt": "25.08.2026 08:46"
+    "k24": 123.65,
+    "k21": 108.2,
+    "k18": 92.74,
+    "updatedAt": "29.08.2026 16:16"
   },
   "news": [
     {
@@ -98,13 +98,13 @@
     "alert": {
       "visible": true,
       "color": "red",
-      "ar": "فريق OK Plus DE يتمنى لكم يوم سعيد 😊",
-      "de": "OK Plus DE Team wünscht Ihnen einen guten Tag 😊",
-      "en": "OK Plus DE team wishes you a good day 😊",
-      "uk": "Команда OK Plus DE бажає вам гарного дня 😊",
-      "tr": "OK Plus DE ekibi iyi günler diler 😊",
-      "fa": "تیم OK Plus DE روز خوبی را برای شما آرزو می‌کند 😊",
-      "ru": "Команда OK Plus DE желает вам хорошего дня 😊"
+      "ar": "أتمنى لكم عطلة نهاية أسبوع سعيدة 😊",
+      "de": "Ich wünsche Ihnen ein schönes Wochenende 😊",
+      "en": "Wishing you a pleasant weekend ahead.",
+      "uk": "Гарних вихідних 😊",
+      "tr": "İyi hafta sonları 😊",
+      "fa": "آخر هفته شادی رو براتون آرزو می‌کنم 😊",
+      "ru": "Приятных выходных 😊"
     },
     "tip_of_day": {
       "visible": true,
@@ -136,7 +136,7 @@
     "kinderzuschlag_online_pdf": "https://web.arbeitsagentur.de/kiz/ui/start",
     "wohngeld_pdf": "https://recht.nrw.de/system/files/VA/13650-18884-mbl32-4anlage1.pdf",
     "anlage_ek_pdf": "https://www.arbeitsagentur.de/datei/anlageek_ba032960.pdf",
-    "elterngeld_pdf": "https://www.arbeitsagentur.de/datei/kg1-anlagekind_ba033765.pdf",
+    "elterngeld_pdf": "https://www.familienportal.nrw/sites/default/files/2025-03/Antragsformular%20BEEG%20NRW%20Stand%20Mai%202025.pdf",
     "familienversicherung_pdf": "https://www.aok.de/pk/versichertenservice/antrag-familienversicherung/",
     "einbuergerung_pdf": "https://www.mkjfgfi.nrw/system/files/media/document/file/anlage_1_eb-antrag_2024_befullbar_0.pdf",
     "netto": {
