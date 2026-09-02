@@ -7,15 +7,26 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "29.08.2026 16:16"
+    "last_updated": "03.09.2026 01:07"
   },
   "gold": {
-    "k24": 123.65,
-    "k21": 108.2,
-    "k18": 92.74,
-    "updatedAt": "29.08.2026 16:16"
+    "k24": 121.69,
+    "k21": 106.48,
+    "k18": 91.26,
+    "updatedAt": "03.09.2026 01:07"
   },
   "news": [
+    {
+      "ar": "تغييرات جديده بضريبة الدخل , دراسة تخفيضها على ذوي الدخل المنخفض",
+      "de": "Neue Änderungen der Einkommensteuer , Untersuchung ihrer Reduzierung bei Menschen mit niedrigem Einkommen",
+      "en": "New changes to income tax, studying its reduction on low-income people",
+      "uk": "Нові зміни до податку на прибуток , вивчення його зменшення на малозабезпечених",
+      "tr": "Gelir vergisinde yapılan yeni değişiklikler, düşük gelirli insanlar üzerindeki azaltımı inceliyor",
+      "fa": "تغییرات جدید در مالیات بر درآمد؛ مطالعه‌ای برای کاهش آن برای افراد کم‌درآمد در حال انجام است.",
+      "ru": "Новые изменения в подоходном налоге, изучение его снижения на малообеспеченных",
+      "date": "03.09.2026",
+      "visible": true
+    },
     {
       "ar": "من المتوقع تسجيل اعلى درجة حرارة في يونيو على الاطلاق",
       "de": "Es wird erwartet, dass die Juni-Temperatur Allzeithochs erreichen wird",
@@ -98,33 +109,33 @@
     "alert": {
       "visible": true,
       "color": "red",
-      "ar": "أتمنى لكم عطلة نهاية أسبوع سعيدة 😊",
-      "de": "Ich wünsche Ihnen ein schönes Wochenende 😊",
-      "en": "Wishing you a pleasant weekend ahead.",
-      "uk": "Гарних вихідних 😊",
-      "tr": "İyi hafta sonları 😊",
-      "fa": "آخر هفته شادی رو براتون آرزو می‌کنم 😊",
-      "ru": "Приятных выходных 😊"
+      "ar": "الرجاء تقييم التطبيق على المتجر ❤️",
+      "de": "Bitte bewerten Sie die App im Store ❤️",
+      "en": "Please rate the app on the store ❤️",
+      "uk": "Оцініть додаток у закладі ❤️",
+      "tr": "Lütfen mağazadaki uygulamaya puan verin ❤️",
+      "fa": "لطفا به برنامه در فروشگاه امتیاز دهید ❤️",
+      "ru": "Оцените приложение в магазине ❤️"
     },
     "tip_of_day": {
       "visible": true,
-      "ar": "العطله المدرسيه تنتهي هذا الاسبوع .",
-      "de": "Die Schulferien enden diese Woche .",
-      "en": "The school holiday ends this week .",
-      "uk": "На цьому тижні закінчуються шкільні канікули.",
-      "tr": "Okul tatili bu hafta sona eriyor.",
-      "fa": "تعطیلات مدارس این هفته به پایان می‌رسد.",
-      "ru": "Школьные каникулы заканчиваются на этой неделе ."
+      "ar": "بدأ اليوم العام الدراسي بالعديد من المقاطعات .",
+      "de": "Das Schuljahr begann in vielen Landkreisen .",
+      "en": "The school year began in many counties .",
+      "uk": "Навчальний рік розпочався у багатьох округах .",
+      "tr": "Okul yılı birçok ilçede başladı.",
+      "fa": "سال تحصیلی از امروز در بسیاری از استان‌ها آغاز شد.",
+      "ru": "Учебный год начался во многих округах ."
     },
     "splash_msg": {
       "visible": true,
-      "ar": "أهلا وسهلا بالجميع",
-      "de": "Willkommen, alle zusammen.",
+      "ar": "أهلا وسهلا بالجميع 💕",
+      "de": "Willkommen, alle zusammen. 💕",
       "en": "Hello, everybody.",
-      "uk": "Вітаємо всіх.",
-      "tr": "Hepiniz hoş geldiniz.",
-      "fa": "به همه خوش آمدید",
-      "ru": "Всем добро пожаловать."
+      "uk": "Вітаємо всіх. 💕",
+      "tr": "Hepiniz hoş geldiniz. 💕",
+      "fa": "به همگی خوش اومدین 💕",
+      "ru": "Всем добро пожаловать. 💕"
     }
   },
   "cards": {
