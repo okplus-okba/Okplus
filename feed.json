@@ -7,15 +7,26 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "03.09.2026 01:07"
+    "last_updated": "09.09.2026 23:11"
   },
   "gold": {
-    "k24": 121.69,
-    "k21": 106.48,
-    "k18": 91.26,
-    "updatedAt": "03.09.2026 01:07"
+    "k24": 121.74,
+    "k21": 106.52,
+    "k18": 91.3,
+    "updatedAt": "09.09.2026 23:11"
   },
   "news": [
+    {
+      "ar": "زيادة قريبه بحد الدعم للعودة الطوعيه",
+      "de": "Der Anstieg liegt nahe an der Grenze der Unterstützung für die freiwillige Rückkehr",
+      "en": "Increase is close to the limit of support for voluntary return",
+      "uk": "Збільшення близьке до ліміту підтримки добровільного повернення",
+      "tr": "Artış, gönüllü geri dönüş için destek sınırına yakın",
+      "fa": "افزایش تقریباً فوری سقف حمایتی برای بازگشت داوطلبانه.",
+      "ru": "Увеличение близко к пределу поддержки добровольного возвращения",
+      "date": "09.09.2026",
+      "visible": true
+    },
     {
       "ar": "تغييرات جديده بضريبة الدخل , دراسة تخفيضها على ذوي الدخل المنخفض",
       "de": "Neue Änderungen der Einkommensteuer , Untersuchung ihrer Reduzierung bei Menschen mit niedrigem Einkommen",
@@ -119,13 +130,13 @@
     },
     "tip_of_day": {
       "visible": true,
-      "ar": "بدأ اليوم العام الدراسي بالعديد من المقاطعات .",
-      "de": "Das Schuljahr begann in vielen Landkreisen .",
-      "en": "The school year began in many counties .",
-      "uk": "Навчальний рік розпочався у багатьох округах .",
-      "tr": "Okul yılı birçok ilçede başladı.",
-      "fa": "سال تحصیلی از امروز در بسیاری از استان‌ها آغاز شد.",
-      "ru": "Учебный год начался во многих округах ."
+      "ar": "نظّم  وقتك  ولا  تأجل  مهامك  الصعبة  إلى  وقت  لاحق.",
+      "de": "Organisieren  Sie Ihre Zeit  und  verschieben Sie  Ihre  herausfordernden Aufgaben nicht auf später.",
+      "en": "Organize  your time  and don't  put  off your  challenging tasks until later.",
+      "uk": "Організуйте  свій час  і не  відкладайте  складні завдання на потім.",
+      "tr": "Zamanınızı organize edin ve zorlu görevlerinizi daha  sonraya  ertelemeyin.",
+      "fa": "وقت خود را سازماندهی کنید و کارهای دشوار خود را به بعد موکول نکنید.",
+      "ru": "Организуйте  свое время  и не  откладывайте  сложные задачи на потом."
     },
     "splash_msg": {
       "visible": true,
