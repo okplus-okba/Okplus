@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "09.09.2026 23:11"
+    "last_updated": "10.09.2026 11:03"
   },
   "gold": {
     "k24": 121.74,
     "k21": 106.52,
     "k18": 91.3,
-    "updatedAt": "09.09.2026 23:11"
+    "updatedAt": "10.09.2026 11:03"
   },
   "news": [
     {
@@ -120,13 +120,13 @@
     "alert": {
       "visible": true,
       "color": "red",
-      "ar": "الرجاء تقييم التطبيق على المتجر ❤️",
-      "de": "Bitte bewerten Sie die App im Store ❤️",
-      "en": "Please rate the app on the store ❤️",
-      "uk": "Оцініть додаток у закладі ❤️",
-      "tr": "Lütfen mağazadaki uygulamaya puan verin ❤️",
-      "fa": "لطفا به برنامه در فروشگاه امتیاز دهید ❤️",
-      "ru": "Оцените приложение в магазине ❤️"
+      "ar": "تحذير تجريبي لأجهزة الانذار  الآن .",
+      "de": "Probewarnung für Alarme  jetzt .",
+      "en": "Disables the alarm now.",
+      "uk": "Пробне попередження для сигналів тривоги  зараз .",
+      "tr": "Alarm sistemleri için deneme amaçlı bir uyarı özelliği artık mevcut.",
+      "fa": "اکنون یک هشدار آزمایشی برای سیستم‌های هشدار در دسترس است.",
+      "ru": "Пробное предупреждение для аварийных сигналов."
     },
     "tip_of_day": {
       "visible": true,
