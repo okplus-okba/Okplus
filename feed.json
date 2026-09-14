@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "10.09.2026 11:03"
+    "last_updated": "14.09.2026 03:07"
   },
   "gold": {
-    "k24": 121.74,
-    "k21": 106.52,
-    "k18": 91.3,
-    "updatedAt": "10.09.2026 11:03"
+    "k24": 120.64,
+    "k21": 105.41,
+    "k18": 90.35,
+    "updatedAt": "14.09.2026 03:07"
   },
   "news": [
     {
@@ -120,13 +120,13 @@
     "alert": {
       "visible": true,
       "color": "red",
-      "ar": "تحذير تجريبي لأجهزة الانذار  الآن .",
-      "de": "Probewarnung für Alarme  jetzt .",
-      "en": "Disables the alarm now.",
-      "uk": "Пробне попередження для сигналів тривоги  зараз .",
-      "tr": "Alarm sistemleri için deneme amaçlı bir uyarı özelliği artık mevcut.",
-      "fa": "اکنون یک هشدار آزمایشی برای سیستم‌های هشدار در دسترس است.",
-      "ru": "Пробное предупреждение для аварийных сигналов."
+      "ar": "بداية أسبوع جميلة للجميع 💐",
+      "de": "Ein toller Start in die Woche für alle 💐",
+      "en": "A great start to a week for everyone 💐",
+      "uk": "Чудовий початок тижня для всіх 💐",
+      "tr": "Herkes için bir haftaya harika bir başlangıç 💐",
+      "fa": "شروع هفته‌ی فوق‌العاده‌ای داشته باشید همگی 💐",
+      "ru": "Отличное начало недели для всех 💐"
     },
     "tip_of_day": {
       "visible": true,
