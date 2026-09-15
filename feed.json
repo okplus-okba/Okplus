@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "15.09.2026 02:23"
+    "last_updated": "15.09.2026 02:31"
   },
   "gold": {
     "k24": 119.64,
     "k21": 105.41,
     "k18": 90.35,
-    "updatedAt": "15.09.2026 02:23"
+    "updatedAt": "15.09.2026 02:31"
   },
   "news": [
     {
@@ -234,7 +234,7 @@
     },
     "alert": {
       "visible": true,
-      "color": "red",
+      "color": "green",
       "ar": "اكتشف البطاقات الذهبيه ومولدات pdf",
       "de": "Entdecken Sie Goldkarten und PDF-Generatoren",
       "en": "Discover gold cards and pdf generators",
