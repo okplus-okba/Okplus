@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "15.09.2026 02:31"
+    "last_updated": "28.09.2026 10:59"
   },
   "gold": {
-    "k24": 119.64,
-    "k21": 105.41,
-    "k18": 90.35,
-    "updatedAt": "15.09.2026 02:31"
+    "k24": 117.26,
+    "k21": 102.6,
+    "k18": 87.95,
+    "updatedAt": "28.09.2026 10:59"
   },
   "news": [
     {
@@ -106,14 +106,14 @@
     "active": true
   },
   "youtube": {
-    "url": "https://youtu.be/l7EdMAUq8k0?si=8hrT_ukLlxIcOuXT",
-    "title_ar": "7 وظائف بلا تدريب مهني * شرح عربي *",
-    "title_de": "7 Arbeitsplätze ohne Berufsausbildung * Arabische Erklärung *",
-    "title_en": "7 jobs without vocational training * Arabic explanation *",
-    "title_uk": "7 робочих місць без професійної підготовки * Арабське пояснення *",
-    "title_tr": "Mesleki eğitimi olmayan 7 iş * Arapça açıklama *",
-    "title_fa": "۷ شغل بدون آموزش حرفه‌ای * توضیح به زبان عربی *",
-    "title_ru": "7 рабочих мест без профессиональной подготовки * Арабское объяснение *",
+    "url": "https://youtu.be/aucYLAWRRT8",
+    "title_ar": "تعبئة طلب kinderzuschlag",
+    "title_de": "Füllen Sie einen Kinderzuschlagsantrag aus",
+    "title_en": "Fill out a kinderzuschlag application",
+    "title_uk": "Заповніть заявку kinderzuschlag",
+    "title_tr": "Bir kinderzuschlag başvurusu doldurun",
+    "title_fa": "پر کردن درخواست kinderzuschlag",
+    "title_ru": "Заполните заявку kinderzuschlag",
     "visible": true
   },
   "global": {
@@ -150,17 +150,17 @@
     }
   },
   "cards": {
-    "kindergeld_pdf": "https://www.arbeitsagentur.de/datei/kg1-antrag-kindergeld_ba036550.pdf",
-    "ha_pdf": "https://www.arbeitsagentur.de/datei/antrag-sgb2_ba042689.pdf",
-    "wba_pdf": "https://www.arbeitsagentur.de/datei/weiterbewilligung-sgb2_ba042699.pdf",
-    "kinderzuschlag_pdf": "https://www.arbeitsagentur.de/datei/kiz1-antrag_ba036540.pdf",
-    "kurzantrag_pdf": "https://www.arbeitsagentur.de/datei/kiz1-k_ba146472.pdf",
+    "kindergeld_pdf": "https://okplus-okba.de/go/kindergeld",
+    "ha_pdf": "https://okplus-okba.de/go/jobcenter-antrag",
+    "wba_pdf": "https://okplus-okba.de/go/jobcenter-wba",
+    "kinderzuschlag_pdf": "https://okplus-okba.de/go/kinderzuschlag",
+    "kurzantrag_pdf": "https://okplus-okba.de/go/kiz-kurzantrag",
     "kinderzuschlag_online_pdf": "https://web.arbeitsagentur.de/kiz/ui/start",
-    "wohngeld_pdf": "https://recht.nrw.de/system/files/VA/13650-18884-mbl32-4anlage1.pdf",
-    "anlage_ek_pdf": "https://www.arbeitsagentur.de/datei/anlageek_ba032960.pdf",
-    "elterngeld_pdf": "https://www.familienportal.nrw/sites/default/files/2025-03/Antragsformular%20BEEG%20NRW%20Stand%20Mai%202025.pdf",
-    "familienversicherung_pdf": "https://www.aok.de/pk/versichertenservice/antrag-familienversicherung/",
-    "einbuergerung_pdf": "https://www.mkjfgfi.nrw/system/files/media/document/file/anlage_1_eb-antrag_2024_befullbar_0.pdf",
+    "wohngeld_pdf": "https://okplus-okba.de/go/wohngeld",
+    "anlage_ek_pdf": "https://okplus-okba.de/go/jobcenter-ek",
+    "elterngeld_pdf": "https://okplus-okba.de/go/elterngeld",
+    "familienversicherung_pdf": "https://okplus-okba.de/go/familienversicherung",
+    "einbuergerung_pdf": "https://okplus-okba.de/go/einbuergerung",
     "netto": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
       "youtube_visible": true,
