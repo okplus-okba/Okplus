@@ -7,15 +7,37 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "28.09.2026 11:00"
+    "last_updated": "21.10.2026 23:35"
   },
   "gold": {
-    "k24": 117.26,
-    "k21": 102.6,
-    "k18": 87.95,
-    "updatedAt": "28.09.2026 11:00"
+    "k24": 118.66,
+    "k21": 103.83,
+    "k18": 89.0,
+    "updatedAt": "21.10.2026 23:35"
   },
   "news": [
+    {
+      "ar": "ابتداء من الشهر القادم ستبدأ رحلات طيران  مباشرة من المانيا الى العراق .",
+      "de": "Ab nächsten Monat starten Direktflüge von Deutschland in den Irak .",
+      "en": "Starting next month, direct flights from Germany to Iraq will begin.",
+      "uk": "З наступного місяця почнуться прямі рейси з Німеччини до Іраку .",
+      "tr": "Önümüzdeki aydan itibaren Almanya'dan Irak'a direkt uçuşlar başlayacak.",
+      "fa": "از ماه آینده پروازهای مستقیم از آلمان به عراق آغاز خواهد شد.",
+      "ru": "Со следующего месяца начнутся прямые рейсы из Германии в Ирак .",
+      "date": "21.10.2026",
+      "visible": true
+    },
+    {
+      "ar": "تشديد جديد على امتحان B1 و صعوبة النجاح",
+      "de": "Neue Betonung der B1-Prüfung und der Schwierigkeit des Bestehens",
+      "en": "New emphasis on the B1 exam and the difficulty of passing",
+      "uk": "Новий акцент на іспиті В1 та складності складання",
+      "tr": "B1 sınavına yeni vurgu ve geçme zorluğu",
+      "fa": "تأکید جدید بر آزمون B1 و دشواری قبولی در آن",
+      "ru": "Новый акцент на экзамене B1 и сложности сдачи",
+      "date": "21.10.2026",
+      "visible": true
+    },
     {
       "ar": "زيادة قريبه بحد الدعم للعودة الطوعيه",
       "de": "Der Anstieg liegt nahe an der Grenze der Unterstützung für die freiwillige Rückkehr",
@@ -95,13 +117,13 @@
     }
   ],
   "promo": {
-    "ar": "اذا كنت تتمنى اضافة خدمات جديده فقط اخبرنا .\ninfo@okplus-okba.de",
-    "de": "Wenn Sie neue Dienste hinzufügen möchten, lassen Sie es uns einfach wissen .\ninfo@okplus-okba.de",
-    "en": "If you wish to add new services, just let us know .\ninfo@okplus-okba.de",
-    "uk": "Якщо ви бажаєте додати нові послуги, повідомте нас про це .\ninfo@okplus-okba.de",
-    "tr": "Yeni hizmetler eklemek isterseniz bize bildirmeniz yeterlidir.\ninfo@okplus-okba.de",
-    "fa": "اگر مایل به اضافه کردن خدمات جدید هستید، کافیست به ما اطلاع دهید.&#10; info@okplus-okba.de",
-    "ru": "Если вы хотите добавить новые услуги, просто сообщите нам .\ninfo@okplus-okba.de",
+    "ar": "فريق OK PLUS يتمنى ان تستمتعوا بكل خدمات التطبيق , الرجاء مشاركة وتقييم التطبيق على المتجر 💐",
+    "de": "Das OK PLUS-Team hofft, dass Sie alle Dienste der Anwendung genießen werden. Bitte teilen und bewerten Sie die Anwendung im Store 💐",
+    "en": "The OK plus team hopes that you will enjoy all the services of the application , please share and evaluate the application on the store 💐",
+    "uk": "Команда ОК плюс сподівається, що вам сподобаються всі сервіси додатку , будь ласка, поділіться та оцініть додаток в магазині 💐",
+    "tr": "OK Plus ekibi, uygulamanın tüm hizmetlerinden yararlanacağınızı umuyor, lütfen uygulamayı mağazada paylaşın ve değerlendirin 💐",
+    "fa": "تیم OK PLUS امیدوار است از تمام خدمات برنامه لذت ببرید. لطفاً برنامه را در فروشگاه به اشتراک بگذارید و به آن امتیاز دهید 💐",
+    "ru": "Команда ОК плюс надеется, что вам понравятся все сервисы приложения , поделитесь и оцените приложение в магазине 💐",
     "visible": true,
     "active": true
   },
@@ -119,24 +141,24 @@
   "global": {
     "alert": {
       "visible": true,
-      "color": "green",
-      "ar": "بداية أسبوع جميلة للجميع 💐",
-      "de": "Ein toller Start in die Woche für alle 💐",
-      "en": "A great start to a week for everyone 💐",
-      "uk": "Чудовий початок тижня для всіх 💐",
-      "tr": "Herkes için bir haftaya harika bir başlangıç 💐",
-      "fa": "شروع هفته‌ی فوق‌العاده‌ای داشته باشید همگی 💐",
-      "ru": "Отличное начало недели для всех 💐"
+      "color": "red",
+      "ar": "الرجاء تحديث التطبيق من المتجر💐",
+      "de": "Bitte aktualisieren Sie die App aus dem Store💐",
+      "en": "Please update the app from the store💐",
+      "uk": "Оновіть додаток у закладі💐",
+      "tr": "Lütfen uygulamayı mağazadan güncelleyin💐",
+      "fa": "لطفا برنامه را از فروشگاه 💐 به‌روزرسانی کنید.",
+      "ru": "Обновите приложение в магазине💐"
     },
     "tip_of_day": {
       "visible": true,
-      "ar": "نظّم  وقتك  ولا  تأجل  مهامك  الصعبة  إلى  وقت  لاحق.",
-      "de": "Organisieren  Sie Ihre Zeit  und  verschieben Sie  Ihre  herausfordernden Aufgaben nicht auf später.",
-      "en": "Organize  your time  and don't  put  off your  challenging tasks until later.",
-      "uk": "Організуйте  свій час  і не  відкладайте  складні завдання на потім.",
-      "tr": "Zamanınızı organize edin ve zorlu görevlerinizi daha  sonraya  ertelemeyin.",
-      "fa": "وقت خود را سازماندهی کنید و کارهای دشوار خود را به بعد موکول نکنید.",
-      "ru": "Организуйте  свое время  и не  откладывайте  сложные задачи на потом."
+      "ar": "إقرأ  كل يوم لو صفحه واحده من أي كتاب وستشكرني لاحقا .",
+      "de": "Lies  jeden Tag eine Seite eines Buches und du wirst es mir später danken.",
+      "en": "Read  every day if one page of any book and you will thank me later .",
+      "uk": "Прочитайте  щодня по одній сторінці будь-якої книги, і ви подякуєте мені пізніше .",
+      "tr": "Herhangi bir kitabın bir sayfasını her gün oku ve daha sonra bana teşekkür edeceksin.",
+      "fa": "هر روز حداقل یک صفحه از هر کتابی را بخوانید، بعداً از من تشکر خواهید کرد.",
+      "ru": "Читайте  каждый день по одной странице любой книги, и вы поблагодарите меня позже ."
     },
     "splash_msg": {
       "visible": true,
