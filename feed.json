@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "21.10.2026 23:35"
+    "last_updated": "25.10.2026 09:22"
   },
   "gold": {
     "k24": 118.66,
     "k21": 103.83,
     "k18": 89.0,
-    "updatedAt": "21.10.2026 23:35"
+    "updatedAt": "25.10.2026 09:22"
   },
   "news": [
     {
@@ -152,13 +152,13 @@
     },
     "tip_of_day": {
       "visible": true,
-      "ar": "إقرأ  كل يوم لو صفحه واحده من أي كتاب وستشكرني لاحقا .",
-      "de": "Lies  jeden Tag eine Seite eines Buches und du wirst es mir später danken.",
-      "en": "Read  every day if one page of any book and you will thank me later .",
-      "uk": "Прочитайте  щодня по одній сторінці будь-якої книги, і ви подякуєте мені пізніше .",
-      "tr": "Herhangi bir kitabın bir sayfasını her gün oku ve daha sonra bana teşekkür edeceksin.",
-      "fa": "هر روز حداقل یک صفحه از هر کتابی را بخوانید، بعداً از من تشکر خواهید کرد.",
-      "ru": "Читайте  каждый день по одной странице любой книги, и вы поблагодарите меня позже ."
+      "ar": "تم تغيير الساعة ، انتبه للتوقيت الجديد .",
+      "de": "Die Uhr hat sich geändert, achten Sie auf die neue Zeit.",
+      "en": "The clock has changed, pay attention to the new time.",
+      "uk": "Годинник змінився, зверніть увагу на новий час.",
+      "tr": "Saat değişti, yeni saate dikkat edin.",
+      "fa": "ساعت تغییر کرده است، لطفا به زمان جدید توجه کنید.",
+      "ru": "Часы изменились, обратите внимание на новое время."
     },
     "splash_msg": {
       "visible": true,
@@ -172,16 +172,22 @@
     }
   },
   "cards": {
-    "kindergeld_pdf": "https://okplus-okba.de/go/kindergeld",
     "ha_pdf": "https://okplus-okba.de/go/jobcenter-antrag",
+    "anlage_ek_pdf": "https://okplus-okba.de/go/jobcenter-ek",
+    "jobcenter_kdu": "",
+    "jobcenter_ki": "",
+    "jobcenter_wep": "",
+    "jobcenter_vm": "",
+    "jobcenter_sv": "",
     "wba_pdf": "https://okplus-okba.de/go/jobcenter-wba",
+    "kindergeld_pdf": "https://okplus-okba.de/go/kindergeld",
     "kinderzuschlag_pdf": "https://okplus-okba.de/go/kinderzuschlag",
     "kurzantrag_pdf": "https://okplus-okba.de/go/kiz-kurzantrag",
     "kinderzuschlag_online_pdf": "https://web.arbeitsagentur.de/kiz/ui/start",
     "wohngeld_pdf": "https://okplus-okba.de/go/wohngeld",
-    "anlage_ek_pdf": "https://okplus-okba.de/go/jobcenter-ek",
     "elterngeld_pdf": "https://okplus-okba.de/go/elterngeld",
     "familienversicherung_pdf": "https://okplus-okba.de/go/familienversicherung",
+    "steuerklasse": "",
     "einbuergerung_pdf": "https://okplus-okba.de/go/einbuergerung",
     "netto": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
@@ -242,6 +248,42 @@
       "alert_tr": "Burada trafik ihlalini doğru hesaplıyorum.",
       "alert_fa": "بيا، اجازه بده يه نمونه بهتري از اين محصول نشونت بديم.",
       "alert_ru": "Здесь я точно высчитываю нарушение ПДД."
+    },
+    "antraege": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "asylklage": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "kaufvertrag": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
     }
   },
   "pro": {
