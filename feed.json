@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "25.10.2026 09:22"
+    "last_updated": "28.10.2026 21:53"
   },
   "gold": {
     "k24": 118.66,
     "k21": 103.83,
     "k18": 89.0,
-    "updatedAt": "25.10.2026 09:22"
+    "updatedAt": "28.10.2026 21:53"
   },
   "news": [
     {
@@ -141,14 +141,14 @@
   "global": {
     "alert": {
       "visible": true,
-      "color": "red",
-      "ar": "الرجاء تحديث التطبيق من المتجر💐",
-      "de": "Bitte aktualisieren Sie die App aus dem Store💐",
-      "en": "Please update the app from the store💐",
-      "uk": "Оновіть додаток у закладі💐",
-      "tr": "Lütfen uygulamayı mağazadan güncelleyin💐",
-      "fa": "لطفا برنامه را از فروشگاه 💐 به‌روزرسانی کنید.",
-      "ru": "Обновите приложение в магазине💐"
+      "color": "green",
+      "ar": "فريق Ok Plus يتمنى لكم يوم جميل 💐",
+      "de": "Das Ok Plus Team wünscht Ihnen einen schönen Tag 💐",
+      "en": "The Ok Plus team wishes you a nice day 💐",
+      "uk": "Команда Ok Plus бажає вам гарного дня 💐",
+      "tr": "Ok Plus ekibi size iyi günler diler 💐",
+      "fa": "تیم اوکی پلاس روز خوبی را برای شما آرزو می‌کند 💐",
+      "ru": "Команда Ok Plus желает вам хорошего дня 💐"
     },
     "tip_of_day": {
       "visible": true,
