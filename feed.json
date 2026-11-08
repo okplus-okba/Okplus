@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "08.11.2026 18:08"
+    "last_updated": "08.11.2026 18:17"
   },
   "gold": {
-    "k24": 118.66,
-    "k21": 103.83,
-    "k18": 89.0,
-    "updatedAt": "08.11.2026 18:08"
+    "k24": 117.31,
+    "k21": 102.64,
+    "k18": 87.98,
+    "updatedAt": "08.11.2026 18:17"
   },
   "news": [
     {
@@ -285,15 +285,15 @@
       "visible": true,
       "items": [
         {
-          "title_ar": "الإجابة على اسئلة المتابعين * شرح عربي *",
-          "title_de": "Beantwortung von Follower-Fragen * Arabische Erklärung *",
-          "title_en": "Answering Followers' Questions * Arabic Explanation *",
-          "title_uk": "Відповіді на запитання підписників * Пояснення арабською мовою *",
-          "title_tr": "Takipçilerin Sorularını Cevaplama * Arapça Açıklama *",
-          "title_fa": "پاسخ به سوالات دنبال‌کنندگان * توضیح عربی *",
-          "title_ru": "Ответы на вопросы подписчиков * Объяснение на арабском языке *",
+          "title_ar": "نظام المدارس في المانيا * شرح عربي - مدبلج لكل اللغات *",
+          "title_de": "Schulsystem in Deutschland * Arabische Erklärung - für alle Sprachen synchronisiert *",
+          "title_en": "School system in Germany * Arabic explanation - dubbed for all languages *",
+          "title_uk": "Шкільна система в Німеччині * Арабське пояснення - дубльоване для всіх мов *",
+          "title_tr": "Almanya'daki okul sistemi * Arapça açıklama - tüm diller için dublajlı *",
+          "title_fa": "سیستم مدارس آلمان * توضیح به زبان عربی - دوبله شده به همه زبان‌ها *",
+          "title_ru": "Школьная система в Германии * Объяснение на арабском языке - дублируется для всех языков *",
           "visible": true,
-          "url": "https://www.youtube.com/watch?v=A6GYMmxZPhg&t=16s"
+          "url": "https://youtu.be/97BXEz6o2rE"
         },
         {
           "title_ar": "50 سؤال بإمتحان الجنسية الألمانيه * شرح عربي *",
