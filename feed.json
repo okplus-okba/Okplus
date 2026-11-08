@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "28.10.2026 21:53"
+    "last_updated": "08.11.2026 18:08"
   },
   "gold": {
     "k24": 118.66,
     "k21": 103.83,
     "k18": 89.0,
-    "updatedAt": "28.10.2026 21:53"
+    "updatedAt": "08.11.2026 18:08"
   },
   "news": [
     {
@@ -142,7 +142,7 @@
     "alert": {
       "visible": true,
       "color": "green",
-      "ar": "فريق Ok Plus يتمنى لكم يوم جميل 💐",
+      "ar": "نتمنى لكم يوم جميل - هنا تجد شرح البطاقات 👆",
       "de": "Das Ok Plus Team wünscht Ihnen einen schönen Tag 💐",
       "en": "The Ok Plus team wishes you a nice day 💐",
       "uk": "Команда Ok Plus бажає вам гарного дня 💐",
@@ -172,22 +172,16 @@
     }
   },
   "cards": {
-    "ha_pdf": "https://okplus-okba.de/go/jobcenter-antrag",
-    "anlage_ek_pdf": "https://okplus-okba.de/go/jobcenter-ek",
-    "jobcenter_kdu": "",
-    "jobcenter_ki": "",
-    "jobcenter_wep": "",
-    "jobcenter_vm": "",
-    "jobcenter_sv": "",
-    "wba_pdf": "https://okplus-okba.de/go/jobcenter-wba",
     "kindergeld_pdf": "https://okplus-okba.de/go/kindergeld",
+    "ha_pdf": "https://okplus-okba.de/go/jobcenter-antrag",
+    "wba_pdf": "https://okplus-okba.de/go/jobcenter-wba",
     "kinderzuschlag_pdf": "https://okplus-okba.de/go/kinderzuschlag",
     "kurzantrag_pdf": "https://okplus-okba.de/go/kiz-kurzantrag",
     "kinderzuschlag_online_pdf": "https://web.arbeitsagentur.de/kiz/ui/start",
     "wohngeld_pdf": "https://okplus-okba.de/go/wohngeld",
+    "anlage_ek_pdf": "https://okplus-okba.de/go/jobcenter-ek",
     "elterngeld_pdf": "https://okplus-okba.de/go/elterngeld",
     "familienversicherung_pdf": "https://okplus-okba.de/go/familienversicherung",
-    "steuerklasse": "",
     "einbuergerung_pdf": "https://okplus-okba.de/go/einbuergerung",
     "netto": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
@@ -248,42 +242,6 @@
       "alert_tr": "Burada trafik ihlalini doğru hesaplıyorum.",
       "alert_fa": "بيا، اجازه بده يه نمونه بهتري از اين محصول نشونت بديم.",
       "alert_ru": "Здесь я точно высчитываю нарушение ПДД."
-    },
-    "antraege": {
-      "youtube_url": "",
-      "youtube_visible": false,
-      "alert": "",
-      "alert_visible": false,
-      "alert_de": "",
-      "alert_en": "",
-      "alert_uk": "",
-      "alert_tr": "",
-      "alert_fa": "",
-      "alert_ru": ""
-    },
-    "asylklage": {
-      "youtube_url": "",
-      "youtube_visible": false,
-      "alert": "",
-      "alert_visible": false,
-      "alert_de": "",
-      "alert_en": "",
-      "alert_uk": "",
-      "alert_tr": "",
-      "alert_fa": "",
-      "alert_ru": ""
-    },
-    "kaufvertrag": {
-      "youtube_url": "",
-      "youtube_visible": false,
-      "alert": "",
-      "alert_visible": false,
-      "alert_de": "",
-      "alert_en": "",
-      "alert_uk": "",
-      "alert_tr": "",
-      "alert_fa": "",
-      "alert_ru": ""
     }
   },
   "pro": {
