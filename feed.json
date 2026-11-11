@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "08.11.2026 18:17"
+    "last_updated": "11.11.2026 20:13"
   },
   "gold": {
     "k24": 117.31,
     "k21": 102.64,
     "k18": 87.98,
-    "updatedAt": "08.11.2026 18:17"
+    "updatedAt": "11.11.2026 20:13"
   },
   "news": [
     {
@@ -150,15 +150,47 @@
       "fa": "تیم اوکی پلاس روز خوبی را برای شما آرزو می‌کند 💐",
       "ru": "Команда Ok Plus желает вам хорошего дня 💐"
     },
+    "tips": [
+      {
+        "visible": true,
+        "ar": "تريد تغيير تأمين سيارتك؟ رسالة الإلغاء يجب أن تصل غالباً قبل 30 نوفمبر. تحقق من التاريخ في وثيقة التأمين.",
+        "de": "Möchten Sie Ihre Kfz-Versicherung wechseln? Das Kündigungsschreiben muss in der Regel vor dem 30. November eingehen. Überprüfen Sie das Datum in der Versicherungspolice.",
+        "en": "Want to change your car insurance? The cancellation notice must usually be received before November 30. Check the date on your insurance policy.",
+        "uk": "Бажаєте змінити страховку свого автомобіля? Повідомлення про розірвання договору зазвичай має надійти до 30 листопада. Перевірте дату в страховому полісі.",
+        "tr": "Araç sigortanızı değiştirmek mi istiyorsunuz? İptal mektubu genellikle 30 Kasım'dan önce ulaşmalıdır. Sigorta poliçesindeki tarihi kontrol edin.",
+        "fa": "آیا می‌خواهید بیمه خودروی خود را تغییر دهید؟ نامه لغو معمولاً باید قبل از 30 نوامبر برسد. تاریخ را در بیمه‌نامه بررسی کنید.",
+        "ru": "Хотите изменить страховку своего автомобиля? Уведомление об аннулировании обычно должно поступить до 30 ноября. Проверьте дату в страховом полисе."
+      },
+      {
+        "visible": true,
+        "ar": "آخر فرصة: الإقرار الضريبي الاختياري عن سنة 2022 يجب أن يصل إلى Finanzamt حتى 31.12.2026، وبعدها يضيع حقك في الاسترداد.",
+        "de": "Letzte Chance: Die freiwillige Steuererklärung für das Jahr 2022 muss bis zum 31.12.2026 beim Finanzamt eingehen, danach verfällt Ihr Anspruch auf Rückerstattung.",
+        "en": "Last chance: The optional tax return for 2022 must reach the Finanzamt by December 31, 2026, after which your right to a refund will be forfeited.",
+        "uk": "Останній шанс: добровільна податкова декларація за 2022 рік має надійти до податкової інспекції (Finanzamt) до 31.12.2026, після чого ваше право на відшкодування буде втрачено.",
+        "tr": "Son fırsat: 2022 yılına ait isteğe bağlı vergi beyannamesi 31.12.2026 tarihine kadar Vergi Dairesine (Finanzamt) ulaşmalıdır, aksi takdirde geri ödeme hakkınızı kaybedersiniz.",
+        "fa": "آخرین فرصت: اظهارنامه مالیاتی اختیاری برای سال 2022 باید تا تاریخ 31 دسامبر 2026 به اداره مالیات (Finanzamt) برسد، در غیر این صورت حق بازپرداخت خود را از دست خواهید داد.",
+        "ru": "Последний шанс: добровольная налоговая декларация за 2022 год должна поступить в налоговую инспекцию (Finanzamt) до 31.12.2026, после чего вы утратите право на возврат."
+      },
+      {
+        "visible": true,
+        "ar": "في الثلج والجليد يلزم إطار شتوي عليه رمز الجبل مع ندفة الثلج، ورمز M+S وحده لم يعد يكفي. المخالفة من 60 يورو ونقطة.",
+        "de": "Bei Schnee und Eis ist ein Winterreifen mit dem Symbol des Berges mit der Schneeflocke erforderlich. Das Symbol M+S allein reicht nicht mehr aus. Das Bußgeld beträgt 60 Euro und einen Punkt.",
+        "en": "In snow and ice, a winter tire with the mountain symbol and snowflake is required. The M+S symbol alone is no longer sufficient. The fine is 60 euros and one point.",
+        "uk": "Для їзди по снігу та льоду потрібна зимова шина з позначкою гори зі сніжинкою, а позначки M+S вже недостатньо. Штраф становить 60 євро та один штрафний бал.",
+        "tr": "Kar ve buzda, üzerinde kar tanesi ile dağ sembolü bulunan bir kış lastiği gereklidir. Yalnızca M+S sembolü artık yeterli değildir. Cezası 60 Euro ve bir ceza puanıdır.",
+        "fa": "در شرایط برف و یخبندان، استفاده از تایر زمستانی با علامت کوه و دانه برف الزامی است و علامت M+S به تنهایی دیگر کافی نیست. جریمه 60 یورو و یک امتیاز است.",
+        "ru": "Для езды по снегу и льду требуется зимняя шина с символом горы и снежинки. Одного символа M+S больше недостаточно. Штраф составляет 60 евро и один штрафной балл."
+      }
+    ],
     "tip_of_day": {
       "visible": true,
-      "ar": "تم تغيير الساعة ، انتبه للتوقيت الجديد .",
-      "de": "Die Uhr hat sich geändert, achten Sie auf die neue Zeit.",
-      "en": "The clock has changed, pay attention to the new time.",
-      "uk": "Годинник змінився, зверніть увагу на новий час.",
-      "tr": "Saat değişti, yeni saate dikkat edin.",
-      "fa": "ساعت تغییر کرده است، لطفا به زمان جدید توجه کنید.",
-      "ru": "Часы изменились, обратите внимание на новое время."
+      "ar": "تريد تغيير تأمين سيارتك؟ رسالة الإلغاء يجب أن تصل غالباً قبل 30 نوفمبر. تحقق من التاريخ في وثيقة التأمين.",
+      "de": "Möchten Sie Ihre Kfz-Versicherung wechseln? Das Kündigungsschreiben muss in der Regel vor dem 30. November eingehen. Überprüfen Sie das Datum in der Versicherungspolice.",
+      "en": "Want to change your car insurance? The cancellation notice must usually be received before November 30. Check the date on your insurance policy.",
+      "uk": "Бажаєте змінити страховку свого автомобіля? Повідомлення про розірвання договору зазвичай має надійти до 30 листопада. Перевірте дату в страховому полісі.",
+      "tr": "Araç sigortanızı değiştirmek mi istiyorsunuz? İptal mektubu genellikle 30 Kasım'dan önce ulaşmalıdır. Sigorta poliçesindeki tarihi kontrol edin.",
+      "fa": "آیا می‌خواهید بیمه خودروی خود را تغییر دهید؟ نامه لغو معمولاً باید قبل از 30 نوامبر برسد. تاریخ را در بیمه‌نامه بررسی کنید.",
+      "ru": "Хотите изменить страховку своего автомобиля? Уведомление об аннулировании обычно должно поступить до 30 ноября. Проверьте дату в страховом полисе."
     },
     "splash_msg": {
       "visible": true,
@@ -172,16 +204,22 @@
     }
   },
   "cards": {
-    "kindergeld_pdf": "https://okplus-okba.de/go/kindergeld",
     "ha_pdf": "https://okplus-okba.de/go/jobcenter-antrag",
+    "anlage_ek_pdf": "https://okplus-okba.de/go/jobcenter-ek",
+    "jobcenter_kdu": "",
+    "jobcenter_ki": "",
+    "jobcenter_wep": "",
+    "jobcenter_vm": "",
+    "jobcenter_sv": "",
     "wba_pdf": "https://okplus-okba.de/go/jobcenter-wba",
+    "kindergeld_pdf": "https://okplus-okba.de/go/kindergeld",
     "kinderzuschlag_pdf": "https://okplus-okba.de/go/kinderzuschlag",
     "kurzantrag_pdf": "https://okplus-okba.de/go/kiz-kurzantrag",
     "kinderzuschlag_online_pdf": "https://web.arbeitsagentur.de/kiz/ui/start",
     "wohngeld_pdf": "https://okplus-okba.de/go/wohngeld",
-    "anlage_ek_pdf": "https://okplus-okba.de/go/jobcenter-ek",
     "elterngeld_pdf": "https://okplus-okba.de/go/elterngeld",
     "familienversicherung_pdf": "https://okplus-okba.de/go/familienversicherung",
+    "steuerklasse": "",
     "einbuergerung_pdf": "https://okplus-okba.de/go/einbuergerung",
     "netto": {
       "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
@@ -242,6 +280,42 @@
       "alert_tr": "Burada trafik ihlalini doğru hesaplıyorum.",
       "alert_fa": "بيا، اجازه بده يه نمونه بهتري از اين محصول نشونت بديم.",
       "alert_ru": "Здесь я точно высчитываю нарушение ПДД."
+    },
+    "antraege": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "asylklage": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "kaufvertrag": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
     }
   },
   "pro": {
@@ -355,5 +429,9 @@
         }
       ]
     }
+  },
+  "links": {
+    "visible": true,
+    "items": []
   }
 }
