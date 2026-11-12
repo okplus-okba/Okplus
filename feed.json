@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "11.11.2026 20:13"
+    "last_updated": "12.11.2026 01:31"
   },
   "gold": {
     "k24": 117.31,
     "k21": 102.64,
     "k18": 87.98,
-    "updatedAt": "11.11.2026 20:13"
+    "updatedAt": "12.11.2026 01:31"
   },
   "news": [
     {
@@ -432,6 +432,91 @@
   },
   "links": {
     "visible": true,
-    "items": []
+    "items": [
+      {
+        "id": "l1794442864618",
+        "url": "https://www.youtube.com/@OkPlusDE",
+        "title_ar": "YouTube · OK Plus",
+        "title_de": "OK Plus",
+        "title_en": "OK Plus",
+        "title_uk": "OK Plus",
+        "title_tr": "OK Plus",
+        "title_fa": "OK Plus",
+        "title_ru": "OK Plus",
+        "desc_ar": "شروحات بالفيديو عن الحياة والمعاملات في ألمانيا",
+        "desc_de": "Video-Tutorials zum Leben und zu Transaktionen in Deutschland",
+        "desc_en": "Video tutorials about life and transactions in Germany",
+        "desc_uk": "Відеоінструкції про життя та взаємодію в Німеччині",
+        "desc_tr": "Almanya'da yaşam ve işlemler hakkında video açıklamaları",
+        "desc_fa": "ویدئوهای آموزشی درباره زندگی و امور روزمره در آلمان",
+        "desc_ru": "Видеоинструкции о жизни и деловых операциях в Германии",
+        "img": "links/l1794442864618_1794443009413.jpg",
+        "yt": "",
+        "visible": true
+      },
+      {
+        "id": "l1794443011740",
+        "url": "https://okplus-okba.de/ar",
+        "title_ar": "okplus-okba.de",
+        "title_de": "okplus-okba.de",
+        "title_en": "okplus-okba.de",
+        "title_uk": "okplus-okba.de",
+        "title_tr": "okplus-okba.de",
+        "title_fa": "okplus-okba.de",
+        "title_ru": "okplus-okba.de",
+        "desc_ar": "دليل عربي للمعاملات والحقوق في ألمانيا",
+        "desc_de": "Ratgeber zu Behörden und Rechten in Deutschland",
+        "desc_en": "Guide to authorities and rights in Germany",
+        "desc_uk": "Довідник про установи та права в Німеччині",
+        "desc_tr": "Almanya’da resmi işlemler ve haklar rehberi",
+        "desc_fa": "راهنمای کارهای اداری و حقوق در آلمان",
+        "desc_ru": "Гид по ведомствам и правам в Германии",
+        "img": "links/l1794443011740_1794443111995.jpg",
+        "yt": "",
+        "visible": true
+      },
+      {
+        "id": "l1794443115347",
+        "url": "https://www.facebook.com/ok.plus.de",
+        "title_ar": "Facebook · OK Plus",
+        "title_de": "OK Plus DE",
+        "title_en": "OK Plus DE",
+        "title_uk": "OK Plus DE",
+        "title_tr": "OK Plus DE",
+        "title_fa": "OK Plus DE",
+        "title_ru": "OK Plus DE",
+        "desc_ar": "آخر الأخبار والتنبيهات المهمة",
+        "desc_de": "Aktuelle Nachrichten und wichtige Benachrichtigungen",
+        "desc_en": "Latest news and important alerts",
+        "desc_uk": "Останні новини та важливі сповіщення",
+        "desc_tr": "En son haberler ve önemli uyarılar",
+        "desc_fa": "آخرین اخبار و هشدارهای مهم",
+        "desc_ru": "Последние новости и важные уведомления",
+        "img": "links/l1794443115347_1794443180298.jpg",
+        "yt": "",
+        "visible": true
+      },
+      {
+        "id": "l1794443182658",
+        "url": "https://www.tiktok.com/@ok_plus_de",
+        "title_ar": "TikTok · OK Plus",
+        "title_de": "OK Plus DE",
+        "title_en": "OK Plus DE",
+        "title_uk": "OK Plus DE",
+        "title_tr": "OK Plus DE",
+        "title_fa": "OK Plus DE",
+        "title_ru": "OK Plus DE",
+        "desc_ar": "مقاطع قصيرة وإجابات سريعة",
+        "desc_de": "Kurze Clips und schnelle Antworten",
+        "desc_en": "Short clips and quick answers",
+        "desc_uk": "Короткі відео та швидкі відповіді",
+        "desc_tr": "Kısa videolar ve hızlı yanıtlar",
+        "desc_fa": "کلیپ‌های کوتاه و پاسخ‌های سریع",
+        "desc_ru": "Короткие видео и быстрые ответы",
+        "img": "",
+        "yt": "",
+        "visible": true
+      }
+    ]
   }
 }
