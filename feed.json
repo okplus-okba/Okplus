@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "12.11.2026 01:31"
+    "last_updated": "13.11.2026 00:00"
   },
   "gold": {
     "k24": 117.31,
     "k21": 102.64,
     "k18": 87.98,
-    "updatedAt": "12.11.2026 01:31"
+    "updatedAt": "13.11.2026 00:00"
   },
   "news": [
     {
@@ -153,44 +153,214 @@
     "tips": [
       {
         "visible": true,
-        "ar": "تريد تغيير تأمين سيارتك؟ رسالة الإلغاء يجب أن تصل غالباً قبل 30 نوفمبر. تحقق من التاريخ في وثيقة التأمين.",
-        "de": "Möchten Sie Ihre Kfz-Versicherung wechseln? Das Kündigungsschreiben muss in der Regel vor dem 30. November eingehen. Überprüfen Sie das Datum in der Versicherungspolice.",
-        "en": "Want to change your car insurance? The cancellation notice must usually be received before November 30. Check the date on your insurance policy.",
-        "uk": "Бажаєте змінити страховку свого автомобіля? Повідомлення про розірвання договору зазвичай має надійти до 30 листопада. Перевірте дату в страховому полісі.",
-        "tr": "Araç sigortanızı değiştirmek mi istiyorsunuz? İptal mektubu genellikle 30 Kasım'dan önce ulaşmalıdır. Sigorta poliçesindeki tarihi kontrol edin.",
-        "fa": "آیا می‌خواهید بیمه خودروی خود را تغییر دهید؟ نامه لغو معمولاً باید قبل از 30 نوامبر برسد. تاریخ را در بیمه‌نامه بررسی کنید.",
-        "ru": "Хотите изменить страховку своего автомобиля? Уведомление об аннулировании обычно должно поступить до 30 ноября. Проверьте дату в страховом полисе."
+        "ar": "مهلة الاعتراض على قرار رسمي شهر واحد عادةً من استلامه — اقرأ آخر القرار (Rechtsbehelfsbelehrung).",
+        "de": "Gegen einen Bescheid hast du meist einen Monat Zeit für einen Widerspruch – lies die Rechtsbehelfsbelehrung am Ende.",
+        "en": "You usually have one month to object to an official decision – read the Rechtsbehelfsbelehrung at the end.",
+        "uk": "Зазвичай на заперечення проти рішення установи є один місяць – прочитайте Rechtsbehelfsbelehrung наприкінці.",
+        "tr": "Resmî bir karara itiraz süresi genellikle bir aydır – kararın sonundaki Rechtsbehelfsbelehrung kısmını oku.",
+        "fa": "مهلت اعتراض به یک تصمیم رسمی معمولاً یک ماه است – بخش Rechtsbehelfsbelehrung در پایان نامه را بخوان.",
+        "ru": "Обычно на возражение против решения ведомства есть один месяц – прочитайте Rechtsbehelfsbelehrung в конце."
       },
       {
         "visible": true,
-        "ar": "آخر فرصة: الإقرار الضريبي الاختياري عن سنة 2022 يجب أن يصل إلى Finanzamt حتى 31.12.2026، وبعدها يضيع حقك في الاسترداد.",
-        "de": "Letzte Chance: Die freiwillige Steuererklärung für das Jahr 2022 muss bis zum 31.12.2026 beim Finanzamt eingehen, danach verfällt Ihr Anspruch auf Rückerstattung.",
-        "en": "Last chance: The optional tax return for 2022 must reach the Finanzamt by December 31, 2026, after which your right to a refund will be forfeited.",
-        "uk": "Останній шанс: добровільна податкова декларація за 2022 рік має надійти до податкової інспекції (Finanzamt) до 31.12.2026, після чого ваше право на відшкодування буде втрачено.",
-        "tr": "Son fırsat: 2022 yılına ait isteğe bağlı vergi beyannamesi 31.12.2026 tarihine kadar Vergi Dairesine (Finanzamt) ulaşmalıdır, aksi takdirde geri ödeme hakkınızı kaybedersiniz.",
-        "fa": "آخرین فرصت: اظهارنامه مالیاتی اختیاری برای سال 2022 باید تا تاریخ 31 دسامبر 2026 به اداره مالیات (Finanzamt) برسد، در غیر این صورت حق بازپرداخت خود را از دست خواهید داد.",
-        "ru": "Последний шанс: добровольная налоговая декларация за 2022 год должна поступить в налоговую инспекцию (Finanzamt) до 31.12.2026, после чего вы утратите право на возврат."
+        "ar": "احتفظ بنسخة أو صورة من كل رسالة ترسلها إلى أي دائرة.",
+        "de": "Behalte von jedem Brief an eine Behörde eine Kopie oder ein Foto.",
+        "en": "Keep a copy or photo of every letter you send to an authority.",
+        "uk": "Зберігайте копію або фото кожного листа, надісланого до установи.",
+        "tr": "Bir kuruma gönderdiğin her mektubun kopyasını veya fotoğrafını sakla.",
+        "fa": "از هر نامه‌ای که به اداره‌ای می‌فرستی یک کپی یا عکس نگه دار.",
+        "ru": "Сохраняйте копию или фото каждого письма, отправленного в ведомство."
       },
       {
         "visible": true,
-        "ar": "في الثلج والجليد يلزم إطار شتوي عليه رمز الجبل مع ندفة الثلج، ورمز M+S وحده لم يعد يكفي. المخالفة من 60 يورو ونقطة.",
-        "de": "Bei Schnee und Eis ist ein Winterreifen mit dem Symbol des Berges mit der Schneeflocke erforderlich. Das Symbol M+S allein reicht nicht mehr aus. Das Bußgeld beträgt 60 Euro und einen Punkt.",
-        "en": "In snow and ice, a winter tire with the mountain symbol and snowflake is required. The M+S symbol alone is no longer sufficient. The fine is 60 euros and one point.",
-        "uk": "Для їзди по снігу та льоду потрібна зимова шина з позначкою гори зі сніжинкою, а позначки M+S вже недостатньо. Штраф становить 60 євро та один штрафний бал.",
-        "tr": "Kar ve buzda, üzerinde kar tanesi ile dağ sembolü bulunan bir kış lastiği gereklidir. Yalnızca M+S sembolü artık yeterli değildir. Cezası 60 Euro ve bir ceza puanıdır.",
-        "fa": "در شرایط برف و یخبندان، استفاده از تایر زمستانی با علامت کوه و دانه برف الزامی است و علامت M+S به تنهایی دیگر کافی نیست. جریمه 60 یورو و یک امتیاز است.",
-        "ru": "Для езды по снегу и льду требуется зимняя шина с символом горы и снежинки. Одного символа M+S больше недостаточно. Штраф составляет 60 евро и один штрафной балл."
+        "ar": "للرسائل المهمة استعمل Einschreiben، أو سلّمها باليد واطلب ختم الاستلام (Eingangsstempel).",
+        "de": "Wichtige Briefe per Einschreiben schicken oder persönlich abgeben und einen Eingangsstempel geben lassen.",
+        "en": "Send important letters by Einschreiben, or hand them in and ask for an Eingangsstempel.",
+        "uk": "Важливі листи надсилайте через Einschreiben або здавайте особисто з відміткою Eingangsstempel.",
+        "tr": "Önemli mektupları Einschreiben ile gönder veya elden teslim edip Eingangsstempel iste.",
+        "fa": "نامه‌های مهم را با Einschreiben بفرست یا حضوری تحویل بده و Eingangsstempel بخواه.",
+        "ru": "Важные письма отправляйте через Einschreiben или сдавайте лично с отметкой Eingangsstempel."
+      },
+      {
+        "visible": true,
+        "ar": "موعد صرف Kindergeld يتحدد بآخر رقم في Kindergeldnummer — أضف المواعيد في التقويم مع تذكير.",
+        "de": "Der Auszahlungstag des Kindergeldes hängt von der letzten Ziffer deiner Kindergeldnummer ab – trag die Termine mit Erinnerung in den Kalender ein.",
+        "en": "Your Kindergeld payment day depends on the last digit of your Kindergeldnummer – add the dates with a reminder in the calendar.",
+        "uk": "День виплати Kindergeld залежить від останньої цифри Kindergeldnummer – додайте дати з нагадуванням у календар.",
+        "tr": "Kindergeld ödeme günü Kindergeldnummer'ının son rakamına bağlıdır – tarihleri hatırlatıcıyla takvime ekle.",
+        "fa": "روز پرداخت Kindergeld به رقم آخر Kindergeldnummer بستگی دارد – تاریخ‌ها را با یادآور در تقویم اضافه کن.",
+        "ru": "День выплаты Kindergeld зависит от последней цифры Kindergeldnummer – добавьте даты с напоминанием в календарь."
+      },
+      {
+        "visible": true,
+        "ar": "سجّل سكنك الجديد (Anmeldung) خلال أسبوعين من الانتقال.",
+        "de": "Melde deine neue Wohnung innerhalb von zwei Wochen nach dem Einzug an.",
+        "en": "Register your new home (Anmeldung) within two weeks of moving in.",
+        "uk": "Зареєструйте нове житло (Anmeldung) протягом двох тижнів після переїзду.",
+        "tr": "Taşındıktan sonra iki hafta içinde yeni adresini kaydettir (Anmeldung).",
+        "fa": "ظرف دو هفته پس از نقل مکان، محل سکونت جدیدت را ثبت کن (Anmeldung).",
+        "ru": "Зарегистрируйте новое жильё (Anmeldung) в течение двух недель после переезда."
+      },
+      {
+        "visible": true,
+        "ar": "الحد الأدنى للأجور في 2026: ‏13,90 يورو للساعة قبل الضرائب.",
+        "de": "Der Mindestlohn 2026 beträgt 13,90 Euro brutto pro Stunde.",
+        "en": "The minimum wage in 2026 is €13.90 gross per hour.",
+        "uk": "Мінімальна оплата праці у 2026 році – 13,90 євро брутто за годину.",
+        "tr": "2026'da asgari ücret saat başı brüt 13,90 Euro.",
+        "fa": "حداقل دستمزد در 2026: ‏13,90 یورو ناخالص برای هر ساعت.",
+        "ru": "Минимальная оплата труда в 2026 году – 13,90 евро брутто в час."
+      },
+      {
+        "visible": true,
+        "ar": "حد الدخل في Minijob سنة 2026: ‏603 يورو في الشهر.",
+        "de": "Die Minijob-Verdienstgrenze liegt 2026 bei 603 Euro im Monat.",
+        "en": "The Minijob earnings limit in 2026 is €603 per month.",
+        "uk": "Межа заробітку для Minijob у 2026 році – 603 євро на місяць.",
+        "tr": "2026'da Minijob kazanç sınırı ayda 603 Euro.",
+        "fa": "سقف درآمد Minijob در 2026: ‏603 یورو در ماه.",
+        "ru": "Предел заработка для Minijob в 2026 году – 603 евро в месяц."
+      },
+      {
+        "visible": true,
+        "ar": "إذا كنت تأخذ Bürgergeld يمكنك طلب الإعفاء من Rundfunkbeitrag.",
+        "de": "Wenn du Bürgergeld bekommst, kannst du die Befreiung vom Rundfunkbeitrag beantragen.",
+        "en": "If you receive Bürgergeld, you can apply for exemption from the Rundfunkbeitrag.",
+        "uk": "Якщо ви отримуєте Bürgergeld, можна подати заяву на звільнення від Rundfunkbeitrag.",
+        "tr": "Bürgergeld alıyorsan Rundfunkbeitrag muafiyeti için başvurabilirsin.",
+        "fa": "اگر Bürgergeld می‌گیری، می‌توانی برای معافیت از Rundfunkbeitrag درخواست بدهی.",
+        "ru": "Если вы получаете Bürgergeld, можно подать заявление на освобождение от Rundfunkbeitrag."
+      },
+      {
+        "visible": true,
+        "ar": "يُحسب Wohngeld من شهر تقديم الطلب، فلا تؤجّل الطلب.",
+        "de": "Wohngeld gibt es ab dem Monat des Antrags – stell den Antrag nicht zu spät.",
+        "en": "Wohngeld is paid from the month you apply – don't delay your application.",
+        "uk": "Wohngeld виплачується з місяця подання заяви – не відкладайте.",
+        "tr": "Wohngeld başvuru yaptığın aydan itibaren ödenir – başvuruyu erteleme.",
+        "fa": "Wohngeld از ماهی که درخواست می‌دهی حساب می‌شود – درخواست را عقب نینداز.",
+        "ru": "Wohngeld выплачивается с месяца подачи заявления – не откладывайте."
+      },
+      {
+        "visible": true,
+        "ar": "قدّم Weiterbewilligungsantrag في Jobcenter قبل انتهاء فترة القرار الحالي.",
+        "de": "Stell den Weiterbewilligungsantrag beim Jobcenter, bevor dein aktueller Bewilligungszeitraum endet.",
+        "en": "Submit the Weiterbewilligungsantrag to the Jobcenter before your current approval period ends.",
+        "uk": "Подайте Weiterbewilligungsantrag до Jobcenter до завершення поточного періоду.",
+        "tr": "Weiterbewilligungsantrag'ı mevcut onay süren bitmeden Jobcenter'a ver.",
+        "fa": "Weiterbewilligungsantrag را پیش از پایان دوره فعلی تصمیم به Jobcenter بده.",
+        "ru": "Подайте Weiterbewilligungsantrag в Jobcenter до окончания текущего периода."
+      },
+      {
+        "visible": true,
+        "ar": "بعد انتهاء المدة الأولى لعقد الهاتف أو الإنترنت يمكنك إلغاؤه بمهلة شهر واحد.",
+        "de": "Nach der Mindestlaufzeit kannst du Handy- und Internetverträge mit einer Frist von einem Monat kündigen.",
+        "en": "After the minimum term, you can cancel phone and internet contracts with one month's notice.",
+        "uk": "Після мінімального строку договір на телефон та інтернет можна розірвати з попередженням за місяць.",
+        "tr": "Asgari süre bittikten sonra telefon ve internet sözleşmelerini bir ay önceden feshedebilirsin.",
+        "fa": "پس از پایان مدت اولیه، قرارداد تلفن و اینترنت را با مهلت یک‌ماهه لغو کن.",
+        "ru": "После минимального срока договор на телефон и интернет можно расторгнуть с уведомлением за месяц."
+      },
+      {
+        "visible": true,
+        "ar": "لديك 12 شهراً للاعتراض على Nebenkostenabrechnung بعد استلامها، ويحق لك رؤية الفواتير الأصلية.",
+        "de": "Du hast 12 Monate Zeit, Einwände gegen die Nebenkostenabrechnung zu erheben, und darfst die Belege einsehen.",
+        "en": "You have 12 months to object to the Nebenkostenabrechnung and may inspect the original receipts.",
+        "uk": "На заперечення проти Nebenkostenabrechnung є 12 місяців, і ви маєте право переглянути оригінали рахунків.",
+        "tr": "Nebenkostenabrechnung'a itiraz için 12 ayın var ve orijinal faturaları görme hakkın var.",
+        "fa": "برای اعتراض به Nebenkostenabrechnung دوازده ماه وقت داری و حق دیدن فاکتورهای اصلی را داری.",
+        "ru": "На возражение против Nebenkostenabrechnung есть 12 месяцев, и вы вправе посмотреть оригиналы счетов."
+      },
+      {
+        "visible": true,
+        "ar": "بورقة Beratungshilfeschein من المحكمة المحلية تدفع للمحامي 15 يورو كحد أقصى.",
+        "de": "Mit einem Beratungshilfeschein vom Amtsgericht zahlst du beim Anwalt höchstens 15 Euro.",
+        "en": "With a Beratungshilfeschein from the Amtsgericht, you pay a lawyer at most €15.",
+        "uk": "З Beratungshilfeschein від Amtsgericht ви платите адвокату не більше 15 євро.",
+        "tr": "Amtsgericht'ten alınan Beratungshilfeschein ile avukata en fazla 15 Euro ödersin.",
+        "fa": "با Beratungshilfeschein از Amtsgericht، به وکیل حداکثر 15 یورو می‌پردازی.",
+        "ru": "С Beratungshilfeschein от Amtsgericht вы платите адвокату не более 15 евро."
+      },
+      {
+        "visible": true,
+        "ar": "يحق لك طلب نسخة مجانية من بياناتك لدى SCHUFA (Datenkopie).",
+        "de": "Du hast Anspruch auf eine kostenlose Datenkopie bei der SCHUFA.",
+        "en": "You are entitled to a free copy of your data from SCHUFA (Datenkopie).",
+        "uk": "Ви маєте право на безкоштовну копію своїх даних у SCHUFA (Datenkopie).",
+        "tr": "SCHUFA'dan verilerinin ücretsiz bir kopyasını (Datenkopie) isteme hakkın var.",
+        "fa": "حق داری یک نسخه رایگان از اطلاعاتت را از SCHUFA بخواهی (Datenkopie).",
+        "ru": "Вы имеете право на бесплатную копию своих данных в SCHUFA (Datenkopie)."
+      },
+      {
+        "visible": true,
+        "ar": "كل شخص يقيم في الاتحاد الأوروبي بشكل قانوني له حق فتح Basiskonto في البنك.",
+        "de": "Jeder, der sich rechtmäßig in der EU aufhält, hat Anspruch auf ein Basiskonto.",
+        "en": "Everyone legally resident in the EU has the right to a Basiskonto.",
+        "uk": "Кожен, хто законно перебуває в ЄС, має право на Basiskonto.",
+        "tr": "AB'de yasal olarak bulunan herkesin Basiskonto açma hakkı vardır.",
+        "fa": "هر کس به‌طور قانونی در اتحادیه اروپا اقامت دارد، حق باز کردن Basiskonto را دارد.",
+        "ru": "Каждый, кто законно находится в ЕС, имеет право на Basiskonto."
+      },
+      {
+        "visible": true,
+        "ar": "يمكنك تقديم Steuererklärung طوعاً عن 4 سنوات ماضية، وكثيراً ما يعيد لك مالاً.",
+        "de": "Eine freiwillige Steuererklärung kannst du bis zu vier Jahre rückwirkend abgeben – oft gibt es Geld zurück.",
+        "en": "You can file a voluntary Steuererklärung up to four years back – often you get money back.",
+        "uk": "Добровільну Steuererklärung можна подати за чотири роки назад – часто гроші повертають.",
+        "tr": "Gönüllü Steuererklärung'ı dört yıl geriye dönük verebilirsin – çoğu zaman para iadesi olur.",
+        "fa": "Steuererklärung داوطلبانه را تا چهار سال گذشته می‌توانی بدهی – اغلب پول برمی‌گردد.",
+        "ru": "Добровольную Steuererklärung можно подать за четыре года назад – часто деньги возвращают."
+      },
+      {
+        "visible": true,
+        "ar": "أخبر صاحب العمل بمرضك فوراً؛ ورقة المرض مطلوبة من اليوم الرابع إلا إذا طلب العقد أبكر.",
+        "de": "Melde dich sofort krank; die Arbeitsunfähigkeitsbescheinigung brauchst du ab dem vierten Tag, wenn der Vertrag nichts Früheres verlangt.",
+        "en": "Report sick immediately; a sick note is needed from day four unless your contract requires it earlier.",
+        "uk": "Одразу повідомте про хворобу; лікарняний потрібен з четвертого дня, якщо договір не вимагає раніше.",
+        "tr": "Hastalığını hemen bildir; sözleşme daha erken istemiyorsa rapor dördüncü günden itibaren gerekir.",
+        "fa": "بیماری‌ات را فوراً خبر بده؛ گواهی بیماری از روز چهارم لازم است مگر قرارداد زودتر بخواهد.",
+        "ru": "Сразу сообщите о болезни; больничный нужен с четвёртого дня, если договор не требует раньше."
+      },
+      {
+        "visible": true,
+        "ar": "الحد الأدنى للإجازة القانونية 20 يوم عمل في السنة لمن يعمل 5 أيام في الأسبوع.",
+        "de": "Der gesetzliche Mindesturlaub beträgt bei einer Fünf-Tage-Woche 20 Arbeitstage im Jahr.",
+        "en": "The legal minimum holiday is 20 working days a year for a five-day week.",
+        "uk": "Мінімальна законна відпустка при п’ятиденці – 20 робочих днів на рік.",
+        "tr": "Haftada beş gün çalışan için yasal asgari izin yılda 20 iş günüdür.",
+        "fa": "حداقل مرخصی قانونی برای کار پنج‌روزه در هفته، 20 روز کاری در سال است.",
+        "ru": "Минимальный законный отпуск при пятидневке – 20 рабочих дней в году."
+      },
+      {
+        "visible": true,
+        "ar": "لا توقّع على أي ورقة لا تفهمها — اطلب وقتاً أو ترجمة أولاً.",
+        "de": "Unterschreib nichts, was du nicht verstehst – bitte zuerst um Zeit oder eine Übersetzung.",
+        "en": "Never sign anything you don't understand – ask for time or a translation first.",
+        "uk": "Не підписуйте того, чого не розумієте – спершу попросіть час або переклад.",
+        "tr": "Anlamadığın hiçbir şeyi imzalama – önce zaman veya çeviri iste.",
+        "fa": "هیچ برگه‌ای را که نمی‌فهمی امضا نکن – اول وقت یا ترجمه بخواه.",
+        "ru": "Не подписывайте того, чего не понимаете – сначала попросите время или перевод."
+      },
+      {
+        "visible": true,
+        "ar": "Kindergeld يُدفع بأثر رجعي 6 أشهر فقط قبل شهر الطلب — لا تتأخر في تقديمه.",
+        "de": "Kindergeld wird nur für die letzten sechs Monate vor dem Antragsmonat nachgezahlt – stell den Antrag rechtzeitig.",
+        "en": "Kindergeld is paid retroactively for only six months before the month you apply – apply in time.",
+        "uk": "Kindergeld доплачують лише за шість місяців до місяця заяви – подавайте вчасно.",
+        "tr": "Kindergeld, başvuru ayından önceki yalnızca altı ay için geriye dönük ödenir – zamanında başvur.",
+        "fa": "Kindergeld فقط برای شش ماه پیش از ماه درخواست به‌صورت عطف‌به‌ماسبق پرداخت می‌شود – به‌موقع درخواست بده.",
+        "ru": "Kindergeld доплачивают только за шесть месяцев до месяца заявления – подавайте вовремя."
       }
     ],
     "tip_of_day": {
       "visible": true,
-      "ar": "تريد تغيير تأمين سيارتك؟ رسالة الإلغاء يجب أن تصل غالباً قبل 30 نوفمبر. تحقق من التاريخ في وثيقة التأمين.",
-      "de": "Möchten Sie Ihre Kfz-Versicherung wechseln? Das Kündigungsschreiben muss in der Regel vor dem 30. November eingehen. Überprüfen Sie das Datum in der Versicherungspolice.",
-      "en": "Want to change your car insurance? The cancellation notice must usually be received before November 30. Check the date on your insurance policy.",
-      "uk": "Бажаєте змінити страховку свого автомобіля? Повідомлення про розірвання договору зазвичай має надійти до 30 листопада. Перевірте дату в страховому полісі.",
-      "tr": "Araç sigortanızı değiştirmek mi istiyorsunuz? İptal mektubu genellikle 30 Kasım'dan önce ulaşmalıdır. Sigorta poliçesindeki tarihi kontrol edin.",
-      "fa": "آیا می‌خواهید بیمه خودروی خود را تغییر دهید؟ نامه لغو معمولاً باید قبل از 30 نوامبر برسد. تاریخ را در بیمه‌نامه بررسی کنید.",
-      "ru": "Хотите изменить страховку своего автомобиля? Уведомление об аннулировании обычно должно поступить до 30 ноября. Проверьте дату в страховом полисе."
+      "ar": "مهلة الاعتراض على قرار رسمي شهر واحد عادةً من استلامه — اقرأ آخر القرار (Rechtsbehelfsbelehrung).",
+      "de": "Gegen einen Bescheid hast du meist einen Monat Zeit für einen Widerspruch – lies die Rechtsbehelfsbelehrung am Ende.",
+      "en": "You usually have one month to object to an official decision – read the Rechtsbehelfsbelehrung at the end.",
+      "uk": "Зазвичай на заперечення проти рішення установи є один місяць – прочитайте Rechtsbehelfsbelehrung наприкінці.",
+      "tr": "Resmî bir karara itiraz süresi genellikle bir aydır – kararın sonundaki Rechtsbehelfsbelehrung kısmını oku.",
+      "fa": "مهلت اعتراض به یک تصمیم رسمی معمولاً یک ماه است – بخش Rechtsbehelfsbelehrung در پایان نامه را بخوان.",
+      "ru": "Обычно на возражение против решения ведомства есть один месяц – прочитайте Rechtsbehelfsbelehrung в конце."
     },
     "splash_msg": {
       "visible": true,
