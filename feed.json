@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "15.11.2026 05:41"
+    "last_updated": "15.11.2026 19:01"
   },
   "gold": {
     "k24": 117.31,
     "k21": 102.64,
     "k18": 87.98,
-    "updatedAt": "15.11.2026 05:41"
+    "updatedAt": "15.11.2026 19:01"
   },
   "news": [
     {
@@ -447,7 +447,7 @@
     "steuerklasse": "",
     "einbuergerung_pdf": "https://okplus-okba.de/go/einbuergerung",
     "netto": {
-      "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
+      "youtube_url": "",
       "youtube_visible": true,
       "alert": "احسب راتبك الصافي او احسبه مع الضرائب",
       "alert_visible": true,
@@ -459,56 +459,56 @@
       "alert_ru": "Рассчитайте свою чистую зарплату или рассчитайте ее с помощью налогов"
     },
     "wohngeld": {
-      "youtube_url": "https://youtu.be/4fCq3BZRNVc?si=QQkleOvks9Kr_EKC",
+      "youtube_url": "https://youtu.be/-0hPI2KCgYA",
       "youtube_visible": true,
-      "alert": "هل تستحق الحصول على مساعدة السكن , استخدم هذه الحاسبة لمعرفة التفاصيل",
+      "alert": "هل تستحق الحصول على مساعدة السكن Wohngeld؟ استخدم هذه الحاسبة لمعرفة التفاصيل.",
       "alert_visible": true,
-      "alert_de": "Lohnt es sich, Wohnbeihilfen zu erhalten? Verwende diesen Taschenrechner für Details",
-      "alert_en": "Is it worth getting housing assistance, use this calculator for details",
-      "alert_uk": "Чи варто отримувати допомогу з житлом , скористайтеся цим калькулятором для детальної інформації",
-      "alert_tr": "Konut yardımı almaya değer mi? Ayrıntılar için bu hesap makinesini kullanın",
-      "alert_fa": "آیا واجد شرایط دریافت کمک هزینه مسکن هستید؟ برای اطلاعات بیشتر از این محاسبه‌گر استفاده کنید.",
-      "alert_ru": "Стоит ли получать помощь с жильем , воспользуйтесь этим калькулятором для деталей"
+      "alert_de": "Hast du Anspruch auf Wohngeld? Nutze diesen Rechner für die Details.",
+      "alert_en": "Are you entitled to Wohngeld? Use this calculator for the details.",
+      "alert_uk": "Чи маєш ти право на Wohngeld? Скористайся цим калькулятором, щоб дізнатися деталі.",
+      "alert_tr": "Wohngeld almaya hakkın var mı? Ayrıntılar için bu hesaplayıcıyı kullan.",
+      "alert_fa": "آیا واجد شرایط دریافت Wohngeld هستید؟ برای جزئیات از این محاسبه‌گر استفاده کنید.",
+      "alert_ru": "Имеешь ли ты право на Wohngeld? Воспользуйся этим калькулятором, чтобы узнать подробности."
     },
     "elterngeld": {
-      "youtube_url": "https://youtu.be/TjWSwfx9wpM?si=58xZVWgpQsu4ENV9",
+      "youtube_url": "https://youtu.be/a9jGB7GHbhk",
       "youtube_visible": true,
-      "alert": "هل تستحق الحصول على اعانة Elterngeld  ؟",
+      "alert": "هل تستحق الحصول على إعانة Elterngeld؟",
       "alert_visible": true,
-      "alert_de": "Hat sie Anspruch auf den Elterngeldzuschuss?",
-      "alert_en": "Is she eligible for the Elterngeld subsidy?",
-      "alert_uk": "Чи має вона право на субсидію Elterngeld?",
-      "alert_tr": "Elterngeld sübvansiyonu için uygun mu?",
-      "alert_fa": "آیا شما واجد شرایط دریافت مزایای Elterngeld هستید؟",
-      "alert_ru": "Имеет ли она право на субсидию Elterngeld?"
+      "alert_de": "Hast du Anspruch auf Elterngeld?",
+      "alert_en": "Are you entitled to Elterngeld?",
+      "alert_uk": "Чи маєш ти право на Elterngeld?",
+      "alert_tr": "Elterngeld almaya hakkın var mı?",
+      "alert_fa": "آیا واجد شرایط دریافت Elterngeld هستید؟",
+      "alert_ru": "Имеешь ли ты право на Elterngeld?"
     },
     "alg1": {
       "youtube_url": "https://youtube.com/shorts/K88Rr0mWUmQ?si=uWS1EZ0cQFMaG8Re",
       "youtube_visible": true,
-      "alert": "هل يحق لك الحصول على مبلغ من  دائرة  اعانة البطاله ؟ احسب هنا",
+      "alert": "هل يحق لك الحصول على إعانة البطالة Arbeitslosengeld؟ احسبها هنا.",
       "alert_visible": true,
-      "alert_de": "Haben Sie Anspruch auf einen Betrag aus dem Arbeitslosengeld? Berechnen Sie hier",
-      "alert_en": "Are you entitled to an amount from the Unemployment Benefit Department? Calculate here",
-      "alert_uk": "Чи маєте ви право на отримання суми від  Департаменту  допомоги по безробіттю? Розрахуйте тут",
-      "alert_tr": "İşsizlik Yardımı Departmanından bir tutar alma hakkınız var mı? Buradan hesaplayın",
-      "alert_fa": "آیا شما واجد شرایط دریافت مزایای بیکاری هستید؟ اینجا محاسبه کنید.",
-      "alert_ru": "Имеете ли вы право на получение пособия по безработице? Рассчитайте здесь"
+      "alert_de": "Hast du Anspruch auf Arbeitslosengeld? Berechne es hier.",
+      "alert_en": "Are you entitled to Arbeitslosengeld? Calculate it here.",
+      "alert_uk": "Чи маєш ти право на Arbeitslosengeld? Розрахуй тут.",
+      "alert_tr": "Arbeitslosengeld almaya hakkın var mı? Burada hesapla.",
+      "alert_fa": "آیا واجد شرایط دریافت Arbeitslosengeld هستید؟ اینجا محاسبه کنید.",
+      "alert_ru": "Имеешь ли ты право на Arbeitslosengeld? Рассчитай здесь."
     },
     "verkehr": {
-      "youtube_url": "https://youtu.be/lluaM9P4DMo?si=I1rbBPiT2BiiBeOn",
+      "youtube_url": "",
       "youtube_visible": true,
-      "alert": "أحسب هنا مخالفة السير بشكل دقيق .",
+      "alert": "احسب هنا مخالفة السير بشكل دقيق.",
       "alert_visible": true,
-      "alert_de": "Ich berechne hier den Verkehrsverstoß genau .",
-      "alert_en": "I calculate here the traffic violation accurately .",
-      "alert_uk": "Тут я точно розраховую порушення правил дорожнього руху.",
-      "alert_tr": "Burada trafik ihlalini doğru hesaplıyorum.",
-      "alert_fa": "بيا، اجازه بده يه نمونه بهتري از اين محصول نشونت بديم.",
-      "alert_ru": "Здесь я точно высчитываю нарушение ПДД."
+      "alert_de": "Berechne hier dein Bußgeld genau.",
+      "alert_en": "Calculate your traffic fine accurately here.",
+      "alert_uk": "Точно розрахуй тут свій штраф за порушення ПДР.",
+      "alert_tr": "Trafik cezanı burada doğru şekilde hesapla.",
+      "alert_fa": "جریمهٔ ترافیکی خود را اینجا دقیق محاسبه کنید.",
+      "alert_ru": "Точно рассчитай здесь свой штраф за нарушение ПДД."
     },
     "antraege": {
       "youtube_url": "",
-      "youtube_visible": false,
+      "youtube_visible": true,
       "alert": "",
       "alert_visible": false,
       "alert_de": "",
@@ -520,7 +520,7 @@
     },
     "asylklage": {
       "youtube_url": "",
-      "youtube_visible": false,
+      "youtube_visible": true,
       "alert": "",
       "alert_visible": false,
       "alert_de": "",
@@ -532,7 +532,7 @@
     },
     "kaufvertrag": {
       "youtube_url": "",
-      "youtube_visible": false,
+      "youtube_visible": true,
       "alert": "",
       "alert_visible": false,
       "alert_de": "",
