@@ -7,13 +7,13 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "15.11.2026 19:01"
+    "last_updated": "15.11.2026 20:05"
   },
   "gold": {
     "k24": 117.31,
     "k21": 102.64,
     "k18": 87.98,
-    "updatedAt": "15.11.2026 19:01"
+    "updatedAt": "15.11.2026 20:05"
   },
   "news": [
     {
@@ -424,7 +424,7 @@
       "en": "Welcome, everyone 💕",
       "uk": "Вітаємо всіх. 💕",
       "tr": "Hepiniz hoş geldiniz. 💕",
-      "fa": "به همگی خوش اومدین 💕",
+      "fa": "به همه خوش آمدید 💕",
       "ru": "Всем добро пожаловать. 💕"
     }
   },
@@ -449,14 +449,14 @@
     "netto": {
       "youtube_url": "",
       "youtube_visible": true,
-      "alert": "احسب راتبك الصافي او احسبه مع الضرائب",
+      "alert": "احسب راتبك الصافي من الإجمالي بدقة.",
       "alert_visible": true,
-      "alert_de": "Berechnen Sie Ihr Nettogehalt oder berechnen Sie es mit Steuern",
-      "alert_en": "Calculate your net salary or calculate it with taxes",
-      "alert_uk": "Розрахуйте чисту заробітну плату або розрахуйте її з податками",
-      "alert_tr": "Net maaşınızı hesaplayın veya vergilerle hesaplayın",
-      "alert_fa": "حقوق خالص خود را محاسبه کنید یا آن را با مالیات محاسبه کنید",
-      "alert_ru": "Рассчитайте свою чистую зарплату или рассчитайте ее с помощью налогов"
+      "alert_de": "Berechne hier genau dein Netto aus dem Brutto.",
+      "alert_en": "Calculate your net salary from your gross accurately.",
+      "alert_uk": "Точно розрахуй свою чисту зарплату з брутто.",
+      "alert_tr": "Brüt maaşından net maaşını doğru şekilde hesapla.",
+      "alert_fa": "حقوق خالص خود را از حقوق ناخالص دقیق محاسبه کنید.",
+      "alert_ru": "Точно рассчитай свою чистую зарплату из брутто."
     },
     "wohngeld": {
       "youtube_url": "https://youtu.be/-0hPI2KCgYA",
@@ -844,25 +844,135 @@
     "alert": {
       "visible": true,
       "color": "green",
-      "ar": "اكتشف البطاقات الذهبيه ومولدات pdf",
-      "de": "Entdecken Sie Goldkarten und PDF-Generatoren",
-      "en": "Discover gold cards and pdf generators",
-      "uk": "Відкрийте для себе золоті картки та генератори PDF-файлів",
-      "tr": "Altın kartları ve pdf oluşturucuları keşfedin",
-      "fa": "کارت‌های طلایی و مولدهای PDF را کشف کنید",
-      "ru": "Откройте для себя золотые карты и генераторы PDF"
+      "ar": "اكتشف البطاقات الذهبية ومولّدات ملفات PDF",
+      "de": "Entdecke die Goldkarten und die PDF-Generatoren",
+      "en": "Discover the gold cards and PDF generators",
+      "uk": "Відкрий золоті картки та генератори PDF",
+      "tr": "Altın kartları ve PDF oluşturucuları keşfet",
+      "fa": "کارت‌های طلایی و سازنده‌های PDF را کشف کنید",
+      "ru": "Открой золотые карточки и генераторы PDF"
     },
     "news": {
       "visible": true,
       "items": [
         {
-          "ar": "سيتم هنا نشر الاخبار المستعجله والتحذيرات",
-          "de": "Eilmeldungen und Warnungen werden hier veröffentlicht",
-          "en": "Breaking news and warnings will be published here",
-          "uk": "Останні новини та попередження будуть опубліковані тут",
-          "tr": "Son dakika haberleri ve uyarılar burada yayınlanacak",
-          "fa": "اخبار فوری و هشدارها در اینجا منتشر خواهند شد.",
-          "ru": "Срочные новости и предупреждения будут публиковаться здесь",
+          "ar": "من 1 يناير 2027 ترتفع المبالغ التي يدفعها المريض في التأمين الصحي (Zuzahlungen) بنسبة 50%: الدواء من 7,50 إلى 15 يورو، والمستشفى 15 يورو في اليوم. الحد الأقصى السنوي يبقى 2% من الدخل، و1% لأصحاب الأمراض المزمنة. القانون مُقرّ.",
+          "de": "Ab 1. Januar 2027 steigen die Zuzahlungen in der gesetzlichen Krankenversicherung um 50 %: Medikamente 7,50 bis 15 Euro, Krankenhaus 15 Euro pro Tag. Die Belastungsgrenze bleibt bei 2 % des Einkommens, für chronisch Kranke bei 1 %. Das Gesetz ist beschlossen.",
+          "en": "From 1 January 2027, co-payments (Zuzahlungen) in statutory health insurance rise by 50%: medicines €7.50 to €15, hospital €15 per day. The annual cap stays at 2% of income, 1% for the chronically ill. The law has been passed.",
+          "uk": "З 1 січня 2027 року доплати (Zuzahlungen) у державному медичному страхуванні зростають на 50%: ліки від 7,50 до 15 євро, лікарня 15 євро на день. Річна межа залишається 2% доходу, для хронічно хворих 1%. Закон ухвалено.",
+          "tr": "1 Ocak 2027'den itibaren yasal sağlık sigortasında katkı payları (Zuzahlungen) %50 artıyor: ilaç 7,50 ile 15 Euro arası, hastane günlük 15 Euro. Yıllık üst sınır gelirin %2'si, kronik hastalar için %1 olarak kalıyor. Yasa kabul edildi.",
+          "fa": "از 1 ژانویه 2027 سهم پرداختی بیمار در بیمه درمانی دولتی (Zuzahlungen) 50% بیشتر می‌شود: دارو از 7,50 تا 15 یورو، بیمارستان روزی 15 یورو. سقف سالانه همان 2% درآمد می‌ماند و برای بیماران مزمن 1%. قانون تصویب شده است.",
+          "ru": "С 1 января 2027 года доплаты (Zuzahlungen) в государственной медицинской страховке вырастут на 50%: лекарства от 7,50 до 15 евро, больница 15 евро в день. Годовой предел остаётся 2% дохода, для хронически больных 1%. Закон принят.",
+          "visible": true,
+          "date": "15.11.2026"
+        },
+        {
+          "ar": "من 1 يناير 2027 تنخفض مساهمة صندوق التأمين الصحي في تركيبات الأسنان (Zahnersatz) من 60% إلى 50%، ومع دفتر الفحوص (Bonusheft) إلى 60% أو 65% بدل 70% أو 75%. القانون مُقرّ.",
+          "de": "Ab 1. Januar 2027 sinkt der Festzuschuss der Krankenkasse für Zahnersatz von 60 auf 50 %, mit Bonusheft auf 60 bzw. 65 % statt 70 bzw. 75 %. Das Gesetz ist beschlossen.",
+          "en": "From 1 January 2027, the health insurer's fixed subsidy for dentures and crowns (Zahnersatz) drops from 60% to 50%, and with a Bonusheft to 60% or 65% instead of 70% or 75%. The law has been passed.",
+          "uk": "З 1 січня 2027 року фіксована доплата лікарняної каси на зубне протезування (Zahnersatz) знижується з 60% до 50%, а з Bonusheft до 60% або 65% замість 70% або 75%. Закон ухвалено.",
+          "tr": "1 Ocak 2027'den itibaren sağlık sigortasının diş protezi (Zahnersatz) için sabit katkısı %60'tan %50'ye, Bonusheft ile %70 veya %75 yerine %60 veya %65'e düşüyor. Yasa kabul edildi.",
+          "fa": "از 1 ژانویه 2027 سهم ثابت صندوق بیمه برای پروتز دندان (Zahnersatz) از 60% به 50% کم می‌شود و با Bonusheft به 60% یا 65% به جای 70% یا 75%. قانون تصویب شده است.",
+          "ru": "С 1 января 2027 года фиксированная доплата больничной кассы на зубное протезирование (Zahnersatz) снижается с 60% до 50%, а с Bonusheft — до 60% или 65% вместо 70% или 75%. Закон принят.",
+          "visible": true,
+          "date": "15.11.2026"
+        },
+        {
+          "ar": "من 1 يناير 2027: إذا انتهى عملك وأنت في إجازة مرضية، ينخفض Krankengeld من اليوم التالي إلى 60% من صافي الراتب، أو 67% لمن لديه طفل. القانون مُقرّ.",
+          "de": "Ab 1. Januar 2027: Endet dein Arbeitsverhältnis während der Krankschreibung, beträgt das Krankengeld ab dem Folgetag 60 % des Nettoentgelts, mit Kind 67 %. Das Gesetz ist beschlossen.",
+          "en": "From 1 January 2027: if your job ends while you are on sick leave, Krankengeld drops from the next day to 60% of your net pay, or 67% if you have a child. The law has been passed.",
+          "uk": "З 1 січня 2027 року: якщо робота закінчується під час лікарняного, Krankengeld з наступного дня становить 60% чистої зарплати, з дитиною — 67%. Закон ухвалено.",
+          "tr": "1 Ocak 2027'den itibaren: Raporluyken işin sona ererse Krankengeld ertesi günden itibaren net maaşın %60'ına, çocuğun varsa %67'sine düşer. Yasa kabul edildi.",
+          "fa": "از 1 ژانویه 2027: اگر کار شما در زمان مرخصی استعلاجی تمام شود، Krankengeld از روز بعد 60% حقوق خالص می‌شود و برای دارندگان فرزند 67%. قانون تصویب شده است.",
+          "ru": "С 1 января 2027 года: если работа заканчивается во время больничного, Krankengeld со следующего дня составит 60% чистой зарплаты, с ребёнком — 67%. Закон принят.",
+          "visible": true,
+          "date": "15.11.2026"
+        },
+        {
+          "ar": "Kindergeld بلا طلب: القانون يبدأ في 1 يناير 2027. من مارس 2027 تقريباً يُصرف تلقائياً للطفل الجديد في العائلات التي تأخذ Kindergeld لطفل أكبر، ومن نوفمبر 2027 تقريباً للطفل الأول أيضاً، إذا كانت بياناتكم كاملة لدى Familienkasse.",
+          "de": "Kindergeld ohne Antrag: Das Gesetz gilt ab 1. Januar 2027. Voraussichtlich ab März 2027 wird es für weitere Kinder automatisch gezahlt, wenn die Familie schon Kindergeld bekommt, voraussichtlich ab November 2027 auch für erste Kinder – sofern der Familienkasse alle Daten vorliegen.",
+          "en": "Kindergeld without an application: the law applies from 1 January 2027. From around March 2027 it is paid automatically for a new child in families already receiving Kindergeld, and from around November 2027 for first children too – if the Familienkasse has all your data.",
+          "uk": "Kindergeld без заяви: закон діє з 1 січня 2027 року. Приблизно з березня 2027 його виплачуватимуть автоматично на нову дитину в сім'ях, які вже отримують Kindergeld, а приблизно з листопада 2027 — і на першу дитину, якщо Familienkasse має всі дані.",
+          "tr": "Başvurusuz Kindergeld: Yasa 1 Ocak 2027'de yürürlüğe giriyor. Yaklaşık Mart 2027'den itibaren zaten Kindergeld alan ailelerde yeni çocuk için otomatik ödenecek, yaklaşık Kasım 2027'den itibaren ilk çocuk için de – Familienkasse'de tüm bilgileriniz varsa.",
+          "fa": "Kindergeld بدون درخواست: قانون از 1 ژانویه 2027 اجرا می‌شود. حدوداً از مارس 2027 برای فرزند جدید در خانواده‌هایی که Kindergeld می‌گیرند خودکار پرداخت می‌شود و حدوداً از نوامبر 2027 برای فرزند اول هم، به شرطی که Familienkasse همه اطلاعات شما را داشته باشد.",
+          "ru": "Kindergeld без заявления: закон действует с 1 января 2027 года. Примерно с марта 2027 его будут автоматически платить на нового ребёнка в семьях, уже получающих Kindergeld, а примерно с ноября 2027 — и на первого ребёнка, если у Familienkasse есть все данные.",
+          "visible": true,
+          "date": "15.11.2026"
+        },
+        {
+          "ar": "مشروع قانون: Kindergeld يرتفع من 259 إلى 267 يورو للطفل شهرياً من يناير 2027، ثم إلى 272 يورو في 2028. لم يُقرّه البرلمان نهائياً بعد.",
+          "de": "Gesetzentwurf: Das Kindergeld soll ab Januar 2027 von 259 auf 267 Euro pro Kind und Monat steigen, 2028 auf 272 Euro. Noch nicht endgültig beschlossen.",
+          "en": "Draft law: Kindergeld is set to rise from €259 to €267 per child per month from January 2027, and to €272 in 2028. Not yet finally passed.",
+          "uk": "Законопроєкт: Kindergeld має зрости з 259 до 267 євро на дитину на місяць із січня 2027 року, а у 2028 — до 272 євро. Ще остаточно не ухвалено.",
+          "tr": "Yasa tasarısı: Kindergeld'in Ocak 2027'den itibaren çocuk başına aylık 259 Euro'dan 267 Euro'ya, 2028'de 272 Euro'ya çıkması planlanıyor. Henüz kesinleşmedi.",
+          "fa": "طرح قانونی: Kindergeld قرار است از ژانویه 2027 از 259 به 267 یورو برای هر فرزند در ماه برسد و در 2028 به 272 یورو. هنوز به‌طور نهایی تصویب نشده است.",
+          "ru": "Законопроект: Kindergeld должен вырасти с 259 до 267 евро на ребёнка в месяц с января 2027 года, а в 2028 — до 272 евро. Окончательно ещё не принят.",
+          "visible": true,
+          "date": "15.11.2026"
+        },
+        {
+          "ar": "مشروع قانون: الدخل المعفى من الضريبة (Grundfreibetrag) يرتفع من 12.348 إلى 12.564 يورو في السنة من 2027، فيبقى جزء أكبر من الراتب بلا ضريبة. لم يُقرّ نهائياً بعد.",
+          "de": "Gesetzentwurf: Der Grundfreibetrag soll 2027 von 12.348 auf 12.564 Euro im Jahr steigen – mehr Einkommen bleibt steuerfrei. Noch nicht endgültig beschlossen.",
+          "en": "Draft law: the tax-free allowance (Grundfreibetrag) is set to rise from €12,348 to €12,564 a year in 2027, so more income stays tax-free. Not yet finally passed.",
+          "uk": "Законопроєкт: неоподатковуваний мінімум (Grundfreibetrag) у 2027 році має зрости з 12 348 до 12 564 євро на рік — більша частина доходу залишиться без податку. Ще остаточно не ухвалено.",
+          "tr": "Yasa tasarısı: Vergiden muaf tutar (Grundfreibetrag) 2027'de yıllık 12.348 Euro'dan 12.564 Euro'ya çıkacak – gelirin daha büyük kısmı vergisiz kalacak. Henüz kesinleşmedi.",
+          "fa": "طرح قانونی: درآمد معاف از مالیات (Grundfreibetrag) در 2027 از 12.348 به 12.564 یورو در سال می‌رسد و بخش بیشتری از درآمد بدون مالیات می‌ماند. هنوز به‌طور نهایی تصویب نشده است.",
+          "ru": "Законопроект: необлагаемый минимум (Grundfreibetrag) в 2027 году должен вырасти с 12 348 до 12 564 евро в год — больше дохода останется без налога. Окончательно ещё не принят.",
+          "visible": true,
+          "date": "15.11.2026"
+        },
+        {
+          "ar": "مشروع قانون Wohngeld لسنة 2027: لا زيادة في يناير 2027، وجزء التدفئة داخل الحساب ينخفض إلى النصف. وحسب المشروع: من يقدّم طلبه حتى 31 ديسمبر 2026 يأخذ خلال فترة القرار المبلغ القديم على الأقل. لم يُقرّ نهائياً بعد.",
+          "de": "Gesetzentwurf zum Wohngeld 2027: keine Erhöhung im Januar 2027, die Heizkostenkomponente wird halbiert. Laut Entwurf gilt: Wer bis 31. Dezember 2026 beantragt, bekommt im Bewilligungszeitraum mindestens den bisherigen Betrag. Noch nicht endgültig beschlossen.",
+          "en": "Draft law on Wohngeld 2027: no increase in January 2027, and the heating cost component is halved. According to the draft, anyone who applies by 31 December 2026 keeps at least the old amount for the approval period. Not yet finally passed.",
+          "uk": "Законопроєкт щодо Wohngeld 2027: без підвищення в січні 2027 року, а складова на опалення зменшується вдвічі. За проєктом, хто подасть заяву до 31 грудня 2026 року, отримуватиме в період рішення щонайменше колишню суму. Ще остаточно не ухвалено.",
+          "tr": "Wohngeld 2027 yasa tasarısı: Ocak 2027'de artış yok, ısınma payı yarıya iniyor. Tasarıya göre 31 Aralık 2026'ya kadar başvuran, onay süresi boyunca en az eski tutarı alır. Henüz kesinleşmedi.",
+          "fa": "طرح قانونی Wohngeld برای 2027: در ژانویه 2027 افزایشی نیست و سهم هزینه گرمایش نصف می‌شود. طبق طرح، هر کس تا 31 دسامبر 2026 درخواست بدهد، در دوره تصمیم دست‌کم همان مبلغ قبلی را می‌گیرد. هنوز به‌طور نهایی تصویب نشده است.",
+          "ru": "Законопроект о Wohngeld на 2027 год: повышения в январе 2027 не будет, а компонент на отопление сократят вдвое. По проекту, кто подаст заявление до 31 декабря 2026 года, сохранит на период решения как минимум прежнюю сумму. Окончательно ещё не принят.",
+          "visible": true,
+          "date": "15.11.2026"
+        },
+        {
+          "ar": "من 1 يناير 2027: من يقدّم Steuererklärung عبر ELSTER يصله قرار الضريبة (Steuerbescheid) إلكترونياً فقط في حسابه، بلا رسالة ورقية. مهلة الاعتراض شهر واحد تبدأ بعد أيام قليلة من وضعه في الحساب، فافتح حسابك بانتظام. من يريد الورق يطلبه في ELSTER.",
+          "de": "Ab 1. Januar 2027: Wer die Steuererklärung über ELSTER abgibt, bekommt den Steuerbescheid nur noch digital ins ELSTER-Postfach, ohne Brief. Die einmonatige Einspruchsfrist beginnt wenige Tage nach der Bereitstellung – schau regelmäßig nach. Papier kann man in ELSTER beantragen.",
+          "en": "From 1 January 2027: if you file your tax return via ELSTER, your tax assessment (Steuerbescheid) arrives only digitally in your ELSTER account, with no letter. The one-month objection period starts a few days after it is made available – check your account regularly. You can request paper in ELSTER.",
+          "uk": "З 1 січня 2027 року: хто подає Steuererklärung через ELSTER, отримує податкове рішення (Steuerbescheid) лише в електронному вигляді в акаунті ELSTER, без листа. Місячний строк на заперечення починається через кілька днів після надходження — регулярно перевіряйте акаунт. Паперову версію можна замовити в ELSTER.",
+          "tr": "1 Ocak 2027'den itibaren: Vergi beyannamesini ELSTER üzerinden veren, vergi kararını (Steuerbescheid) mektup olmadan yalnızca dijital olarak ELSTER hesabına alır. Bir aylık itiraz süresi, hesaba konulduktan birkaç gün sonra başlar – hesabını düzenli kontrol et. Kâğıt istersen ELSTER'den talep edebilirsin.",
+          "fa": "از 1 ژانویه 2027: هر کس Steuererklärung را از طریق ELSTER بدهد، تصمیم مالیاتی (Steuerbescheid) را فقط به‌صورت دیجیتال در حساب ELSTER می‌گیرد، بدون نامه کاغذی. مهلت یک‌ماهه اعتراض چند روز پس از قرار گرفتن در حساب شروع می‌شود؛ حساب خود را مرتب نگاه کنید. نسخه کاغذی را می‌توان در ELSTER درخواست کرد.",
+          "ru": "С 1 января 2027 года: кто подаёт Steuererklärung через ELSTER, получает налоговое решение (Steuerbescheid) только в электронном виде в аккаунте ELSTER, без письма. Месячный срок на возражение начинается через несколько дней после поступления — регулярно проверяйте аккаунт. Бумажную версию можно запросить в ELSTER.",
+          "visible": true,
+          "date": "15.11.2026"
+        },
+        {
+          "ar": "Mütterrente III: من 1 يناير 2027 تُحسب 3 سنوات تربية بدل سنتين ونصف لكل طفل وُلد قبل 1992، أي نحو 20 يورو إضافية في الشهر لكل طفل. الصرف يبدأ في 2028 بأثر رجعي، ومعظم المتقاعدين لا يحتاجون إلى طلب. القانون مُقرّ.",
+          "de": "Mütterrente III: Ab 1. Januar 2027 zählen für vor 1992 geborene Kinder 3 statt 2,5 Jahre Erziehungszeit – rund 20 Euro mehr Rente im Monat pro Kind. Ausgezahlt wird ab 2028 rückwirkend, die meisten Rentner müssen nichts beantragen. Das Gesetz ist beschlossen.",
+          "en": "Mütterrente III: from 1 January 2027, 3 instead of 2.5 years of child-raising time count for children born before 1992 – about €20 more pension per month per child. Payment starts in 2028 retroactively, and most pensioners need not apply. The law has been passed.",
+          "uk": "Mütterrente III: з 1 січня 2027 року за дітей, народжених до 1992 року, зараховують 3 роки виховання замість 2,5 — приблизно на 20 євро більше пенсії на місяць за кожну дитину. Виплата почнеться у 2028 році заднім числом, більшості пенсіонерів не потрібна заява. Закон ухвалено.",
+          "tr": "Mütterrente III: 1 Ocak 2027'den itibaren 1992'den önce doğan çocuklar için 2,5 yerine 3 yıl çocuk bakım süresi sayılıyor – çocuk başına ayda yaklaşık 20 Euro daha fazla emekli maaşı. Ödeme 2028'de geriye dönük başlıyor, çoğu emeklinin başvurması gerekmiyor. Yasa kabul edildi.",
+          "fa": "Mütterrente III: از 1 ژانویه 2027 برای فرزندانی که پیش از 1992 به دنیا آمده‌اند 3 سال به جای 2,5 سال زمان تربیت حساب می‌شود؛ حدود 20 یورو مستمری بیشتر در ماه برای هر فرزند. پرداخت از 2028 با اثر عطف‌به‌ماسبق شروع می‌شود و بیشتر بازنشستگان نیازی به درخواست ندارند. قانون تصویب شده است.",
+          "ru": "Mütterrente III: с 1 января 2027 года за детей, рождённых до 1992 года, засчитывают 3 года воспитания вместо 2,5 — примерно на 20 евро больше пенсии в месяц за каждого ребёнка. Выплата начнётся в 2028 году задним числом, большинству пенсионеров не нужно подавать заявление. Закон принят.",
+          "visible": true,
+          "date": "15.11.2026"
+        },
+        {
+          "ar": "للمسافرين إلى النمسا بالسيارة: من 2027 لا يوجد ملصق Vignette، فقط Vignette رقمية مرتبطة برقم السيارة. ملصق 2026 صالح حتى 31 يناير 2027. اشترِها من ASFINAG أو نقاط بيعها الرسمية، واحذر المواقع المزيفة.",
+          "de": "Für Autofahrten nach Österreich: Ab dem Vignettenjahr 2027 gibt es keine Klebevignette mehr, nur noch die Digitale Vignette, die ans Kennzeichen gebunden ist. Die Klebevignette 2026 gilt bis 31. Januar 2027. Kauf nur bei der ASFINAG oder ihren offiziellen Verkaufsstellen – Vorsicht vor Fake-Seiten.",
+          "en": "Driving to Austria: from the 2027 vignette year there is no sticker anymore, only the digital vignette linked to your number plate. The 2026 sticker is valid until 31 January 2027. Buy only from ASFINAG or its official sales points – beware of fake websites.",
+          "uk": "Для поїздок до Австрії автомобілем: з 2027 року наклейки Vignette більше немає, лише цифрова Vignette, прив'язана до номера авто. Наклейка 2026 року дійсна до 31 січня 2027. Купуйте лише в ASFINAG або в її офіційних пунктах продажу — остерігайтеся фальшивих сайтів.",
+          "tr": "Arabayla Avusturya'ya gidenler için: 2027 vinyet yılından itibaren yapışkan Vignette yok, yalnızca plakaya bağlı dijital Vignette var. 2026 yapışkanı 31 Ocak 2027'ye kadar geçerli. Yalnızca ASFINAG'dan veya resmi satış noktalarından al – sahte sitelere dikkat.",
+          "fa": "برای سفر با خودرو به اتریش: از سال وینیت 2027 برچسب Vignette وجود ندارد و فقط Vignette دیجیتال مرتبط با پلاک خودرو هست. برچسب 2026 تا 31 ژانویه 2027 اعتبار دارد. فقط از ASFINAG یا فروشگاه‌های رسمی آن بخرید و مراقب سایت‌های جعلی باشید.",
+          "ru": "Для поездок в Австрию на машине: с 2027 года наклейки Vignette больше нет, только цифровая Vignette, привязанная к номеру автомобиля. Наклейка 2026 года действует до 31 января 2027. Покупайте только у ASFINAG или в её официальных пунктах продажи — остерегайтесь поддельных сайтов.",
+          "visible": true,
+          "date": "15.11.2026"
+        },
+        {
+          "ar": "هنا ننشر الأخبار العاجلة والتحذيرات المهمة.",
+          "de": "Hier veröffentlichen wir dringende Meldungen und wichtige Warnungen.",
+          "en": "Here we publish urgent news and important warnings.",
+          "uk": "Тут ми публікуємо термінові новини та важливі попередження.",
+          "tr": "Acil haberleri ve önemli uyarıları burada yayınlıyoruz.",
+          "fa": "اخبار فوری و هشدارهای مهم را اینجا منتشر می‌کنیم.",
+          "ru": "Здесь мы публикуем срочные новости и важные предупреждения.",
           "visible": true,
           "date": "18.06.2026"
         }
@@ -872,24 +982,24 @@
       "visible": true,
       "items": [
         {
-          "title_ar": "نظام المدارس في المانيا * شرح عربي - مدبلج لكل اللغات *",
-          "title_de": "Schulsystem in Deutschland * Arabische Erklärung - für alle Sprachen synchronisiert *",
-          "title_en": "School system in Germany * Arabic explanation - dubbed for all languages *",
-          "title_uk": "Шкільна система в Німеччині * Арабське пояснення - дубльоване для всіх мов *",
-          "title_tr": "Almanya'daki okul sistemi * Arapça açıklama - tüm diller için dublajlı *",
-          "title_fa": "سیستم مدارس آلمان * توضیح به زبان عربی - دوبله شده به همه زبان‌ها *",
-          "title_ru": "Школьная система в Германии * Объяснение на арабском языке - дублируется для всех языков *",
+          "title_ar": "نظام المدارس في ألمانيا * شرح عربي، مدبلج لكل اللغات *",
+          "title_de": "Schulsystem in Deutschland * auf Arabisch erklärt, in alle Sprachen synchronisiert *",
+          "title_en": "School system in Germany * explained in Arabic, dubbed into all languages *",
+          "title_uk": "Шкільна система в Німеччині * пояснення арабською, дубльовано всіма мовами *",
+          "title_tr": "Almanya'da okul sistemi * Arapça anlatım, tüm dillere dublajlı *",
+          "title_fa": "نظام مدارس در آلمان * توضیح به عربی، دوبله‌شده به همه زبان‌ها *",
+          "title_ru": "Школьная система в Германии * объяснение на арабском, дублировано на все языки *",
           "visible": true,
           "url": "https://youtu.be/97BXEz6o2rE"
         },
         {
-          "title_ar": "50 سؤال بإمتحان الجنسية الألمانيه * شرح عربي *",
-          "title_de": "50 Fragen zur Prüfung zur deutschen Staatsbürgerschaft * Arabische Erklärung *",
-          "title_en": "50 questions on the German citizenship exam * Arabic explanation *",
-          "title_uk": "50 запитань на іспиті з німецького громадянства * Арабське пояснення *",
-          "title_tr": "Alman vatandaşlığı sınavına ilişkin 50 soru * Arapça açıklama *",
-          "title_fa": "۵۰ سوال از آزمون شهروندی آلمان * توضیحات عربی *",
-          "title_ru": "50 вопросов на экзамене по немецкому гражданству * Арабское объяснение *",
+          "title_ar": "50 سؤالاً من اختبار الجنسية الألمانية * شرح عربي *",
+          "title_de": "50 Fragen aus dem Einbürgerungstest * auf Arabisch erklärt *",
+          "title_en": "50 questions from the German citizenship test * explained in Arabic *",
+          "title_uk": "50 питань з тесту на громадянство Німеччини * пояснення арабською *",
+          "title_tr": "Alman vatandaşlık testinden 50 soru * Arapça anlatım *",
+          "title_fa": "50 سؤال از آزمون شهروندی آلمان * توضیح به عربی *",
+          "title_ru": "50 вопросов из теста на немецкое гражданство * объяснение на арабском *",
           "visible": true,
           "url": "https://youtu.be/5Wwq6RTMdb4?si=trLjBFsFndJqd5yY"
         },
@@ -911,12 +1021,12 @@
       "items": [
         {
           "name_ar": "تعليم اللغة الألمانية * شرح عربي *",
-          "name_de": "Deutsch unterrichten * Arabische Erklärung *",
-          "name_en": "Teaching German * Arabic Explanation *",
-          "name_uk": "Викладання німецької * Арабська пояснення *",
-          "name_tr": "Almanca Öğretimi * Arapça Açıklama *",
-          "name_fa": "یادگیری آلمانی * توضیحات عربی *",
-          "name_ru": "Преподавание немецкого языка * Арабское объяснение *",
+          "name_de": "Deutsch lernen * auf Arabisch erklärt *",
+          "name_en": "Learn German * explained in Arabic *",
+          "name_uk": "Вивчення німецької * пояснення арабською *",
+          "name_tr": "Almanca öğren * Arapça anlatım *",
+          "name_fa": "یادگیری آلمانی * توضیح به عربی *",
+          "name_ru": "Изучение немецкого языка * объяснение на арабском *",
           "visible": true,
           "url": "https://youtu.be/kqQFryAIfTQ?si=kzEjYCOjuayCdJHy"
         }
@@ -927,17 +1037,17 @@
       "items": [
         {
           "name": "CDU",
-          "url": "",
+          "url": "https://www.cdu.de",
           "visible": true
         },
         {
           "name": "CSU",
-          "url": "",
+          "url": "https://www.csu.de",
           "visible": true
         },
         {
           "name": "SPD",
-          "url": "",
+          "url": "https://www.spd.de",
           "visible": true
         }
       ]
