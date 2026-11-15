@@ -7,56 +7,111 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "13.11.2026 00:00"
+    "last_updated": "15.11.2026 05:41"
   },
   "gold": {
     "k24": 117.31,
     "k21": 102.64,
     "k18": 87.98,
-    "updatedAt": "13.11.2026 00:00"
+    "updatedAt": "15.11.2026 05:41"
   },
   "news": [
     {
-      "ar": "ابتداء من الشهر القادم ستبدأ رحلات طيران  مباشرة من المانيا الى العراق .",
-      "de": "Ab nächsten Monat starten Direktflüge von Deutschland in den Irak .",
+      "ar": "سعر Deutschlandticket يرتفع إلى 66,80 يورو شهرياً من 1 يناير 2027 بدل 63 يورو.",
+      "de": "Das Deutschlandticket kostet ab 1. Januar 2027 66,80 Euro im Monat statt 63 Euro.",
+      "en": "From 1 January 2027 the Deutschlandticket costs €66.80 a month instead of €63.",
+      "uk": "З 1 січня 2027 року Deutschlandticket коштуватиме 66,80 євро на місяць замість 63 євро.",
+      "tr": "Deutschlandticket 1 Ocak 2027'den itibaren aylık 63 yerine 66,80 Euro olacak.",
+      "fa": "قیمت Deutschlandticket از 1 ژانویه 2027 به جای 63 یورو، ماهانه 66,80 یورو می‌شود.",
+      "ru": "С 1 января 2027 года Deutschlandticket будет стоить 66,80 евро в месяц вместо 63 евро.",
+      "date": "15.11.2026",
+      "visible": true
+    },
+    {
+      "ar": "الحد الأدنى للأجور يصبح 14,60 يورو للساعة من 1 يناير 2027، ويرتفع حد Minijob إلى 633 يورو شهرياً.",
+      "de": "Ab 1. Januar 2027 steigt der Mindestlohn auf 14,60 Euro pro Stunde und die Minijob-Grenze auf 633 Euro im Monat.",
+      "en": "From 1 January 2027 the minimum wage rises to €14.60 an hour and the Minijob limit to €633 a month.",
+      "uk": "З 1 січня 2027 року мінімальна оплата праці зросте до 14,60 євро за годину, а межа Minijob – до 633 євро на місяць.",
+      "tr": "1 Ocak 2027'den itibaren asgari ücret saatte 14,60 Euro'ya, Minijob sınırı ayda 633 Euro'ya çıkıyor.",
+      "fa": "از 1 ژانویه 2027 حداقل دستمزد به 14,60 یورو در ساعت و سقف Minijob به 633 یورو در ماه می‌رسد.",
+      "ru": "С 1 января 2027 года минимальная оплата труда вырастет до 14,60 евро в час, а предел Minijob – до 633 евро в месяц.",
+      "date": "15.11.2026",
+      "visible": true
+    },
+    {
+      "ar": "Deutsche Post: سعر طابع الرسالة العادية سيصبح 1,15 يورو بدل 95 سنتاً من 1 يناير 2027.",
+      "de": "Deutsche Post: Ab 1. Januar 2027 soll ein Standardbrief 1,15 Euro statt 95 Cent kosten.",
+      "en": "Deutsche Post: from 1 January 2027 a standard letter is set to cost €1.15 instead of 95 cents.",
+      "uk": "Deutsche Post: з 1 січня 2027 року стандартний лист має коштувати 1,15 євро замість 95 центів.",
+      "tr": "Deutsche Post: 1 Ocak 2027'den itibaren standart mektup 95 sent yerine 1,15 Euro olacak.",
+      "fa": "Deutsche Post: از 1 ژانویه 2027 هزینه پست نامه عادی به جای 95 سنت، 1,15 یورو می‌شود.",
+      "ru": "Deutsche Post: с 1 января 2027 года стандартное письмо должно стоить 1,15 евро вместо 95 центов.",
+      "date": "15.11.2026",
+      "visible": true
+    },
+    {
+      "ar": "من حصل على رخصة القيادة البلاستيكية بين 2002 و2004 يجب أن يبدّلها قبل 19 يناير 2027، وإلا قد يدفع غرامة 10 يورو.",
+      "de": "Wer seinen Kartenführerschein zwischen 2002 und 2004 bekommen hat, muss ihn bis 19. Januar 2027 umtauschen – sonst droht ein Verwarngeld von 10 Euro.",
+      "en": "Plastic driving licences issued between 2002 and 2004 must be exchanged by 19 January 2027 – otherwise a €10 fine may apply.",
+      "uk": "Пластикові посвідчення водія, видані у 2002–2004 роках, потрібно обміняти до 19 січня 2027 року – інакше можливий штраф 10 євро.",
+      "tr": "2002–2004 yılları arasında verilen kart ehliyetler 19 Ocak 2027'ye kadar değiştirilmeli – aksi halde 10 Euro ceza uygulanabilir.",
+      "fa": "گواهینامه‌های کارتی صادرشده بین 2002 تا 2004 باید تا 19 ژانویه 2027 تعویض شوند، وگرنه ممکن است 10 یورو جریمه شوید.",
+      "ru": "Пластиковые водительские права, выданные в 2002–2004 годах, нужно обменять до 19 января 2027 года – иначе возможен штраф 10 евро.",
+      "date": "15.11.2026",
+      "visible": true
+    },
+    {
+      "ar": "متوسط Zusatzbeitrag للتأمين الصحي يبقى 2,9% في 2027، لكن كل صندوق يحدد نسبته بنفسه، وإذا رفعها صندوقك يحق لك الانتقال إلى صندوق آخر.",
+      "de": "Der durchschnittliche Zusatzbeitrag der Krankenkassen bleibt 2027 bei 2,9 % – jede Kasse legt ihren Satz aber selbst fest. Erhöht deine Kasse, darfst du wechseln.",
+      "en": "The average health insurance Zusatzbeitrag stays at 2.9% in 2027, but each fund sets its own rate. If yours raises it, you may switch.",
+      "uk": "Середній Zusatzbeitrag медичних кас у 2027 році залишиться 2,9 %, але кожна каса встановлює свою ставку. Якщо ваша каса її підвищить, ви можете перейти в іншу.",
+      "tr": "Sağlık sigortası ortalama Zusatzbeitrag oranı 2027'de %2,9'da kalıyor, ama her kasa kendi oranını belirliyor. Kasan oranı artırırsa değiştirebilirsin.",
+      "fa": "میانگین Zusatzbeitrag بیمه درمانی در 2027 همان 2,9 درصد می‌ماند، اما هر صندوق نرخ خودش را تعیین می‌کند و اگر صندوقت آن را بالا ببرد، می‌توانی صندوق را عوض کنی.",
+      "ru": "Средний Zusatzbeitrag больничных касс в 2027 году останется 2,9 %, но каждая касса устанавливает свою ставку. Если ваша касса её повысит, можно перейти в другую.",
+      "date": "15.11.2026",
+      "visible": true
+    },
+    {
+      "ar": "ابتداءً من الشهر القادم ستبدأ رحلات طيران مباشرة من ألمانيا إلى العراق.",
+      "de": "Ab nächstem Monat starten Direktflüge von Deutschland in den Irak.",
       "en": "Starting next month, direct flights from Germany to Iraq will begin.",
-      "uk": "З наступного місяця почнуться прямі рейси з Німеччини до Іраку .",
+      "uk": "З наступного місяця почнуться прямі рейси з Німеччини до Іраку.",
       "tr": "Önümüzdeki aydan itibaren Almanya'dan Irak'a direkt uçuşlar başlayacak.",
       "fa": "از ماه آینده پروازهای مستقیم از آلمان به عراق آغاز خواهد شد.",
-      "ru": "Со следующего месяца начнутся прямые рейсы из Германии в Ирак .",
+      "ru": "Со следующего месяца начнутся прямые рейсы из Германии в Ирак.",
       "date": "21.10.2026",
       "visible": true
     },
     {
-      "ar": "تشديد جديد على امتحان B1 و صعوبة النجاح",
-      "de": "Neue Betonung der B1-Prüfung und der Schwierigkeit des Bestehens",
-      "en": "New emphasis on the B1 exam and the difficulty of passing",
-      "uk": "Новий акцент на іспиті В1 та складності складання",
-      "tr": "B1 sınavına yeni vurgu ve geçme zorluğu",
-      "fa": "تأکید جدید بر آزمون B1 و دشواری قبولی در آن",
-      "ru": "Новый акцент на экзамене B1 и сложности сдачи",
+      "ar": "تشديد جديد على امتحان B1 وصعوبة النجاح فيه",
+      "de": "Strengere Regeln für die B1-Prüfung – das Bestehen wird schwieriger",
+      "en": "Stricter rules for the B1 exam – passing is getting harder",
+      "uk": "Суворіші правила іспиту B1 – скласти його стає важче",
+      "tr": "B1 sınavında yeni sıkılaştırma – geçmek zorlaşıyor",
+      "fa": "سخت‌گیری تازه در آزمون B1 و دشوارتر شدن قبولی",
+      "ru": "Ужесточение экзамена B1 – сдать его становится сложнее",
       "date": "21.10.2026",
       "visible": true
     },
     {
-      "ar": "زيادة قريبه بحد الدعم للعودة الطوعيه",
-      "de": "Der Anstieg liegt nahe an der Grenze der Unterstützung für die freiwillige Rückkehr",
-      "en": "Increase is close to the limit of support for voluntary return",
-      "uk": "Збільшення близьке до ліміту підтримки добровільного повернення",
-      "tr": "Artış, gönüllü geri dönüş için destek sınırına yakın",
-      "fa": "افزایش تقریباً فوری سقف حمایتی برای بازگشت داوطلبانه.",
-      "ru": "Увеличение близко к пределу поддержки добровольного возвращения",
+      "ar": "زيادة قريبة في مبلغ الدعم للعودة الطوعية",
+      "de": "Die Unterstützung für die freiwillige Rückkehr soll bald erhöht werden",
+      "en": "Support for voluntary return is set to increase soon",
+      "uk": "Найближчим часом збільшать підтримку для добровільного повернення",
+      "tr": "Gönüllü geri dönüş desteği yakında artırılacak",
+      "fa": "افزایش قریب‌الوقوع مبلغ حمایت برای بازگشت داوطلبانه",
+      "ru": "Поддержку для добровольного возвращения скоро увеличат",
       "date": "09.09.2026",
       "visible": true
     },
     {
-      "ar": "تغييرات جديده بضريبة الدخل , دراسة تخفيضها على ذوي الدخل المنخفض",
-      "de": "Neue Änderungen der Einkommensteuer , Untersuchung ihrer Reduzierung bei Menschen mit niedrigem Einkommen",
-      "en": "New changes to income tax, studying its reduction on low-income people",
-      "uk": "Нові зміни до податку на прибуток , вивчення його зменшення на малозабезпечених",
-      "tr": "Gelir vergisinde yapılan yeni değişiklikler, düşük gelirli insanlar üzerindeki azaltımı inceliyor",
+      "ar": "تغييرات جديدة في ضريبة الدخل، ودراسة تخفيضها لذوي الدخل المنخفض",
+      "de": "Neue Änderungen bei der Einkommensteuer – eine Senkung für Geringverdiener wird geprüft",
+      "en": "New income tax changes – a cut for low earners is being considered",
+      "uk": "Нові зміни податку на доходи – розглядають зниження для людей з низькими доходами",
+      "tr": "Gelir vergisinde yeni değişiklikler – düşük gelirliler için indirim inceleniyor",
       "fa": "تغییرات جدید در مالیات بر درآمد؛ مطالعه‌ای برای کاهش آن برای افراد کم‌درآمد در حال انجام است.",
-      "ru": "Новые изменения в подоходном налоге, изучение его снижения на малообеспеченных",
+      "ru": "Новые изменения подоходного налога – рассматривается снижение для людей с низкими доходами",
       "date": "03.09.2026",
       "visible": true
     },
@@ -69,7 +124,7 @@
       "fa": "انتظار می‌رود بالاترین دمای ثبت‌شده تاکنون در ماه ژوئن ثبت شود.",
       "ru": "Ожидается, что температура июня достигнет рекордных максимумов",
       "date": "26.06.2026",
-      "visible": true
+      "visible": false
     },
     {
       "ar": "هيئة الرقابة الألمانيه تجري تحقيق على شركة Zalendo",
@@ -80,7 +135,7 @@
       "fa": "سازمان نظارتی آلمان در حال بررسی زالندو است.",
       "ru": "Немецкий надзорный орган проводит расследование в отношении Zalendo",
       "date": "13.06.2026",
-      "visible": true
+      "visible": false
     },
     {
       "ar": "تحذيرات من الاستخدام المفرط لواقي الشمس",
@@ -91,7 +146,7 @@
       "fa": "هشدار در مورد استفاده بیش از حد از کرم ضد آفتاب",
       "ru": "Предупреждения о чрезмерном использовании солнцезащитного крема",
       "date": "26.06.2026",
-      "visible": true
+      "visible": false
     },
     {
       "ar": "بعد الارتفاع الكبير بدأت تنخفض اسعار الديزل",
@@ -102,7 +157,7 @@
       "fa": "پس از افزایش قابل توجه، قیمت دیزل شروع به کاهش کرد.",
       "ru": "После большого роста цены на дизельное топливо начали падать",
       "date": "12.06.2026",
-      "visible": true
+      "visible": false
     },
     {
       "ar": "قد تصل الخسائر في شركة فولكس فاكن الى 100 الف وظيفة",
@@ -113,42 +168,42 @@
       "fa": "ضرر و زیان در فولکس واگن می‌تواند به ۱۰۰ هزار شغل برسد.",
       "ru": "Volkswagen может потерять до 100 000 рабочих мест",
       "date": "12.06.2026",
-      "visible": true
+      "visible": false
     }
   ],
   "promo": {
-    "ar": "فريق OK PLUS يتمنى ان تستمتعوا بكل خدمات التطبيق , الرجاء مشاركة وتقييم التطبيق على المتجر 💐",
-    "de": "Das OK PLUS-Team hofft, dass Sie alle Dienste der Anwendung genießen werden. Bitte teilen und bewerten Sie die Anwendung im Store 💐",
-    "en": "The OK plus team hopes that you will enjoy all the services of the application , please share and evaluate the application on the store 💐",
-    "uk": "Команда ОК плюс сподівається, що вам сподобаються всі сервіси додатку , будь ласка, поділіться та оцініть додаток в магазині 💐",
-    "tr": "OK Plus ekibi, uygulamanın tüm hizmetlerinden yararlanacağınızı umuyor, lütfen uygulamayı mağazada paylaşın ve değerlendirin 💐",
+    "ar": "فريق OK PLUS يتمنى أن تستمتعوا بكل خدمات التطبيق، الرجاء مشاركة التطبيق وتقييمه في المتجر 💐",
+    "de": "Das OK PLUS-Team hofft, dass dir alle Funktionen der App gefallen. Bitte teile die App und bewerte sie im Store 💐",
+    "en": "The OK PLUS team hopes you enjoy all the features of the app. Please share the app and rate it in the store 💐",
+    "uk": "Команда OK PLUS сподівається, що вам сподобаються всі функції застосунку. Будь ласка, поділіться застосунком і оцініть його в магазині 💐",
+    "tr": "OK PLUS ekibi, uygulamanın tüm özelliklerini beğenmeni umuyor. Lütfen uygulamayı paylaş ve mağazada değerlendir 💐",
     "fa": "تیم OK PLUS امیدوار است از تمام خدمات برنامه لذت ببرید. لطفاً برنامه را در فروشگاه به اشتراک بگذارید و به آن امتیاز دهید 💐",
-    "ru": "Команда ОК плюс надеется, что вам понравятся все сервисы приложения , поделитесь и оцените приложение в магазине 💐",
+    "ru": "Команда OK PLUS надеется, что вам понравятся все функции приложения. Пожалуйста, поделитесь приложением и оцените его в магазине 💐",
     "visible": true,
     "active": true
   },
   "youtube": {
     "url": "https://youtu.be/aucYLAWRRT8",
-    "title_ar": "تعبئة طلب kinderzuschlag",
-    "title_de": "Füllen Sie einen Kinderzuschlagsantrag aus",
-    "title_en": "Fill out a kinderzuschlag application",
-    "title_uk": "Заповніть заявку kinderzuschlag",
-    "title_tr": "Bir kinderzuschlag başvurusu doldurun",
-    "title_fa": "پر کردن درخواست kinderzuschlag",
-    "title_ru": "Заполните заявку kinderzuschlag",
+    "title_ar": "تعبئة طلب Kinderzuschlag",
+    "title_de": "Kinderzuschlag-Antrag ausfüllen",
+    "title_en": "Filling out the Kinderzuschlag application",
+    "title_uk": "Заповнення заяви на Kinderzuschlag",
+    "title_tr": "Kinderzuschlag başvurusu nasıl doldurulur",
+    "title_fa": "پر کردن درخواست Kinderzuschlag",
+    "title_ru": "Заполнение заявления на Kinderzuschlag",
     "visible": true
   },
   "global": {
     "alert": {
       "visible": true,
       "color": "green",
-      "ar": "نتمنى لكم يوم جميل - هنا تجد شرح البطاقات 👆",
-      "de": "Das Ok Plus Team wünscht Ihnen einen schönen Tag 💐",
-      "en": "The Ok Plus team wishes you a nice day 💐",
-      "uk": "Команда Ok Plus бажає вам гарного дня 💐",
-      "tr": "Ok Plus ekibi size iyi günler diler 💐",
-      "fa": "تیم اوکی پلاس روز خوبی را برای شما آرزو می‌کند 💐",
-      "ru": "Команда Ok Plus желает вам хорошего дня 💐"
+      "ar": "نتمنى لكم يوماً جميلاً - هنا تجد شرح البطاقات 👆",
+      "de": "Wir wünschen dir einen schönen Tag – hier findest du die Erklärung der Karten 👆",
+      "en": "Have a nice day – here you'll find the card explanations 👆",
+      "uk": "Гарного вам дня – тут ви знайдете пояснення карток 👆",
+      "tr": "İyi günler dileriz – kartların açıklamasını burada bulabilirsin 👆",
+      "fa": "روز خوبی داشته باشید – توضیح کارت‌ها را اینجا پیدا می‌کنید 👆",
+      "ru": "Хорошего вам дня – здесь вы найдёте объяснение карточек 👆"
     },
     "tips": [
       {
@@ -366,7 +421,7 @@
       "visible": true,
       "ar": "أهلا وسهلا بالجميع 💕",
       "de": "Willkommen, alle zusammen. 💕",
-      "en": "Hello, everybody.",
+      "en": "Welcome, everyone 💕",
       "uk": "Вітаємо всіх. 💕",
       "tr": "Hepiniz hoş geldiniz. 💕",
       "fa": "به همگی خوش اومدین 💕",
@@ -486,6 +541,294 @@
       "alert_tr": "",
       "alert_fa": "",
       "alert_ru": ""
+    },
+    "buergergeld": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "kindergeld": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "kinderzuschlag": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "unterhalt": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "schufa": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "currency": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "scanner": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "calendar": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "jobsuche": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "notes": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "expenses": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "phrases": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "notfall": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "prayer": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "links": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "wohnungsbewerbung": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "bewerbung": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "kuendigung": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "widerspruch": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "vollmacht": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "ratenzahlung": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "rente": {
+      "youtube_url": "",
+      "youtube_visible": false,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "beratungshilfe": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
+    },
+    "mietpreisbremse": {
+      "youtube_url": "",
+      "youtube_visible": true,
+      "alert": "",
+      "alert_visible": false,
+      "alert_de": "",
+      "alert_en": "",
+      "alert_uk": "",
+      "alert_tr": "",
+      "alert_fa": "",
+      "alert_ru": ""
     }
   },
   "pro": {
@@ -559,7 +902,7 @@
           "title_fa": "درخواست تابعیت آلمان",
           "title_ru": "Заявление на получение немецкого гражданства",
           "visible": true,
-          "url": "https://www.youtube.com/watch?v=iVv0ce_2lZg"
+          "url": "https://youtu.be/h_rfJJ5QQec"
         }
       ]
     },
@@ -614,12 +957,12 @@
         "title_fa": "OK Plus",
         "title_ru": "OK Plus",
         "desc_ar": "شروحات بالفيديو عن الحياة والمعاملات في ألمانيا",
-        "desc_de": "Video-Tutorials zum Leben und zu Transaktionen in Deutschland",
-        "desc_en": "Video tutorials about life and transactions in Germany",
-        "desc_uk": "Відеоінструкції про життя та взаємодію в Німеччині",
+        "desc_de": "Video-Erklärungen zum Leben und zu Behördengängen in Deutschland",
+        "desc_en": "Video guides about life and paperwork in Germany",
+        "desc_uk": "Відеоінструкції про життя та оформлення документів у Німеччині",
         "desc_tr": "Almanya'da yaşam ve işlemler hakkında video açıklamaları",
         "desc_fa": "ویدئوهای آموزشی درباره زندگی و امور روزمره در آلمان",
-        "desc_ru": "Видеоинструкции о жизни и деловых операциях в Германии",
+        "desc_ru": "Видеоинструкции о жизни и оформлении документов в Германии",
         "img": "links/l1794442864618_1794443009413.jpg",
         "yt": "",
         "visible": true
