@@ -7,15 +7,48 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "21.11.2026 11:23"
+    "last_updated": "24.11.2026 13:15"
   },
   "gold": {
-    "k24": 103.56,
-    "k21": 90.61,
-    "k18": 77.67,
-    "updatedAt": "21.11.2026 11:23"
+    "k24": 106.33,
+    "k21": 93.04,
+    "k18": 79.75,
+    "updatedAt": "24.11.2026 13:15"
   },
   "news": [
+    {
+      "ar": "القروض الصغيرة حتى 200 يورو، مثل «اشترِ الآن وادفع لاحقاً»، صارت تحت حماية المستهلك مثل باقي القروض.",
+      "de": "Kleinkredite bis 200 Euro, wie „Jetzt kaufen, später zahlen“, fallen jetzt wie alle anderen Kredite unter den Verbraucherschutz.",
+      "en": "Small loans of up to 200 euros, such as “Buy Now, Pay Later”, are now protected under consumer protection laws, just like other loans.",
+      "uk": "На мікропозики до 200 євро, такі як «купи зараз, заплати потім», тепер поширюється захист прав споживачів, як і на інші позики.",
+      "tr": "\"Şimdi satın al, sonra öde\" gibi 200 Euro'ya kadar olan küçük krediler, diğer krediler gibi tüketici koruması kapsamına alınmıştır.",
+      "fa": "وام‌های کوچک تا سقف 200 یورو، مانند «اکنون بخرید و بعداً پرداخت کنید»، مانند سایر وام‌ها تحت حمایت مصرف‌کننده قرار گرفتند.",
+      "ru": "На микрозаймы до 200 евро, такие как «Купи сейчас, заплати потом», распространяется защита прав потребителей, как и на остальные займы.",
+      "date": "24.11.2026",
+      "visible": true
+    },
+    {
+      "ar": "الاعتراف بشهادات الأطباء وأطباء الأسنان والصيادلة والقابلات من الخارج صار أسرع وأبسط ورقمياً، والشروط المهنية لم تتغير.",
+      "de": "Die Anerkennung von Berufsabschlüssen von Ärztinnen und Ärzten, Zahnärztinnen und Zahnärzten, Apothekerinnen und Apothekern sowie Hebammen aus dem Ausland ist jetzt schneller, einfacher und digital möglich. Die beruflichen Anforderungen haben sich nicht geändert.",
+      "en": "The recognition of qualifications of doctors, dentists, pharmacists and midwives from abroad has become faster, simpler and digital, and the professional requirements have not changed.",
+      "uk": "Визнання кваліфікації іноземних лікарів, стоматологів, фармацевтів та акушерок стало швидшим, простішим та цифровізованим, а професійні вимоги не змінилися.",
+      "tr": "Yurt dışından gelen doktor, diş hekimi, eczacı ve ebelerin diplomalarının tanınması artık daha hızlı, daha basit ve dijital hale gelmiştir. Mesleki şartlar ise değişmemiştir.",
+      "fa": "روند تأیید مدارک پزشکان، دندانپزشکان، داروسازان و ماماها از خارج از کشور سریع‌تر، ساده‌تر و دیجیتالی شده است و شرایط حرفه‌ای تغییر نکرده است.",
+      "ru": "Признание дипломов иностранных врачей, стоматологов, фармацевтов и акушерок стало быстрее, проще и осуществляется в цифровом формате, а профессиональные требования не изменились.",
+      "date": "24.11.2026",
+      "visible": true
+    },
+    {
+      "ar": "الطرود من خارج الاتحاد الأوروبي حتى 150 يورو: رسم 2 يورو لكل فئة بضاعة، فوق الرسم الجمركي الثابت 3 يورو.",
+      "de": "Pakete von außerhalb der EU bis 150 Euro: Gebühr von 2 Euro pro Warenkategorie, zusätzlich zum pauschalen Zoll von 3 Euro.",
+      "en": "Packages from outside the EU up to €150: a fee of €2 per category of goods, in addition to the fixed customs duty of €3.",
+      "uk": "Посилки з-за меж ЄС вартістю до 150 євро: збір у розмірі 2 євро за кожну категорію товарів, понад фіксований митний збір у розмірі 3 євро.",
+      "tr": "Avrupa Birliği dışından gelen ve değeri 150 Euro'ya kadar olan paketler: 3 Euro'luk sabit gümrük vergisine ek olarak her mal kategorisi için 2 Euro vergi.",
+      "fa": "بسته‌های ارسالی از خارج از اتحادیه اروپا تا ارزش 150 یورو: هزینه 2 یورو برای هر دسته از کالاها، علاوه بر هزینه ثابت گمرکی 3 یورو.",
+      "ru": "Посылки из-за пределов ЕС стоимостью до 150 евро: сбор в размере 2 евро за каждую категорию товаров в дополнение к фиксированной таможенной пошлине в размере 3 евро.",
+      "date": "24.11.2026",
+      "visible": true
+    },
     {
       "ar": "سعر Deutschlandticket يرتفع إلى 66,80 يورو شهرياً من 1 يناير 2027 بدل 63 يورو.",
       "de": "Das Deutschlandticket kostet ab 1. Januar 2027 66,80 Euro im Monat statt 63 Euro.",
