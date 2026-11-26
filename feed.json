@@ -7,15 +7,48 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "25.11.2026 13:25"
+    "last_updated": "26.11.2026 13:17"
   },
   "gold": {
-    "k24": 103.27,
-    "k21": 90.36,
-    "k18": 77.45,
-    "updatedAt": "25.11.2026 13:25"
+    "k24": 104.29,
+    "k21": 91.26,
+    "k18": 78.22,
+    "updatedAt": "26.11.2026 13:17"
   },
   "news": [
+    {
+      "ar": "من يقع في صعوبات مالية يستطيع الآن الاستعانة باستشارة ديون مستقلة غير ربحية.",
+      "de": "Wer in finanzielle Schwierigkeiten gerät, kann sich jetzt von einer unabhängigen, gemeinnützigen Schuldnerberatung unterstützen lassen.",
+      "en": "Those facing financial difficulties can now seek independent, non-profit debt counseling.",
+      "uk": "Ті, хто має фінансові труднощі, тепер можуть скористатися незалежною некомерційною консультацією з питань заборгованості.",
+      "tr": "Mali sıkıntı yaşayan kişiler artık kâr amacı gütmeyen bağımsız borç danışmanlığından yararlanabilirler.",
+      "fa": "افرادی که با مشکلات مالی مواجه هستند، اکنون می‌توانند از مشاوره بدهی مستقل و غیرانتفاعی استفاده کنند.",
+      "ru": "Те, кто испытывает финансовые трудности, теперь могут воспользоваться услугами независимой некоммерческой консультации по вопросам задолженности.",
+      "date": "26.11.2026",
+      "visible": true
+    },
+    {
+      "ar": "مشتركو Deutschlandticket: إذا طلبت منك شركة النقل الموافقة على السعر الجديد 66.80 يورو فوافق بنفسك، وإلا يتعدّل السعر تلقائياً من 1 يناير 2027.",
+      "de": "Deutschlandticket-Abonnenten: Wenn Ihr Verkehrsunternehmen Sie auffordert, dem neuen Preis von 66,80 Euro zuzustimmen, stimmen Sie selbst zu. Andernfalls wird der Preis ab dem 1. Januar 2027 automatisch angepasst.",
+      "en": "Deutschlandticket subscribers: If your transport company asks you to agree to the new price of €66.80, please do so yourself; otherwise, the price will be automatically adjusted from January 1, 2027.",
+      "uk": "Власники проїзного Deutschlandticket: якщо транспортна компанія попросить вас погодитися з новою ціною 66,80 євро, зробіть це самостійно, інакше ціна буде автоматично змінена з 1 січня 2027 року.",
+      "tr": "Deutschlandticket aboneleri: Ulaşım şirketi sizden yeni 66,80 Euro'luk fiyatı kabul etmenizi isterse kendiniz kabul edin, aksi takdirde fiyat 1 Ocak 2027'den itibaren otomatik olarak değişecektir.",
+      "fa": "دارندگان Deutschlandticket: اگر شرکت حمل‌ونقل از شما درخواست کرد که با قیمت جدید 66.80 یورو موافقت کنید، خودتان موافقت کنید، در غیر این صورت قیمت به‌طور خودکار از 1 ژانویه 2027 تغییر خواهد کرد.",
+      "ru": "Владельцы проездного Deutschlandticket: если транспортная компания попросит вас согласиться с новой ценой 66,80 евро, сделайте это самостоятельно, иначе цена будет автоматически изменена с 1 января 2027 года.",
+      "date": "26.11.2026",
+      "visible": true
+    },
+    {
+      "ar": "تذكرة العائلة من Deutsche Bahn صارت دائمة: شخص أو شخصان (15+) مع حتى 4 أطفال (6–14) ذهاباً وعودة بالقطارات السريعة داخل ألمانيا مع حجز المقاعد.",
+      "de": "Das Familienticket der Deutschen Bahn gibt es jetzt dauerhaft: Eine oder zwei Personen (ab 15 Jahren) mit bis zu 4 Kindern (6–14 Jahre) hin und zurück im Fernverkehr innerhalb Deutschlands, inklusive Sitzplatzreservierung.",
+      "en": "The Deutsche Bahn Family Ticket is now permanent: one or two adults (15+) with up to four children (6–14) for a round trip on high-speed trains within Germany, with seat reservations.",
+      "uk": "Сімейний квиток від Deutsche Bahn став постійним: одна або дві особи (віком від 15 років) з максимум 4 дітьми (віком від 6 до 14 років) можуть скористатися квитком туди й назад на швидкісні поїзди в межах Німеччини з бронюванням місць.",
+      "tr": "Deutsche Bahn'ın aile bileti kalıcı hale geldi: Almanya içinde hızlı trenlerle gidiş-dönüş, koltuk rezervasyonlu, bir veya iki kişi (15+) ve en fazla 4 çocuk (6-14).",
+      "fa": "بلیط خانوادگی دویچه بان (Deutsche Bahn) دائمی شد: یک یا دو نفر (بالای 15 سال) همراه با حداکثر 4 کودک (6 تا 14 سال) رفت و برگشت با قطارهای سریع‌السیر در داخل آلمان با رزرو صندلی.",
+      "ru": "Семейный билет Deutsche Bahn теперь действует постоянно: один или два взрослых (старше 15 лет) и до 4 детей (от 6 до 14 лет) могут совершить поездку туда и обратно на скоростных поездах по Германии с бронированием мест.",
+      "date": "26.11.2026",
+      "visible": true
+    },
     {
       "ar": "القروض الصغيرة حتى 200 يورو، مثل «اشترِ الآن وادفع لاحقاً»، صارت تحت حماية المستهلك مثل باقي القروض.",
       "de": "Kleinkredite bis 200 Euro, wie „Jetzt kaufen, später zahlen“, fallen jetzt wie alle anderen Kredite unter den Verbraucherschutz.",
