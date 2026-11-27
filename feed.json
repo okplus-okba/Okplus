@@ -7,15 +7,37 @@
       "tip",
       "youtube"
     ],
-    "last_updated": "26.11.2026 13:17"
+    "last_updated": "27.11.2026 11:14"
   },
   "gold": {
-    "k24": 104.29,
-    "k21": 91.26,
-    "k18": 78.22,
-    "updatedAt": "26.11.2026 13:17"
+    "k24": 107.91,
+    "k21": 94.42,
+    "k18": 80.93,
+    "updatedAt": "27.11.2026 11:14"
   },
   "news": [
+    {
+      "ar": "اشتراك التقاعد Rentenversicherung يبقى في 2027 بنسبة 18.6% من الراتب الإجمالي.",
+      "de": "Der Rentenversicherungsbeitrag bleibt 2027 bei 18,6 % des Bruttogehalts.",
+      "en": "The pension insurance contribution (Rentenversicherung) remains at 18.6% of gross salary in 2027.",
+      "uk": "Розмір внеску на пенсійне страхування (Rentenversicherung) у 2027 році залишається на рівні 18,6% від загальної заробітної плати.",
+      "tr": "Emeklilik sigortası primi (Rentenversicherung), 2027 yılında da brüt maaşın %18,6'sı olarak kalacaktır.",
+      "fa": "حق بیمه بازنشستگی (Rentenversicherung) در سال 2027 همچنان 18.6 درصد از حقوق ناخالص خواهد بود.",
+      "ru": "Взнос в пенсионное страхование (Rentenversicherung) в 2027 году останется на уровне 18,6% от общей суммы заработной платы.",
+      "date": "27.11.2026",
+      "visible": true
+    },
+    {
+      "ar": "قانون Kindergeld بلا طلب أُقرّ: من ربيع 2027 تحصل العائلات التي تأخذ Kindergeld على مبلغ المولود الجديد تلقائياً، وللطفل الأول من نهاية 2027. حتى ذلك الوقت قدّم الطلب كالمعتاد.",
+      "de": "Das Gesetz über das Kindergeld ohne Antrag wurde verabschiedet: Ab Frühjahr 2027 erhalten Familien, die Kindergeld beziehen, automatisch den Betrag für Neugeborene und ab Ende 2027 für das erste Kind. Bis dahin stellen Sie den Antrag wie gewohnt.",
+      "en": "The Kindergeld law without application has been approved: Starting in spring 2027, families receiving Kindergeld will automatically receive the newborn allowance, and for the first child, starting from the end of 2027. Until then, submit the application as usual.",
+      "uk": "Закон про автоматичне призначення допомоги на дітей (Kindergeld) без подання заяви було ухвалено: починаючи з весни 2027 року сім’ї, які отримують Kindergeld, автоматично отримуватимуть виплату на новонароджену дитину, а на першу дитину — з кінця 2027 року. До того часу подавайте заяву у звичному порядку.",
+      "tr": "Başvuru gerektirmeyen Kindergeld Yasası onaylandı: 2027 baharından itibaren Kindergeld alan aileler, yeni doğan çocuk için otomatik olarak ödeme alacak ve 2027'nin sonundan itibaren de ilk çocuk için ödeme alacaklardır. O zamana kadar başvuruyu her zamanki gibi yapın.",
+      "fa": "قانون Kindergeld بدون نیاز به درخواست تصویب شد: از بهار 2027، خانواده‌هایی که Kindergeld دریافت می‌کنند، به طور خودکار مبلغ مربوط به نوزاد تازه متولد شده را دریافت خواهند کرد و برای فرزند اول، این مبلغ از پایان سال 2027 پرداخت می‌شود. تا آن زمان، درخواست را طبق روال معمول ارسال کنید.",
+      "ru": "Утвержден закон о выплате пособия на детей (Kindergeld) без подачи заявления: начиная с весны 2027 года семьи, получающие Kindergeld, будут автоматически получать пособие на новорожденного, а с конца 2027 года — на первого ребенка. До этого времени подавайте заявление в обычном порядке.",
+      "date": "27.11.2026",
+      "visible": true
+    },
     {
       "ar": "من يقع في صعوبات مالية يستطيع الآن الاستعانة باستشارة ديون مستقلة غير ربحية.",
       "de": "Wer in finanzielle Schwierigkeiten gerät, kann sich jetzt von einer unabhängigen, gemeinnützigen Schuldnerberatung unterstützen lassen.",
